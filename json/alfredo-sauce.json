@@ -1,0 +1,80 @@
+ {
+  "recipeId": "d5baa7af-08da-46e2-9099-2e8a4f91c001",
+  "recipeName": "Alfredo Sauce",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.25
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1.5
+      },
+      "name": "Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "clove",
+        "value": 1
+      },
+      "name": "Garlic",
+      "notes": "crushed"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1.5
+      },
+      "name": "Parmesan Cheese",
+      "notes": "freshly grated"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.25
+      },
+      "name": "Parsley",
+      "notes": "chopped"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Melt the butter in a medium saucepan over medium low heat"
+    },
+    {
+      "id": 2,
+      "text": "Add milk and simmer for 5 minutes"
+    },
+    {
+      "id": 3,
+      "text": "Add garlic and cheese and whisk quickly, heating through"
+    },
+    {
+      "id": 4,
+      "text": "Stir in parsley and serve"
+    }
+  ],
+  "keywords": [
+    "sauce",
+    "cheese"
+  ]
+}
