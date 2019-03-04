@@ -1,0 +1,96 @@
+{
+  "recipeId": "db3c9c86-0fba-4bcc-a480-6737ca63fa2b",
+  "recipeName": "Applesauce",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "cup",
+    "value": 14
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 12
+      },
+      "name": "Apple",
+      "notes": "mixed varieties"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 2
+      },
+      "name": "Apple Cider",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pinch",
+        "value": 1
+      },
+      "name": "Nutmeg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "tablespoon",
+        "value": 2
+      },
+      "name": "Brown Sugar",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Peel and core the apples"
+    },
+    {
+      "id": 2,
+      "text": "Cut into wedges and place in ascorbic acid color keeper solution (or lemon juice and water solution)"
+    },
+    {
+      "id": 3,
+      "text": "Soak for 5 minutes"
+    },
+    {
+      "id": 4,
+      "text": "In a large (6-8 qt) saucepot, add the apple cider cinnamon, nutmeg, and the apples"
+    },
+    {
+      "id": 5,
+      "text": "Heat over medium-high heat until cider begins to boil"
+    },
+    {
+      "id": 6,
+      "text": "Reduce heat to low and simmer, covered, for 20-30 minutes (apples should be soft all the way through)"
+    },
+    {
+      "id": 7,
+      "text": "Mash the sauce with a potato masher or immersion blender to desired consistency"
+    },
+    {
+      "id": 8,
+      "text": "Add brown sugar to taste"
+    }
+  ],
+  "keywords": [
+    "apple",
+    "sauce"
+  ]
+}

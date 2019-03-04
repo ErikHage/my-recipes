@@ -1,0 +1,104 @@
+{
+  "recipeId": "5c09cd39-4cc6-4677-9c3b-25ecba6d9715",
+  "recipeName": "Apple Pie Filling",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 35
+  },
+  "yield": {
+    "kind": "serving",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Pie Crust",
+      "notes": "see pastry recipe"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 6
+      },
+      "name": "Apples",
+      "notes": "sliced"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "tablespoon",
+        "value": 1
+      },
+      "name": "Applejack",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Lemon",
+      "notes": "juiced"
+    },
+    {
+      "quantity": {
+        "kind": "tablespoon",
+        "value": 1
+      },
+      "name": "Butter",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Mix all ingredients, except butter, together in a large bowl"
+    },
+    {
+      "id": 2,
+      "text": "Pour mixture into pie crust"
+    },
+    {
+      "id": 3,
+      "text": "Dot the butter on top of the filling before covering"
+    },
+    {
+      "id": 4,
+      "text": "Bake 450F for 30-35 minutes"
+    }
+  ],
+  "keywords": [
+    "apple",
+    "pie"
+  ]
+}

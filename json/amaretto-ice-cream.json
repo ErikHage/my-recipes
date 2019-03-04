@@ -1,0 +1,92 @@
+{
+  "recipeId": "05931ba5-1b06-4499-8f3a-1277c4182108",
+  "recipeName": "Amaretto Ice Cream",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "yield": {
+    "kind": "quart",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1.5
+      },
+      "name": "Whole Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1.125
+      },
+      "name": "Granulated Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 3
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1.5
+      },
+      "name": "Pure Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 4
+      },
+      "name": "Amaretto Liqueur",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a medium mixing bowl, use a hand mixer on low speed to combine the milk and granulated sugar until the sugar is dissolved"
+    },
+    {
+      "id": 2,
+      "text": "Stir in the heavy cream and vanilla"
+    },
+    {
+      "id": 3,
+      "text": "Turn on the ice cream machine and pour in the cream mixture"
+    },
+    {
+      "id": 4,
+      "text": "Let the cream mixture mix until thickened, about 20-25 minutes "
+    },
+    {
+      "id": 5,
+      "text": "When the mixture is about 2-3 from finished, add the Amaretto (if you add it before the ice cream is mostly frozen it will hinder the freezing process)"
+    },
+    {
+      "id": 6,
+      "text": "The ice cream will have a soft, creamy texture when finished. If a firmer consistency is desired, transfer the ice cream to an airtight container and place in a freezer for about 2 hours"
+    },
+    {
+      "id": 7,
+      "text": "Remove from freezer about 15 minutes before serving"
+    }
+  ],
+  "keywords": [
+    "ice cream",
+    "amaretto"
+  ]
+}

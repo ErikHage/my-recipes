@@ -1,0 +1,124 @@
+{
+  "recipeId": "5a9fe4d1-3718-4425-8c2b-4cd96f1cfaaa",
+  "recipeName": "Almond Sour Cream Pound Cake",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 80
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 18
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Butter",
+      "notes": "softened"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 3
+      },
+      "name": "All Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 3
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Sour Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Large Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Orange Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Almond Extract",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat over to 325F"
+    },
+    {
+      "id": 2,
+      "text": "Butter and flour a tube pan"
+    },
+    {
+      "id": 3,
+      "text": "Cream the butter and sugar in an electric mixer"
+    },
+    {
+      "id": 4,
+      "text": "Add sour cream to creamed mixture"
+    },
+    {
+      "id": 5,
+      "text": "In a separate bowl, sift together the flour and baking soda"
+    },
+    {
+      "id": 6,
+      "text": "Add dry mixture to creamed mixture, alternately with the eggs (1 at a time), beating after each addition"
+    },
+    {
+      "id": 7,
+      "text": "Add extracts, stir to combine"
+    },
+    {
+      "id": 8,
+      "text": "Bake for an hour and 20 minutes"
+    },
+    {
+      "id": 9,
+      "text": "Cool in pan for 10 minutes, then transfer to wire rack"
+    }
+  ],
+  "keywords": [
+    "cake",
+    "almond"
+  ]
+}
