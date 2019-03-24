@@ -1,0 +1,85 @@
+{
+  "recipeId": "30bf4235-fb09-49ee-875f-190b326d29e7",
+  "recipeName": "Beer Bread",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 55
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "tablespoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounce",
+        "value": 12
+      },
+      "name": "Beer",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "tablespoon",
+        "value": 2
+      },
+      "name": "Butter",
+      "notes": "melted"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat the oven to 375 degrees"
+    },
+    {
+      "id": 2,
+      "text": "Butter and flour the loaf pan and set aside"
+    },
+    {
+      "id": 3,
+      "text": "In a large bowl, combine the flour, baking powder, sugar, and beer and mix well (the mixture should be sticky)"
+    },
+    {
+      "id": 4,
+      "text": "Pour into the loaf pan and bake for 55 minutes"
+    },
+    {
+      "id": 5,
+      "text": "At the last 3 minutes of baking, remove from the oven and brush the top of the loaf with the melted butter, return to oven"
+    }
+  ],
+  "keywords": [
+    "beer",
+    "bread",
+    "quick"
+  ]
+}

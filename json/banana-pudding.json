@@ -1,0 +1,144 @@
+{
+  "recipeId": "5bc935d8-7a33-4bbe-a6d3-afdfad6797e7",
+  "recipeName": "Banana Pudding",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Large Egg",
+      "notes": "separate whites from 3 of the eggs"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.75
+      },
+      "name": "Sugar",
+      "notes": "separated 1/2 and 1/4"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 2
+      },
+      "name": "Whole Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 40
+      },
+      "name": "Vanilla Wafers",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Bananas",
+      "notes": "ripe"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a saucepan, whisk together flour, salt, and 1/2 cup of sugar"
+    },
+    {
+      "id": 2,
+      "text": "Stir in the eggs (minus the 3 separated whites) and the milk"
+    },
+    {
+      "id": 3,
+      "text": "Cook uncovered, stirring often, until mixture thickens, about 10 minutes"
+    },
+    {
+      "id": 4,
+      "text": "Remove from heat and stir in vanilla"
+    },
+    {
+      "id": 5,
+      "text": "Preheat the oven to 425 degrees"
+    },
+    {
+      "id": 6,
+      "text": "Cut the bananas into 1/8 inch thick slices"
+    },
+    {
+      "id": 7,
+      "text": "In a 1.5 quart casserole dish, construct the layers"
+    },
+    {
+      "id": 8,
+      "text": "Spread a thin layer of pudding, then place wafers flat over the pudding, followed by a layer of banana slices "
+    },
+    {
+      "id": 9,
+      "text": "Repeat layering until ingredients are used up, ending with a layer of pudding, set aside"
+    },
+    {
+      "id": 10,
+      "text": "In an electric mixer, add the egg whites and a pinch of salt"
+    },
+    {
+      "id": 11,
+      "text": "Beat until the meringue becomes stiff"
+    },
+    {
+      "id": 12,
+      "text": "Slowly add 1/4 cup of sugar while beating"
+    },
+    {
+      "id": 13,
+      "text": "Using a spatula, spread meringue over the pudding, making decorative peaks"
+    },
+    {
+      "id": 14,
+      "text": "Bake until lightly browned, approximately 5 minutes"
+    }
+  ],
+  "keywords": [
+    "banana",
+    "pudding"
+  ]
+}

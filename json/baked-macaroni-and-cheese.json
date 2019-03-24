@@ -1,0 +1,132 @@
+{
+  "recipeId": "1c7210dc-314b-4235-a293-5da8724b660f",
+  "recipeName": "Baked Macaroni And Cheese",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 45
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounce",
+        "value": 8
+      },
+      "name": "Elbow Macaroni",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 6
+      },
+      "name": "Butter",
+      "notes": "Divided 3 and 3"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 3
+      },
+      "name": "Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Large Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounce",
+        "value": 12
+      },
+      "name": "Cheese",
+      "notes": "Shredded"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Breadcrumbs",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350 degrees"
+    },
+    {
+      "id": 2,
+      "text": "Cook pasta al dente"
+    },
+    {
+      "id": 3,
+      "text": "In a separate pot, melt 3 Tbsp of the butter and whisk in the flour"
+    },
+    {
+      "id": 4,
+      "text": "Cook about 5 minutes, making sure there are no lumps"
+    },
+    {
+      "id": 5,
+      "text": "Add the milk and simmer 10 minutes, stirring occasionally"
+    },
+    {
+      "id": 6,
+      "text": "Scramble the egg and temper it using the hot milk mixture, then add it to the pot, stirring to combine"
+    },
+    {
+      "id": 7,
+      "text": "Stir in 3/4 of the cheese, season with salt and fresh ground black pepper"
+    },
+    {
+      "id": 8,
+      "text": "Fold the macaroni into the cheese sauce and pour into a casserole dish"
+    },
+    {
+      "id": 9,
+      "text": "Top with remaining cheese"
+    },
+    {
+      "id": 10,
+      "text": "Melt the remaining butter in a pan, and toss the breadcrumbs to coat"
+    },
+    {
+      "id": 11,
+      "text": "Top macaroni with the bread crumbs and bake for 30 minutes"
+    }
+  ],
+  "keywords": [
+    "pasta",
+    "cheese"
+  ]
+}

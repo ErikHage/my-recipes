@@ -1,0 +1,149 @@
+{
+  "recipeId": "b5e7c7f4-0a6d-4637-b22e-c89a5d8ced8f",
+  "recipeName": "Banana Chocolate Chip Doughnuts",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Mashed Bananas",
+      "notes": "about 2 bananas"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.5
+      },
+      "name": "Fat Free Greek Yogurt",
+      "notes": "plain or banana"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.25
+      },
+      "name": "Unsalted Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Egg",
+      "notes": "room temp"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 2
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Chocolate Chips",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 325 degrees"
+    },
+    {
+      "id": 2,
+      "text": "Combine mashed bananas, sugar, and yogurt in an electric mixer"
+    },
+    {
+      "id": 3,
+      "text": "Add melted butter, eggs, and vanilla to mixer and combine"
+    },
+    {
+      "id": 4,
+      "text": "Add flour, baking powder, baking soda, and salt to mixer, mix until just incorporated"
+    },
+    {
+      "id": 5,
+      "text": "Using a spatula, fold in chocolate chips"
+    },
+    {
+      "id": 6,
+      "text": "Scoop batter into a ziplock bag and seal, removing excess air"
+    },
+    {
+      "id": 7,
+      "text": "Snip a corner to create a piping bag"
+    },
+    {
+      "id": 8,
+      "text": "Pipe into greased doughnut baking pan, filling each mold 3/4 full"
+    },
+    {
+      "id": 9,
+      "text": "Bake 12-15 minutes"
+    }
+  ],
+  "keywords": [
+    "banana",
+    "chocolate",
+    "doughnut"
+  ]
+}

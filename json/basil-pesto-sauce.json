@@ -1,0 +1,109 @@
+{
+  "recipeId": "10ed070e-8d53-436e-9c83-5d4cb6ac889b",
+  "recipeName": "Basil Pesto Sauce",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 1
+  },
+  "yield": {
+    "kind": "cup",
+    "value": 0.67
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 2
+      },
+      "name": "Basil Leaves",
+      "notes": "well packed, washed and dried"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Minced Garlic",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Pine Nuts",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Parmesan Cheese",
+      "notes": "grated"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.25
+      },
+      "name": "Extra Virgin Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.5
+      },
+      "name": "Heavy Cream",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a food processor, combine the basil, pine nuts, Parmesan, garlic, and salt and puree"
+    },
+    {
+      "id": 2,
+      "text": "While the motor is running, drizzle in the oil until incorporated"
+    },
+    {
+      "id": 3,
+      "text": "Season with pepper to taste"
+    },
+    {
+      "id": 4,
+      "text": "Use immediately or store in the refrigerator with a piece of plastic wrap placed right on the surface of the sauce to prevent discoloration (lasts up to 3 days, or 1 month in the freezer)"
+    },
+    {
+      "id": 5,
+      "text": "To make a cream sauce, heat up the heavy cream in a saucepan over medium-high heat until just hot"
+    },
+    {
+      "id": 6,
+      "text": "Remove from the heat and whisk in the pesto"
+    },
+    {
+      "id": 7,
+      "text": "Using a spatula, scrape the cream sauce into a bowl"
+    }
+  ],
+  "keywords": [
+    "basil",
+    "pesto",
+    "sauce"
+  ]
+}

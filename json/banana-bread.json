@@ -1,0 +1,140 @@
+{
+  "recipeId": "ca7d2fe8-f691-4b74-80c6-d6f49d7cfdb6",
+  "recipeName": "Banana Bread",
+  "prep": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 75
+  },
+  "yield": {
+    "kind": "loaf",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 2
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1.5
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Bananas",
+      "notes": "overripe"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.75
+      },
+      "name": "Unsalted Butter",
+      "notes": "melted and cooled"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Large Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 0.5
+      },
+      "name": "Chopped Nuts",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350 degrees"
+    },
+    {
+      "id": 2,
+      "text": "Grease a 9\" x 5\" loaf pan"
+    },
+    {
+      "id": 3,
+      "text": "Combine flour, baking soda, and salt in a large bowl, then set aside"
+    },
+    {
+      "id": 4,
+      "text": "Mash 2 of the bananas with a fork in a small bowl until they still have a bit of texture"
+    },
+    {
+      "id": 5,
+      "text": "Whip remaining bananas and sugar together for about 3 minutes to make a light and fluffy banana cream"
+    },
+    {
+      "id": 6,
+      "text": "Add butter, eggs, and vanilla and beat well, being sure to scrape the sides of the bowl"
+    },
+    {
+      "id": 7,
+      "text": "Mix dry and wet ingredients until just incorporated"
+    },
+    {
+      "id": 8,
+      "text": "Fold in mashed bananas (and nuts if desired) with a rubber spatula"
+    },
+    {
+      "id": 9,
+      "text": "Pour into pan, tap on counter to remove air bubbles"
+    },
+    {
+      "id": 10,
+      "text": "Bake for 1 hour and 15 minutes, or until toothpick comes out clean"
+    },
+    {
+      "id": 11,
+      "text": "Cool for 10 minutes in pan, then remove and continue to cool on wire rack"
+    }
+  ],
+  "keywords": [
+    "bread",
+    "banana"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "recipeId": "d0bce67b-1ec7-4914-913b-129a087c1243",
+  "recipeName": "Bananas Foster",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1.5
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Banana",
+      "notes": "ripe, sliced"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounce",
+        "value": 0.5
+      },
+      "name": "Banana Liqueur",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounce",
+        "value": 1
+      },
+      "name": "Dark Rum",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "scoop",
+        "value": 3
+      },
+      "name": "Vanilla Ice Cream",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Melt butter in frying pan"
+    },
+    {
+      "id": 2,
+      "text": "Add sugar and blend well"
+    },
+    {
+      "id": 3,
+      "text": "Add bananas to pan"
+    },
+    {
+      "id": 4,
+      "text": "Sprinkle cinnamon and saute for 1 minute"
+    },
+    {
+      "id": 5,
+      "text": "Pour rum and liqueur over bananas and ignite, basting banana with flaming liquid"
+    },
+    {
+      "id": 6,
+      "text": "When flame goes out, pour over ice cream and serve"
+    }
+  ],
+  "keywords": [
+    "banana",
+    "ice cream",
+    "cinnamon",
+    "dessert"
+  ]
+}
