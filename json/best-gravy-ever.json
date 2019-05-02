@@ -1,0 +1,93 @@
+{
+  "recipeId": "1d76db2d-d663-4d9c-a8b6-66c9a19c4aac",
+  "recipeName": "Best Gravy Ever",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 24
+      },
+      "name": "Chicken Stock",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "Red Wine",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "All Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Fresh Herbs",
+      "notes": "parsley, oregano, etc."
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "After turkey is done cooking, leave the drippings in the roasting pan and place it over medium heat."
+    },
+    {
+      "id": 2,
+      "text": "Add the chicken stock and red wine, whisking to combine, and scraping the bottom of the pan until the bits have come loose."
+    },
+    {
+      "id": 3,
+      "text": "Cook 2-3 minutes to reduce mixture slightly."
+    },
+    {
+      "id": 4,
+      "text": "Transfer liquid to a fat separator and let sit for 5 minutes to allow fat to separate."
+    },
+    {
+      "id": 5,
+      "text": "Return 2/3 - 3/4 of the fat to the roasting pan and place over medium-high heat. Discard remaining fat."
+    },
+    {
+      "id": 6,
+      "text": "Add the flour and whisk to combine."
+    },
+    {
+      "id": 7,
+      "text": "Cook, whisking continuously, until the mixture starts to thicken and become smooth, approximately 2-3 minutes."
+    },
+    {
+      "id": 8,
+      "text": "Gradually add the liquid back to the pan and whisk until smooth and it has reached your desired consistency (approximately 5-6 minutes). It will continue to thicken as it sits."
+    },
+    {
+      "id": 9,
+      "text": "Add herbs and whisk to combine. Season with salt and pepper."
+    }
+  ],
+  "keywords": [
+    "bread",
+    "beer",
+    "quick bread"
+  ]
+}
