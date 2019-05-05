@@ -1,0 +1,80 @@
+{
+  "recipeId": "",
+  "recipeName": "Brine Marinade (Chicken)",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 2
+  },
+  "yield": {
+    "kind": "gallons",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "gallon",
+        "value": 1
+      },
+      "name": "Water",
+      "notes": "warm"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Kosher Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.67
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Soy Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Pour water into a container twice as big as the volume of water."
+    },
+    {
+      "id": 2,
+      "text": "Pour in salt, sugar, soy, and olive oil. Stir until dissolved and allow to cool to room temperature."
+    },
+    {
+      "id": 3,
+      "text": "Place chicken in solution, cover container and refrigerate (skinless breasts -> 2 hours, bone-in pieces -> 4 hours, whole chicken -> 4 hours to overnight)."
+    },
+    {
+      "id": 4,
+      "text": "Drain and pat dry before cooking."
+    }
+  ],
+  "keywords": [
+    "marinade",
+    "chicken"
+  ]
+}
