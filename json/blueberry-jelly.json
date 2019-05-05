@@ -1,0 +1,89 @@
+{
+  "recipeId": "65f3bb3c-41de-4618-9381-024776ac23b3",
+  "recipeName": "Blueberry Jelly",
+  "prep": {
+    "kind": "minutes",
+    "value": 40
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 5
+      },
+      "name": "Fresh Blueberries",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Lemon Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3.5
+      },
+      "name": "Sugar",
+      "notes": "divided 1/4, 3 1/4"
+    },
+    {
+      "quantity": {
+        "kind": "package",
+        "value": 1
+      },
+      "name": "Pectin",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Wash the blueberries and pick out any stems, then crush the berries with a food processor."
+    },
+    {
+      "id": 2,
+      "text": "Heat crushed berries and water on stove, bring to a boil, then add lemon juice and simmer for 10 minutes."
+    },
+    {
+      "id": 3,
+      "text": "Let cool and strain with a cheesecloth to remove the skins and seeds."
+    },
+    {
+      "id": 4,
+      "text": "Mix pectin with 1/4 cup of the sugar, then add to strained juice and bring to a boil."
+    },
+    {
+      "id": 5,
+      "text": "Add remaining sugar and boil 1 full minute. Perform the Jell test (spoon in ice water). If the jelly does not get as solid as you desire, add more pectin and boil for another minute. Repeat test until you get the desired consistency."
+    },
+    {
+      "id": 6,
+      "text": "Can the jelly."
+    }
+  ],
+  "keywords": [
+    "jelly",
+    "blueberry",
+    "canning"
+  ]
+}
