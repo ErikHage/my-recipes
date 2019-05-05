@@ -1,0 +1,134 @@
+{
+  "recipeId": "865ed74f-fd6c-406d-9902-8e7832d09fdd",
+  "recipeName": "Chicken Marsala",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Essence Creole Seasoning",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Chicken Breast",
+      "notes": "cut in half and pounded thin"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 4
+      },
+      "name": "Butter",
+      "notes": "divided 1, 1, 2"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Mushrooms",
+      "notes": "sliced (cremini, oyster, shiitake)"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Marsala Wine",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Chicken Stock",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Chives",
+      "notes": "chopped"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine flour and essence in bowl. Dredge chicken in flour mixture, shake off excess."
+    },
+    {
+      "id": 2,
+      "text": "Heat oil in a large skillet over medium-high heat until very hot but not smoking."
+    },
+    {
+      "id": 3,
+      "text": "Add 1 Tbsp of the butter and cook chicken until golden on both sides, about 3 minutes per side. Set aside."
+    },
+    {
+      "id": 4,
+      "text": "Add 1 Tbsp of the butter to pan and add the mushrooms. Cook until mushrooms are golden brown and have given off their liquid, stirring frequently."
+    },
+    {
+      "id": 5,
+      "text": "Add Marsala, bring to a boil, scrape to remove browned bits from bottom of pan."
+    },
+    {
+      "id": 6,
+      "text": "When reduced by half, add chicken stock then cook for 3 minutes or until sauce is thickened slightly."
+    },
+    {
+      "id": 7,
+      "text": "Lower to medium heat and return chicken to pan."
+    },
+    {
+      "id": 8,
+      "text": "Cook until they are cooked through and sauce has thickened, about 5-6 minutes."
+    },
+    {
+      "id": 9,
+      "text": "Swirl in remaining butter and add salt and pepper to taste. Garnish with chopped chives."
+    }
+  ],
+  "keywords": [
+    "chicken",
+    "marsala",
+    "french",
+    "wine"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "recipeId": "72684249-7b1e-4604-a0b5-6ba64118cc85",
+  "recipeName": "Chocolate Chip Cookies",
+  "prep": {
+    "kind": "hours",
+    "value": 2
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "dozen",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "sticks",
+        "value": 2.5
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.75
+      },
+      "name": "Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Eggs",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2.75
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Chocolate Chips",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Sift the flour, salt, baking soda, and baking powder together in a large bowl. Set aside."
+    },
+    {
+      "id": 2,
+      "text": "Cream together the butter, sugar, and brown sugar in a mixer with beater attachment until light and smooth."
+    },
+    {
+      "id": 3,
+      "text": "Add eggs one at a time, then add vanilla extract."
+    },
+    {
+      "id": 4,
+      "text": "Set mixer speed to low and add flour mixture, beat until just incorporated."
+    },
+    {
+      "id": 5,
+      "text": "Stir in chocolate chips by hand."
+    },
+    {
+      "id": 6,
+      "text": "Refrigerate the dough for at least 1 hour (can go overnight)."
+    },
+    {
+      "id": 7,
+      "text": "Preheat over to 375F."
+    },
+    {
+      "id": 8,
+      "text": "Spoon heaping tablespoons of dough onto a greased cookie sheet."
+    },
+    {
+      "id": 9,
+      "text": "Bake 10-12 minutes, until golden brown."
+    },
+    {
+      "id": 10,
+      "text": "Allow to cool for 10 minutes, then remove from cookie sheet."
+    }
+  ],
+  "keywords": [
+    "chocolate",
+    "cookie"
+  ]
+}
