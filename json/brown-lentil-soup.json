@@ -1,0 +1,149 @@
+{
+  "recipeId": "0c9fae6b-7294-4021-8c7e-9a3744b7e269",
+  "recipeName": "Brown Lentil Soup",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 45
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.25
+      },
+      "name": "Brown Lentils",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Carrots",
+      "notes": "chopped"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Onions",
+      "notes": "chopped"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Celery",
+      "notes": "chopped"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "quarts",
+        "value": 2
+      },
+      "name": "Chicken Broth",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Ground Corriander",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Ground Cumin",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Parsley",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Oregano",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Basil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Cilantro",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Salt",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Place olive oil in pan over medium heat."
+    },
+    {
+      "id": 2,
+      "text": "When hot, add veggies and sweat until onions are translucent (6-7 minutes)."
+    },
+    {
+      "id": 3,
+      "text": "Add remaining ingredients, bring to a boil."
+    },
+    {
+      "id": 4,
+      "text": "Reduce heat, cover, and simmer for 35-40 minutes, until lentils are cooked through."
+    },
+    {
+      "id": 5,
+      "text": "Serve as-is or blend with immersion blender to desired consistency."
+    }
+  ],
+  "keywords": [
+    "soup",
+    "lentils",
+    "vegetarian"
+  ]
+}
