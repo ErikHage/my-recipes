@@ -1,0 +1,90 @@
+{
+  "recipeId": "c1608ffe-11b1-466d-a9fa-a5170861dd0e",
+  "recipeName": "Cheese and Cracker Crusted Chicken",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Chicken Breast",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 10
+      },
+      "name": "Town House Crackers",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.125
+      },
+      "name": "Garlic Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Shredded Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Flour",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Crush the crackers, combine with cheese, pepper, and garlic powder on a plate. Scramble the egg in a bowl. Spread the flour on a separate plate."
+    },
+    {
+      "id": 2,
+      "text": "Pour canola oil into a frying pan and heat on medium high."
+    },
+    {
+      "id": 3,
+      "text": "Make sure the chicken is not wet. Dredge the chicken in the flour, then dip in the egg. Place the chicken in the cracker mix, being sure to cover both sides completely."
+    },
+    {
+      "id": 4,
+      "text": "Place the breaded chicken in the hot pan, allowing it to cook 3-4 minutes on each side, or until cooked all the way through."
+    }
+  ],
+  "keywords": [
+    "chicken",
+    "fried",
+    "cheese",
+    "breading"
+  ]
+}
