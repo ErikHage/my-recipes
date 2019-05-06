@@ -1,0 +1,117 @@
+{
+  "recipeId": "db44dd17-86ac-48a5-9b2f-19b8df30017c",
+  "recipeName": "Cinnamon Pear Crisp",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 60
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 8
+      },
+      "name": "Pears",
+      "notes": "cored, peeled, and sliced"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Apple Juice Concentrate",
+      "notes": "thawed"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Ground Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Quick Oats",
+      "notes": "uncooked"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Dark Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Golden Raisins",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350F"
+    },
+    {
+      "id": 2,
+      "text": "Combine sliced pears, apple juice concentrate, raisins, 3 Tbsp of the flour, and cinnamon in a large bowl and mix well."
+    },
+    {
+      "id": 3,
+      "text": "Spray baking dish with nonstick spray and spoon in the mixture."
+    },
+    {
+      "id": 4,
+      "text": "Combine remaining 1/4 cup of flour, oats, brown sugar, and melted butter in a medium bowl and mix until coarse crumbs form. Sprinkle evenly over pear mixture."
+    },
+    {
+      "id": 5,
+      "text": "Bake 60 minutes or until golden brown."
+    }
+  ],
+  "keywords": [
+    "pear",
+    "dessert",
+    "cinnamon"
+  ]
+}
