@@ -1,0 +1,137 @@
+{
+  "recipeId": "bc4a9f67-e9c1-4574-b135-adfc08174519",
+  "recipeName": "Coconut Cream Pound Cake",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 90
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 10
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Butter",
+      "notes": "room temperature"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "Cream Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Coconut Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Large Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Shredded Coconut",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 325F."
+    },
+    {
+      "id": 2,
+      "text": "In an electric mixer with paddle attachment, beat butter and cream cheese until light and fluffy, then add sugar and extracts."
+    },
+    {
+      "id": 3,
+      "text": "Add eggs one at a time while continuing to beat on low speed."
+    },
+    {
+      "id": 4,
+      "text": "In a separate bowl, combine flour, salt, and baking soda."
+    },
+    {
+      "id": 5,
+      "text": "Add dry mixture to wet mixture, mixing until just incorporated."
+    },
+    {
+      "id": 6,
+      "text": "Remove bowl from beater and stir in the coconut by hand."
+    },
+    {
+      "id": 7,
+      "text": "Pour batter into a greased 10\" tube pan or Bundt pan."
+    },
+    {
+      "id": 8,
+      "text": "Bake for 90 minutes, then remove and cool for 10-15 minutes before removing from pan."
+    }
+  ],
+  "keywords": [
+    "coconut",
+    "cake",
+    "pound cake"
+  ]
+}

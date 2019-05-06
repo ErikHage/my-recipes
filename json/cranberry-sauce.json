@@ -1,0 +1,81 @@
+{
+  "recipeId": "d5d36d32-3d76-40e9-9cd4-d45bcaa5bb67",
+  "recipeName": "Cranberry Sauce",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Orange Juice",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Cranberry Juice",
+      "notes": "100%, not cocktail"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Honey",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pound",
+        "value": 1
+      },
+      "name": "Fresh Crandberries",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Wash cranberries and discard any soft or wrinkled ones."
+    },
+    {
+      "id": 2,
+      "text": "Combine orange juice, cranberry juice, and honey in a 2 quart saucepan over medium-high heat."
+    },
+    {
+      "id": 3,
+      "text": "Bring the juice mixture to a boil, then reduce heat to medium-low and simmer for 5 minutes."
+    },
+    {
+      "id": 4,
+      "text": "Add the cranberries and cook for 15 minutes, stirring occasionally, until cranberries burst and mixture thickens. Do not cook longer than 15 minutes, as pectic will break down."
+    },
+    {
+      "id": 5,
+      "text": "Remove from heat and cool for 5 minutes."
+    },
+    {
+      "id": 6,
+      "text": "Spoon into a mold and refrigerate at least 6 hours to overnight."
+    }
+  ],
+  "keywords": [
+    "cranberry",
+    "sauce",
+    "thanksgiving"
+  ]
+}
