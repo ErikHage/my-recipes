@@ -1,0 +1,108 @@
+{
+  "recipeId": "29db8d3f-7f9d-47ab-b5be-d4d6bc6c9dae",
+  "recipeName": "Crème Brulee",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 60
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "quarts",
+        "value": 1
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Vanilla Bean",
+      "notes": "split and scraped"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Vanilla Sugar",
+      "notes": "divided 1/2, 1/2"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Large Egg Yolk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "quarts",
+        "value": 2
+      },
+      "name": "Hot Water",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 325°F."
+    },
+    {
+      "id": 2,
+      "text": "In a medium saucepan, place heavy cream, vanilla bean, pod and scrapings. Heat over medium-high heat until mixture comes to a boil."
+    },
+    {
+      "id": 3,
+      "text": "Remove pan from heat, let cool for 15 minutes.  After cooled, remove vanilla bean, save for another use."
+    },
+    {
+      "id": 4,
+      "text": "In a medium bowl whisk 1/2 cup of the sugar with the egg yolks until well blended and starts to lighten in color."
+    },
+    {
+      "id": 5,
+      "text": "Add cream mixture to egg mixture slowly (temper), while whisking the egg mixture constantly."
+    },
+    {
+      "id": 6,
+      "text": "Divide mixture evenly between six seven or eight ounce ramekins. Place ramekins into roasting pan over a dish towel (or paper towel). Pour hot water into pan to come halfway up ramekins."
+    },
+    {
+      "id": 7,
+      "text": "Bake until custard is set (35-40 minutes), but still trembling in center."
+    },
+    {
+      "id": 8,
+      "text": "Let cool for 5-10 minutes, then place in fridge for at least 2 hours.  Custard will keep for up to 3 days in the fridge."
+    },
+    {
+      "id": 9,
+      "text": "When ready to serve, remove ramekins from fridge and let sit at room temperature for 30 minutes.  "
+    },
+    {
+      "id": 10,
+      "text": "Divide remaining 1/2 cup sugar among the 6 ramekins.  Spread sugar evenly over top.  "
+    },
+    {
+      "id": 11,
+      "text": "Use culinary torch to melt sugar and form a crispy top.  Let cool for 5 minutes before serving."
+    }
+  ],
+  "keywords": [
+    "pudding",
+    "dessert"
+  ]
+}
