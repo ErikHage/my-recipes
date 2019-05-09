@@ -1,0 +1,80 @@
+{
+  "recipeId": "755349c7-447f-4949-b51e-e66d95a1ad7a",
+  "recipeName": "Crepes",
+  "prep": {
+    "kind": "minutes",
+    "value": 65
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "crepes",
+    "value": 10
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Large Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Butter",
+      "notes": "melted"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine all ingredients in blender and pulse for 10 seconds. "
+    },
+    {
+      "id": 2,
+      "text": "Place batter in refrigerator for 1 hour (allows bubbles to subside so crepes will be less likely to tear)."
+    },
+    {
+      "id": 3,
+      "text": "Preheat large frying pan (or crepe pan), coat with butter or cooking spray.  "
+    },
+    {
+      "id": 4,
+      "text": "Pour 1/8 cup of batter onto pan, tilt pan to allow batter to spread across whole pan.  Cook until browned on each side, remove from pan."
+    }
+  ],
+  "keywords": [
+    "crepes",
+    "breakfast"
+  ]
+}
