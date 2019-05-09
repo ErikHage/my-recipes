@@ -1,0 +1,141 @@
+{
+  "recipeId": "5c66b210-986c-4994-85f0-68a3d284f359",
+  "recipeName": "Decadent Brownies",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "pieces",
+    "value": 24
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "pound",
+        "value": 1
+      },
+      "name": "Unsalted Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pound",
+        "value": 1
+      },
+      "name": "Milk Chocolate Chips",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Unsweetened Chocolate",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Large Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2.25
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.25
+      },
+      "name": "Flour",
+      "notes": "divided, 1, 0.25"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Diced Walnuts",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F. "
+    },
+    {
+      "id": 2,
+      "text": "Flour a 13” x 18” 1.5” sheet pan."
+    },
+    {
+      "id": 3,
+      "text": "Melt together butter, chocolate chips, and unsweetened chocolate in a double boiler. "
+    },
+    {
+      "id": 4,
+      "text": "In a mixing bowl, stir together eggs, vanilla, and sugar."
+    },
+    {
+      "id": 5,
+      "text": "Stir the warm chocolate mixture into the egg mixture and allow to cool to room temperature."
+    },
+    {
+      "id": 6,
+      "text": "Mix together 1 cup flour, baking powder, and salt in a separate bowl, then add to chocolate mixture.  "
+    },
+    {
+      "id": 7,
+      "text": "Toss 1/4 cup flour with walnuts, coating them.  Add walnuts to batter."
+    },
+    {
+      "id": 8,
+      "text": "Pour batter into pan.  Bake 30 minutes or until a toothpick stuck into the brownies comes out clean.  "
+    },
+    {
+      "id": 9,
+      "text": "Cool on wire rack."
+    }
+  ],
+  "keywords": [
+    "brownies",
+    "dessert",
+    "baking"
+  ]
+}
