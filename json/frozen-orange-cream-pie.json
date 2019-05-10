@@ -1,0 +1,74 @@
+{
+  "recipeId": "55356855-92ef-4ecb-86c5-73cf8dca6fc3",
+  "recipeName": "Frozen Orange Cream Pie",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 4
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Graham Cracker Pie Crust",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "quarts",
+        "value": 1
+      },
+      "name": "Vanilla Frozen Yogurt",
+      "notes": "softened"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Frozen Orange Juice Concentrate",
+      "notes": "thawed"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Cool Whip",
+      "notes": "thawed"
+    },
+    {
+      "quantity": {
+        "kind": "pieces",
+        "value": 2
+      },
+      "name": "Orange Slices",
+      "notes": "cut up"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Beat yogurt and orange juice concentrate in large bowl with electric mixer on medium speed until well blended. Spread into crust."
+    },
+    {
+      "id": 2,
+      "text": "Freeze 4 hours or until firm. Top with the cool whip and oranges just before serving."
+    }
+  ],
+  "keywords": [
+    "pie",
+    "frozen",
+    "dessert",
+    "orange"
+  ]
+}
