@@ -1,0 +1,120 @@
+{
+  "recipeId": "3feab118-6646-4bf0-96b8-30f30f3927fe",
+  "recipeName": "Dessert Quesadilla",
+  "prep": {
+    "kind": "minutes",
+    "value": 8
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "10\" Flour Tortillas",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Banana",
+      "notes": "thinly sliced"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Chocolate Chips",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Ground Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Vanilla Ice Cream",
+      "notes": "optional"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Caramel Sauce",
+      "notes": "optional"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Powdered Sugar",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat pan to medium-high heat, spray with cooking spray."
+    },
+    {
+      "id": 2,
+      "text": "Brush 1 side of a tortilla with melted butter, place on pan butter side down.  "
+    },
+    {
+      "id": 3,
+      "text": "Arrange sliced bananas on tortilla, top evenly with chocolate chips, sprinkle with brown sugar and cinnamon (save a little sugar). "
+    },
+    {
+      "id": 4,
+      "text": "Place remaining tortilla on top to cover.  Brush top of second tortilla with butter and sprinkle the remaining brown sugar."
+    },
+    {
+      "id": 5,
+      "text": "Grill until chocolate is melted and bananas are soft, about 3-4 min on each side. "
+    },
+    {
+      "id": 6,
+      "text": "Cut into wedges and serve with vanilla ice cream and caramel sauce.  Sprinkle with powdered sugar if desired.  Serve immediately. "
+    }
+  ],
+  "keywords": [
+    "quesadilla",
+    "dessert"
+  ]
+}

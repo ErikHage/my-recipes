@@ -1,0 +1,96 @@
+{
+  "recipeId": "61f86b36-fcf3-41ac-8f5f-c448d9edaed6",
+  "recipeName": "Emeril’s Creole Seasoning",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "Tablespoon",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2.5
+      },
+      "name": "Paprika",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Garlic Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Black Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Onion Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Cayenne Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Dried Oregano",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Dried Thyme",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine all ingredients."
+    },
+    {
+      "id": 2,
+      "text": "Store in an airtight container."
+    }
+  ],
+  "keywords": [
+    "seasoning",
+    "spice"
+  ]
+}
