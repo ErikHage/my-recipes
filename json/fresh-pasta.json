@@ -1,0 +1,75 @@
+{
+  "recipeId": "f6ab54cc-57ed-431a-8047-efafb6485085",
+  "recipeName": "Fresh Pasta",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 5
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3.5
+      },
+      "name": "Unbleached All-Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Extra Large Egg",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Mound the flour in the center of a large wooden cutting board. Make a well in the middle of the flour, add the eggs."
+    },
+    {
+      "id": 2,
+      "text": "Using a fork, beat together the eggs and begin to incorporate the flour starting with the inner rim of the well. As you incorporate the eggs, keep pushing the flour up to retain the well shape (do not worry if it looks messy). "
+    },
+    {
+      "id": 3,
+      "text": "The dough will come together in a shaggy mass when about half of the flour is incorporated."
+    },
+    {
+      "id": 4,
+      "text": "Start kneading the dough with both hands, primarily using the palms of your hands. Add more flour, in 1/2-cup increments, if the dough is too sticky. "
+    },
+    {
+      "id": 5,
+      "text": "Once the dough is a cohesive mass, remove the dough from the board and scrape up any left over dry bits."
+    },
+    {
+      "id": 6,
+      "text": "Lightly flour the board and continue kneading for 3 more minutes. "
+    },
+    {
+      "id": 7,
+      "text": "The dough should be elastic and a little sticky. Continue to knead for another 3 minutes, remembering to dust your board with flour when necessary. "
+    },
+    {
+      "id": 8,
+      "text": "Wrap the dough in plastic wrap and set aside for 20 minutes at room temperature. Roll and form as desired."
+    },
+    {
+      "id": 9,
+      "text": "Do not skip the kneading or resting portion of this recipe, they are essential for a light pasta."
+    }
+  ],
+  "keywords": [
+    "pasta"
+  ]
+}

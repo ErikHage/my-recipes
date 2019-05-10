@@ -1,0 +1,100 @@
+{
+  "recipeId": "067363a9-b175-48e7-b978-5c70c6298e7f",
+  "recipeName": "Fried Potato Wedges",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Large",
+        "value": 2
+      },
+      "name": "Potatoes",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Herbs",
+      "notes": "basil, rosemary, lemongrass, cilantro, etc."
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Lemon Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Pepper",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Peel and cut potatoes into desire sized wedges, then soak in cool water for 2 minutes."
+    },
+    {
+      "id": 2,
+      "text": "Heat oil in pan on medium heat."
+    },
+    {
+      "id": 3,
+      "text": "Put two wedges in pan, move them around and watch for when they start to fry."
+    },
+    {
+      "id": 4,
+      "text": "Put remaining wedges into pan, and sprinkle with herbs and lemon juice."
+    },
+    {
+      "id": 5,
+      "text": "Fry until golden brown, stirring and flipping as you go."
+    },
+    {
+      "id": 6,
+      "text": "Place on paper towels to soak up excess oil."
+    },
+    {
+      "id": 7,
+      "text": "Sprinkle with salt and pepper."
+    }
+  ],
+  "keywords": [
+    "potato",
+    "fried"
+  ]
+}
