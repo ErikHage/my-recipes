@@ -1,0 +1,129 @@
+{
+  "recipeId": "a9be3ac8-ac12-4ff2-8d84-76d4d09079cd",
+  "recipeName": "Fried Rice",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Rice",
+      "notes": "cooked"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Eggs",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Minced Garlic",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Sesame Seeds",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Rice Wine",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Soy Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Pepper",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Heat oil in a large pan/wok on medium-high heat."
+    },
+    {
+      "id": 2,
+      "text": "Scramble the eggs in the pan."
+    },
+    {
+      "id": 3,
+      "text": "Add the rice to the pan, stir to combine evenly."
+    },
+    {
+      "id": 4,
+      "text": "Make a well in the middle of the pan, add butter and garlic to well.  Allow the butter to melt, then stir it and the garlic into the rice."
+    },
+    {
+      "id": 5,
+      "text": "Add sesame seeds, salt, pepper, and rice wine, stir."
+    },
+    {
+      "id": 6,
+      "text": "Add soy sauce, cook 1 min, stirring constantly."
+    }
+  ],
+  "keywords": [
+    "rice",
+    "fried",
+    "asain"
+  ]
+}
