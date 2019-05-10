@@ -1,0 +1,85 @@
+{
+  "recipeId": "8da6b9a5-92e8-42b9-a634-7a8038da6630",
+  "recipeName": "Fresh Apple Cake",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 7
+      },
+      "name": "Apple",
+      "notes": "cored and sliced"
+    },
+    {
+      "quantity": {
+        "kind": "package",
+        "value": 1
+      },
+      "name": "Yellow Cake Mix",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Ground Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Butter",
+      "notes": "melted"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F, spray pan with non-stick spray."
+    },
+    {
+      "id": 2,
+      "text": "Place apples in pan, sprinkle with dry cake mix."
+    },
+    {
+      "id": 3,
+      "text": "In small bowl, combine sugar and cinnamon, sprinkle over cake mix."
+    },
+    {
+      "id": 4,
+      "text": "Drizzle with melted butter."
+    },
+    {
+      "id": 5,
+      "text": "Bake 30 minutes or until golden brown."
+    }
+  ],
+  "keywords": [
+    "apple",
+    "cake",
+    "dessert"
+  ]
+}
