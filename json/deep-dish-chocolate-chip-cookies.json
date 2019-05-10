@@ -1,0 +1,133 @@
+{
+  "recipeId": "c37ef8d1-d2e4-4c51-8bdf-af8d0f718c57",
+  "recipeName": "Deep Dish Chocolate Chip Cookies",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "cookies",
+    "value": 20
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Unsalted Butter",
+      "notes": "room temperature"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Light Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspooon",
+        "value": 3
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Large Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 12
+      },
+      "name": "Semisweet Chocolate Chips",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pieces",
+        "value": 20
+      },
+      "name": "Caramels",
+      "notes": "individually wrapped cubes are best"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "id": 2,
+      "text": "In a bowl, sift together flour, baking soda, and salt."
+    },
+    {
+      "id": 3,
+      "text": "In a mixer, cream together the butter and sugars. Add vanilla and eggs, beat until combined."
+    },
+    {
+      "id": 4,
+      "text": "Carefully add flour mixture to butter mixture, mixing just until combined."
+    },
+    {
+      "id": 5,
+      "text": "Gently fold in the chocolate chips."
+    },
+    {
+      "id": 6,
+      "text": "In a greased muffin pan, add 1.5 Tbsp of dough to bottom.  Add a caramel into the middle and cover with 1 Tbsp dough."
+    },
+    {
+      "id": 7,
+      "text": "Bake 18-20 minutes."
+    }
+  ],
+  "keywords": [
+    "cookies",
+    "chocolate",
+    "chocolate chip"
+  ]
+}
