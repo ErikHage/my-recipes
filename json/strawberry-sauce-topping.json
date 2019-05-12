@@ -1,0 +1,78 @@
+{
+  "recipeId": "9eb2dab2-bd60-44b8-8ca1-473833d14a4e",
+  "recipeName": "Strawberry Sauce Topping",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 11
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "pints",
+        "value": 2
+      },
+      "name": "Fresh Strawberries",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Lemon Zest",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Kirshwasser or Brandy",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine all ingredients except alcohol in saucepan and cook until berries are soft, about 10 minutes."
+    },
+    {
+      "id": 2,
+      "text": "Stir in kirschwasser or brandy and cook another 1 minute."
+    },
+    {
+      "id": 3,
+      "text": "Remove from heat and allow to cool."
+    }
+  ],
+  "keywords": [
+    "strawberry",
+    "sauce",
+    "topping",
+    "fruit"
+  ]
+}
