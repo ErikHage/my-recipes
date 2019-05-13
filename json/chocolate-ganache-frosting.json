@@ -1,0 +1,66 @@
+{
+  "recipeId": "0ad25aef-176a-45d2-8e21-3cdd0039ff37",
+  "recipeName": "Chocolate Ganache Frosting",
+  "prep": {
+    "kind": "minutes",
+    "value": 12
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 4
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 3.5
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 16
+      },
+      "name": "Bittersweet Chocolate",
+      "notes": "chopped fine"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 16
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Place the chopped chocolate into the bowl of a food processor."
+    },
+    {
+      "id": 2,
+      "text": "Heat the heavy cream in a quart-sized, microwavable container and microwave for 3 to 4 minutes on high, or until it just begins to simmer; be careful not to allow cream to boil over."
+    },
+    {
+      "id": 3,
+      "text": "Pour the cream over the chocolate and let stand for 2 minutes."
+    },
+    {
+      "id": 4,
+      "text": "Process by pulsing several times until chocolate mixture is smooth."
+    },
+    {
+      "id": 5,
+      "text": "Use as is for glazing. If you wish to make a lighter frosting, allow it to come to room temperature, approximately 2 hours."
+    },
+    {
+      "id": 6,
+      "text": "Once at room temperature, place in the bowl of a stand mixer and whisk on high for 2 to 3 minutes."
+    }
+  ],
+  "keywords": [
+    "chocolate",
+    "ganache",
+    "frosting",
+    "icing"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "recipeId": "a791bf55-a430-456f-a016-ebdb63319342",
+  "recipeName": "Garlic Mashed Potatoes",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "pounds",
+        "value": 3.5
+      },
+      "name": "Russet Potatoes",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 16
+      },
+      "name": "Hald and Half",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Garlic Cloves",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Grated Parmesean",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Peel and dice potatoes, making sure all are about the same size."
+    },
+    {
+      "id": 2,
+      "text": "Place potatoes in a large saucepan, cover with water, and add salt.  Bring to a boil over medium-high heat, then reduce to maintain a rolling boil.  Cook until potatoes fall apart when poked with a fork."
+    },
+    {
+      "id": 3,
+      "text": "Heat the half and half and the garlic in  medium saucepan over medium heat until simmering. Remove from heat and set aside."
+    },
+    {
+      "id": 4,
+      "text": "Remove the potatoes from the heat and drain the water. Mash and add the garlic-cream mixture and parmesean, stir to combine.  Let stand for 5 minutes so that the mixture thickens, then serve."
+    }
+  ],
+  "keywords": [
+    "potato",
+    "garlic"
+  ]
+}
