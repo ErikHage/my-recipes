@@ -1,0 +1,78 @@
+{
+  "recipeId": "fa4ea007-7542-494c-abc7-051a0691dc8a",
+  "recipeName": "Pineapple Sauce Topping",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 16
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 3
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Fresh Pineapple Chunks",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Orange Zest",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Light Rum",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine all but rum and cook until pineapple is tender and liquid is thick, about 15 minutes."
+    },
+    {
+      "id": 2,
+      "text": "Stir in rum, cook 1 additional minute."
+    },
+    {
+      "id": 3,
+      "text": "Remove from heat and cool."
+    }
+  ],
+  "keywords": [
+    "pineapple",
+    "sauce",
+    "topping",
+    "fruit"
+  ]
+}

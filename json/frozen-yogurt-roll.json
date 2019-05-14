@@ -1,0 +1,86 @@
+{
+  "recipeId": "c2b8ea2b-a060-4779-b7e1-763430a40cab",
+  "recipeName": "Frozen Yogurt Roll",
+  "prep": {
+    "kind": "hours",
+    "value": 1
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "box",
+        "value": 1
+      },
+      "name": "Angel Food Cake Mix",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Powdered Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "quarts",
+        "value": 1
+      },
+      "name": "Low Fat Frozen Yogurt",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "id": 2,
+      "text": "Line bottom of 15” x 10” jelly roll pan with waxed paper.  Prepare cake mix and pour evenly into prepared pan. "
+    },
+    {
+      "id": 3,
+      "text": "Bake about 20 minutes, or until cake is golden brown and springs back when touched."
+    },
+    {
+      "id": 4,
+      "text": "Cool on wire rack for 15 minutes.  Lay clean kitchen towel on flat surface.  "
+    },
+    {
+      "id": 5,
+      "text": "Sift 1/4 cup powdered sugar over towel; invert cake on top of sugar.  Carefully peel off waxed paper.  Starting at short end, roll cake up with towel.  Cool 30 minutes, seam side down, on wire rack."
+    },
+    {
+      "id": 6,
+      "text": "While cake is cooling, remove frozen yogurt from freezer to soften.  "
+    },
+    {
+      "id": 7,
+      "text": "Carefully unroll cake.  Using a rubber spatula, place spoonfuls of frozen yogurt on top of cake; spread to edges with table knife.  "
+    },
+    {
+      "id": 8,
+      "text": "Reroll filled cake; cover tightly with plastic wrap.  Freeze at least 3 hours or overnight."
+    },
+    {
+      "id": 9,
+      "text": "To serve: remove from freezer and let sit 15 minutes. Dust with powdered sugar.  Cut into slices with serrated knife."
+    }
+  ],
+  "keywords": [
+    "dessert",
+    "cake",
+    "frozen",
+    "frozen yogurt"
+  ]
+}

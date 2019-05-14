@@ -1,0 +1,94 @@
+{
+  "recipeId": "33677937-5f46-4914-b3d9-6d938dfa6210",
+  "recipeName": "Blueberry Sauce Topping",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Fresh Blueberries",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Cornstarch",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Orange Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Grand Mariner",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1.5
+      },
+      "name": "Orange Zest",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1.5
+      },
+      "name": "Unsalted Butter",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine sugar, starch, water, zest, juice in saucepan, cook over med-high heat for about 5 minutes."
+    },
+    {
+      "id": 2,
+      "text": "Stir in berries and simmer, stirring, until berries burst, about 5 minutes."
+    },
+    {
+      "id": 3,
+      "text": "Add butter and stir until melted, remove from heat and allow to cool."
+    }
+  ],
+  "keywords": [
+    "blueberry",
+    "sauce",
+    "topping",
+    "fruit"
+  ]
+}
