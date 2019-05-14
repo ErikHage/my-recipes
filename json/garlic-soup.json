@@ -1,0 +1,85 @@
+{
+  "recipeId": "50383091-65f2-427d-bd0e-368a7f44283e",
+  "recipeName": "Garlic Soup",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cloves",
+        "value": 3
+      },
+      "name": "Garlic",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Idaho Potato",
+      "notes": "or white"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 3
+      },
+      "name": "Chicken Bouillon Cubes",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Shredded Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "slices",
+        "value": 4
+      },
+      "name": "Bread",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Peel and chop the potatoes.  Toast the bread.  Shred the garlic.  Set aside."
+    },
+    {
+      "id": 2,
+      "text": "Bring 5 cups of water to a boil in a large saucepan, reduce to medium heat. "
+    },
+    {
+      "id": 3,
+      "text": "Add the bouillon cubes and potatoes.  Boil for 15-20 minutes, until potatoes are tender.  "
+    },
+    {
+      "id": 4,
+      "text": "Add garlic, let simmer for 5 min.  Remove from heat."
+    },
+    {
+      "id": 5,
+      "text": "When serving, put shredded cheese in bowl, ladle hot soup over it.  Cut toast into quarter sized pieces, drop on top of soup.  Serve immediately."
+    }
+  ],
+  "keywords": [
+    "soup",
+    "garlic",
+    "potato"
+  ]
+}
