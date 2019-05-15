@@ -1,0 +1,195 @@
+{
+  "recipeId": "1be43fa8-8ddb-4c72-8628-af95cc961d3b",
+  "recipeName": "Good Eats Turkey",
+  "prep": {
+    "kind": "hours",
+    "value": 7
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 2.5
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Turkey",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Light Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "gallon",
+        "value": 1
+      },
+      "name": "Vegetable Stock",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Black Peppercorns",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1.5
+      },
+      "name": "Allspice Berries",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1.5
+      },
+      "name": "Candied Ginger",
+      "notes": "chopped"
+    },
+    {
+      "quantity": {
+        "kind": "gallon",
+        "value": 1
+      },
+      "name": "Heavily Iced Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Red Apple",
+      "notes": "sliced"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0.5
+      },
+      "name": "White Onion",
+      "notes": "sliced"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Cinnamon Stick",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "springs",
+        "value": 4
+      },
+      "name": "Rosemary",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "leaves",
+        "value": 6
+      },
+      "name": "Sage",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Canola Oil",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Put the turkey in the fridge to thaw 2-3 days before roasting."
+    },
+    {
+      "id": 2,
+      "text": "Combine stock, salt, brown sugar, peppercorns, allspice, and ginger in a large stockpot over medium-high heat. Stir occasionally to dissolve solids and bring to a boil. Remove, cool, and refrigerate brine."
+    },
+    {
+      "id": 3,
+      "text": "On the night before roasting combine the brine, and ice water in a 5 gallon bucket. Place thawed turkey (w/ innards removed) breast side down in brine."
+    },
+    {
+      "id": 4,
+      "text": "Weight down to make sure the turkey is covered. Refrigerate or leave in a cool area for 8-16 hours. Flip once halfway through marinating."
+    },
+    {
+      "id": 5,
+      "text": "Preheat oven to 500°F. "
+    },
+    {
+      "id": 6,
+      "text": "Remove bird from brine and rinse inside and out with cold water. Discard brine."
+    },
+    {
+      "id": 7,
+      "text": "Place bird on roasting rack inside a half sheet pan or roasting pan. Pat dry with paper towels."
+    },
+    {
+      "id": 8,
+      "text": "Combine apple, onion, cinnamon, water and microwave for 5 min. Add to turkey’s cavity along with rosemary and sage."
+    },
+    {
+      "id": 9,
+      "text": "Tuck the wings underneath the bird and coat the skin liberally with conola oil."
+    },
+    {
+      "id": 10,
+      "text": "Roast the turkey on the lowest level of the oven at 500°F for 30 minutes. "
+    },
+    {
+      "id": 11,
+      "text": "Insert a probe thermometer into the thickest part of the breast and reduce to 350°F. "
+    },
+    {
+      "id": 12,
+      "text": "Cook until thermometer reads 161°F (should be a total of 2-2.5 hours)."
+    },
+    {
+      "id": 13,
+      "text": "Let the turkey rest, covered, 15 minutes before carving."
+    }
+  ],
+  "keywords": [
+    "turkey"
+  ]
+}
