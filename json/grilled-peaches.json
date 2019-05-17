@@ -1,0 +1,84 @@
+{
+  "recipeId": "a1a229d5-337c-4551-ae25-90275281e882",
+  "recipeName": "Grilled Peaches",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Cinnamon Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pinch",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Ripe Peach",
+      "notes": "halved"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a small bowl, add butter and stir until smooth."
+    },
+    {
+      "id": 2,
+      "text": "Add cinnamon sugar, sugar, and salt, stir until combined."
+    },
+    {
+      "id": 3,
+      "text": "Heat grill or frying pan to high heat."
+    },
+    {
+      "id": 4,
+      "text": "Brush peaches with butter and grill until golden brown and just cooked through."
+    },
+    {
+      "id": 5,
+      "text": "Top each half with a few teaspoons of the cinnamon butter."
+    }
+  ],
+  "keywords": [
+    "peach",
+    "dessert"
+  ]
+}
