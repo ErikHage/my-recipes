@@ -1,0 +1,113 @@
+{
+  "recipeId": "f3b31c6f-7b86-4c95-b720-ef4dc55b02ac",
+  "recipeName": "Homesteader Cornbread",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 35
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 15
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Cornmeal",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2.5
+      },
+      "name": "Butternilk",
+      "notes": "can substitute all or portion with milk"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "All-Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.67
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Vegetable Oil",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 400°F."
+    },
+    {
+      "id": 2,
+      "text": "Combine cornmeal and milk, let stand for 5 min."
+    },
+    {
+      "id": 3,
+      "text": "Mix other dry ingredients in a large bowl. "
+    },
+    {
+      "id": 4,
+      "text": "Mix dry mixture with wet mixture, eggs, and oil until smooth. "
+    },
+    {
+      "id": 5,
+      "text": "Pour into greased 9” x 13” baking pan.  "
+    },
+    {
+      "id": 6,
+      "text": "Bake for 30-35 min or until golden brown."
+    }
+  ],
+  "keywords": [
+    "bread",
+    "corn",
+    "cornbread"
+  ]
+}
