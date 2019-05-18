@@ -1,0 +1,113 @@
+{
+  "recipeId": "15b54e5c-fa3a-4eee-b8c7-75519b237e57",
+  "recipeName": "Halusky",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Large Potato",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "All-Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Salt",
+      "notes": "to taste"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "Cheese",
+      "notes": "american, feta, or other"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 4
+      },
+      "name": "Cream Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 4
+      },
+      "name": "Milk",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Peel the potatoes and shred using a food grater or processor (or potato ricer).  "
+    },
+    {
+      "id": 2,
+      "text": "Add salt, egg, and flour to the potatoes and mix well into a sticky dough.  Add more flour if necessary.  Place dough on a cutting board."
+    },
+    {
+      "id": 3,
+      "text": "Bring a large pot of salted water to a boil. "
+    },
+    {
+      "id": 4,
+      "text": "Using a knife “toss” pieces of dough into the boiling water (smaller is better, maximum size should be 1 Tbsp).  "
+    },
+    {
+      "id": 5,
+      "text": "When dumplings rise to the top they are finished.  Strain and set aside."
+    },
+    {
+      "id": 6,
+      "text": "Mix cheese, cream cheese, and milk in a small saucepan and heat over low heat."
+    },
+    {
+      "id": 7,
+      "text": "When cheese had melted, raise heat to medium."
+    },
+    {
+      "id": 8,
+      "text": "When the sauce starts to boil, remove from the heat."
+    }
+  ],
+  "keywords": [
+    "potato",
+    "slovak",
+    "dumpling"
+  ]
+}
