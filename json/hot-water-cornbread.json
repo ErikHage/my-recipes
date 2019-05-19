@@ -1,0 +1,81 @@
+{
+  "recipeId": "6e1a32b0-7d17-494b-b394-a661c9614b36",
+  "recipeName": "Hot Water Cornbread",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "pieces",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Cornmeal",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Shortening",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Boiling Water",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Mix cornmeal and sugar in a medium bowl."
+    },
+    {
+      "id": 2,
+      "text": "Add boiling water and shortening, stir until shortening melts."
+    },
+    {
+      "id": 3,
+      "text": "Pour oil in a large skillet and heat to 375°F."
+    },
+    {
+      "id": 4,
+      "text": "Spoon heaping tablespoons of batter into the oil."
+    },
+    {
+      "id": 5,
+      "text": "Cook about 5 minutes, until golden brown (flipping halfway though)."
+    },
+    {
+      "id": 6,
+      "text": "Drain on paper towels. Serve with maple syrup or honey."
+    }
+  ],
+  "keywords": [
+    "corn",
+    "bread",
+    "cornbread"
+  ]
+}
