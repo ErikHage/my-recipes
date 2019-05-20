@@ -1,0 +1,125 @@
+{
+  "recipeId": "d4e990de-6220-4ac8-adaa-34ce0051acb3",
+  "recipeName": "Key Lime Pie",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 22
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 5
+      },
+      "name": "Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Graham Cracker Crumbs",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 14
+      },
+      "name": "Sweetened Condensed Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Lime Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Lime Zest",
+      "notes": "grated"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Egg Yolks",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Egg Whites",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Cream of Tartar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Sugar",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "id": 2,
+      "text": "Combine butter and graham cracker crumbs and pat down into 9-inch pie pan.  Bake 5-10 minutes."
+    },
+    {
+      "id": 3,
+      "text": "Combine condensed milk and lime juice in mixing bowl."
+    },
+    {
+      "id": 4,
+      "text": "Blend in the yolks then pour into the crust."
+    },
+    {
+      "id": 5,
+      "text": "Beat egg whites and cream of tartar until soft peaks form.  "
+    },
+    {
+      "id": 6,
+      "text": "Gradually beat in sugar and zest until mixture is stiff."
+    },
+    {
+      "id": 7,
+      "text": "Spread over the filling to touch the edge all around.  "
+    },
+    {
+      "id": 8,
+      "text": "Bake 12-15 minutes, or until meringue is golden brown."
+    }
+  ],
+  "keywords": []
+}
