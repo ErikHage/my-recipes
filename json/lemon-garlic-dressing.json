@@ -1,0 +1,81 @@
+{
+  "recipeId": "11b63338-c77c-4cb8-bd73-29d3aa393243",
+  "recipeName": "Lemon Garlic Dressing",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cloves",
+        "value": 3
+      },
+      "name": "Garlic",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Extra Virgin Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Fresh Ground Black Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Lemon Juice",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Using a fork, crush garlic and salt together in a small bowl until soft and moist with chunks of garlic. "
+    },
+    {
+      "id": 2,
+      "text": "Drizzle in olive oil while mixing vigorously with fork.  "
+    },
+    {
+      "id": 3,
+      "text": "Add pepper, mix together.  Whisk in lemon juice to a smooth consistency.  "
+    },
+    {
+      "id": 4,
+      "text": "Strain through sieve, discard solids, adjust seasonings.  Will store in fridge for up to 7 days."
+    }
+  ],
+  "keywords": [
+    "dressing",
+    "lemon",
+    "garlic"
+  ]
+}
