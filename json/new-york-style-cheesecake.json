@@ -1,0 +1,189 @@
+{
+  "recipeId": "504badec-d93b-4e75-b1e2-674b6377f740",
+  "recipeName": "New York Style Cheesecake",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 98
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 10
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Graham Cracker Crumbs",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2.5
+      },
+      "name": "Unsalted Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pounds",
+        "value": 2.5
+      },
+      "name": "Cream Cheese",
+      "notes": "softened"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Lemon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Orange",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 5
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Egg Yolk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Sour Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Bourbon",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 375°F."
+    },
+    {
+      "id": 2,
+      "text": "Butter bottom of a 9” spring-form pan."
+    },
+    {
+      "id": 3,
+      "text": "Combine grahams, butter, and 1 ½ Tbsp sugar, mix well and press into bottom of pan."
+    },
+    {
+      "id": 4,
+      "text": "Bake until golden, about 8 minutes."
+    },
+    {
+      "id": 5,
+      "text": "Allow to cool completely."
+    },
+    {
+      "id": 6,
+      "text": "Lower oven to 350°F."
+    },
+    {
+      "id": 7,
+      "text": "Combine cream cheese, sugar, zests, and vanilla in electric mixer, beat until light and creamy."
+    },
+    {
+      "id": 8,
+      "text": "Add flour, then eggs and yolks 1 at a time, mixing well."
+    },
+    {
+      "id": 9,
+      "text": "Add sour cream, and bourbon, mix until smooth."
+    },
+    {
+      "id": 10,
+      "text": "Pour over crust."
+    },
+    {
+      "id": 11,
+      "text": "Wrap pan in foil and place in a roasting pan."
+    },
+    {
+      "id": 12,
+      "text": "Fill roasting pan with hot water halfway up the side of the cheesecake pan."
+    },
+    {
+      "id": 13,
+      "text": "Bake for 1 ½ hours."
+    },
+    {
+      "id": 14,
+      "text": "Transfer to a cooling rack and allow to cool completely, 1-2 hours."
+    },
+    {
+      "id": 15,
+      "text": "Chill in refrigerator overnight."
+    }
+  ],
+  "keywords": [
+    "cheesecake",
+    "cheese",
+    "dessert"
+  ]
+}

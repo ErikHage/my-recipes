@@ -1,0 +1,116 @@
+{
+  "recipeId": "f0c203e0-604e-46aa-837d-6f661ac6dd13",
+  "recipeName": "Maple Glazed Chicken",
+  "prep": {
+    "kind": "hours",
+    "value": 2
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 40
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Maple Syrup",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Soy Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Lemon Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "clove",
+        "value": 1
+      },
+      "name": "Garlic",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Fresh Ginger",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Fresh Ground Black Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Chicken Breast",
+      "notes": "boneless, skinless"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Apple",
+      "notes": "one red, one green"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Whisk syrup, soy sauce, lemon juice, garlic, ginger, and pepper together in a bowl.  Place chicken in bag with marinade, refrigerate for 2 hours."
+    },
+    {
+      "id": 2,
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "id": 3,
+      "text": "Heat chicken over medium heat in oil for 2-3 minutes on each side, or until browned.  "
+    },
+    {
+      "id": 4,
+      "text": "Simmer marinade in sauce pan on medium heat.  Cook until reduced by half, about 4 minutes."
+    },
+    {
+      "id": 5,
+      "text": "Slice the apples into thin slices and line the bottom of a glass baking dish with them.  "
+    },
+    {
+      "id": 6,
+      "text": "Place browned chicken over apples.  Pour reduced marinade over chicken."
+    },
+    {
+      "id": 7,
+      "text": "Cover the dish with aluminum foil and bake for 30 minutes."
+    }
+  ],
+  "keywords": [
+    "chicken",
+    "maple"
+  ]
+}
