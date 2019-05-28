@@ -1,0 +1,201 @@
+{
+  "recipeId": "4160b711-b7c4-42af-b1cd-c02e5ee21ec8",
+  "recipeName": "Pad Thai",
+  "prep": {
+    "kind": "minutes",
+    "value": 40
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 8
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Dry Rice Noodles",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Sesame Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Cornstarch",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Fish Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Lemon Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Peanut Oil",
+      "notes": "divided 1/8, 1/8"
+    },
+    {
+      "quantity": {
+        "kind": "cloves",
+        "value": 4
+      },
+      "name": "Garlic",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pound",
+        "value": 1
+      },
+      "name": "Chicken",
+      "notes": "cut into thin strips"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Scallions",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 3
+      },
+      "name": "Egg",
+      "notes": "beaten"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Bean Sprouts",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Roasted Peabuts",
+      "notes": "finely chopped"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Lime",
+      "notes": "cut into wedges"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Fresh Cilantro",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Soak rice noodles in hot water until softened (30-45 min)."
+    },
+    {
+      "id": 2,
+      "text": "Drain noodles and set aside."
+    },
+    {
+      "id": 3,
+      "text": "In a mixing bowl, toss sesame oil, cornstarch, and chicken until coated."
+    },
+    {
+      "id": 4,
+      "text": "In a small bowl, whisk together the fish sauce, lemon juice, and sugar, set aside."
+    },
+    {
+      "id": 5,
+      "text": "Preheat wok or large skillet and pour in half the peanut oil."
+    },
+    {
+      "id": 6,
+      "text": "Add chicken and cook until cooked through (~2 min)."
+    },
+    {
+      "id": 7,
+      "text": "Remove from wok/skillet and set aside."
+    },
+    {
+      "id": 8,
+      "text": "Reheat wok/skillet and pour in the remaining peanut oil,"
+    },
+    {
+      "id": 9,
+      "text": "Add garlic and scallions, cook for about one minute."
+    },
+    {
+      "id": 10,
+      "text": "Slowly add the eggs, stirring constantly."
+    },
+    {
+      "id": 11,
+      "text": "Once eggs are cooked, add the drained noodles, fish sauce mixture, and cooked chicken."
+    },
+    {
+      "id": 12,
+      "text": "Toss until combined."
+    },
+    {
+      "id": 13,
+      "text": "Transfer to plates and top with bean sprouts, peanuts, lime wedges, and cilantro."
+    },
+    {
+      "id": 14,
+      "text": "Serve immediately."
+    }
+  ],
+  "keywords": [
+    "thai",
+    "noodles",
+    "peanut"
+  ]
+}
