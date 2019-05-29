@@ -1,0 +1,105 @@
+{
+  "recipeId": "219da610-4f18-43f1-a41b-3c5907cb2ce9",
+  "recipeName": "Parmesan Risotto",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 50
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Arborio Rice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 5
+      },
+      "name": "Chicken Stock",
+      "notes": "divided 4,1"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Parmesan Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Dry White Wine",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Unsalted Butter",
+      "notes": "diced"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Kosher Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Fresh Ground Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Frozen Peas",
+      "notes": "or other vegetable"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Cook rice with 4 cups of the chicken stock."
+    },
+    {
+      "id": 2,
+      "text": "When rice is finished, add remaining chicken stock, Parmesan cheese, wine, butter, salt, pepper."
+    },
+    {
+      "id": 3,
+      "text": "Stir vigorously for 2-3 minutes, until rice is thick and creamy."
+    },
+    {
+      "id": 4,
+      "text": "Add peas and stir until heated through."
+    }
+  ],
+  "keywords": [
+    "rice",
+    "risotto",
+    "cheese"
+  ]
+}
