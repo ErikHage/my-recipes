@@ -1,0 +1,122 @@
+{
+  "recipeId": "c12144e4-ee51-4fdb-ac13-d453cbcf3dd8",
+  "recipeName": "Pastry Crust",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "crust",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Shortening",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 4
+      },
+      "name": "Applejack",
+      "notes": "or water"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a medium bowl, combine flour and salt. Using a pastry blender, cut in shortening until particles are the size of small peas.  "
+    },
+    {
+      "id": 2,
+      "text": "Sprinkle Applejack over mixture, 1 Tbsp at a time, while tossing and mixing lightly with a fork."
+    },
+    {
+      "id": 3,
+      "text": "Add Applejack until dough is just moist enough to hold together. (Too much causes dough to be sticky and tough, while too little causes edges to crack and pastry to tear while rolling.)"
+    },
+    {
+      "id": 4,
+      "text": "Form dough into a ball; place on a well-floured surface. Flatten ball slightly; smooth edges.  "
+    },
+    {
+      "id": 5,
+      "text": "With a floured rolling pin, roll dough into a circle 1 inch larger than inverted 8 or 9 inch pie pan.  "
+    },
+    {
+      "id": 6,
+      "text": "Fold pastry into quarters; place in pan and unfold, easing into pan. Press into place."
+    },
+    {
+      "id": 7,
+      "text": " If your pie recipe calls for a baked crust proceed to Step 13."
+    },
+    {
+      "id": 8,
+      "text": "Trim bottom crust even with the edge of the pan."
+    },
+    {
+      "id": 9,
+      "text": "Pour filling into bottom crust."
+    },
+    {
+      "id": 10,
+      "text": "Roll out top crust; cover filling with top crust."
+    },
+    {
+      "id": 11,
+      "text": "Fold top crust under bottom crust. Seal, flute edge. Cut steam vents. "
+    },
+    {
+      "id": 12,
+      "text": "Proceed as directed for your pie recipe. -- end of unbaked crust directions"
+    },
+    {
+      "id": 13,
+      "text": "Fold edge of pastry under, even with the rim and flute."
+    },
+    {
+      "id": 14,
+      "text": "Heat oven to 450°F.  "
+    },
+    {
+      "id": 15,
+      "text": "Prick bottom and sides of pastry generously with fork."
+    },
+    {
+      "id": 16,
+      "text": "Bake for 9 to 12 minutes or until golden brown, cool."
+    }
+  ],
+  "keywords": [
+    "pastry",
+    "crust",
+    "pie",
+    "dessert"
+  ]
+}
