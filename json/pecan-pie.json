@@ -1,0 +1,166 @@
+{
+  "recipeId": "457357bf-a830-474c-b45b-8e66771fda55",
+  "recipeName": "Pecan Pie",
+  "prep": {
+    "kind": "minutes",
+    "value": 70
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 50
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Unsalted Butter",
+      "notes": "divided 4 Tablespoon cubed, 4 Tablespoon melted and cooled"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 11.5
+      },
+      "name": "Toasted Pecans",
+      "notes": "divided 3.5, 2, 6 (6 chopped coarsely)"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "All-Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.75
+      },
+      "name": "Salt",
+      "notes": "divided 0.5, 0.25"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 4
+      },
+      "name": "Ice Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Bourbon",
+      "notes": "divided 1, 2 chilled (optional, replaces 2 Tablespoons of ice water)"
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 3
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 3.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Corn Syrup",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Chill 4 Tbsp of the butter in the freezer for 15 minutes, then cube it.  "
+    },
+    {
+      "id": 2,
+      "text": "Put 3.5 oz of the toasted pecans in the food processor and pulse 5-6 times. "
+    },
+    {
+      "id": 3,
+      "text": "Add the cubed butter to the pecans, and pulse 5-6 more times."
+    },
+    {
+      "id": 4,
+      "text": "Add the flour and 1/2 tsp of the salt to the processor, then pulse 4-5 times."
+    },
+    {
+      "id": 5,
+      "text": "Finally add the water (and bourbon), and pulse 5-6 times or until mixture holds together like dough."
+    },
+    {
+      "id": 6,
+      "text": "Transfer to a zip-lock bag and squeeze into a ball.  Press into a round disc and refrigerate for 30 minutes."
+    },
+    {
+      "id": 7,
+      "text": "While the dough is in the fridge,  preheat the oven to 350°F."
+    },
+    {
+      "id": 8,
+      "text": "In a large bowl whisk together the eggs, sugar, corn syrup, melted butter, vanilla, (bourbon), and remaining salt, then set aside."
+    },
+    {
+      "id": 9,
+      "text": "Take the dough disc out of the fridge and cut the sides of the bag.  Sprinkle both sides with flour and cover with bag."
+    },
+    {
+      "id": 10,
+      "text": "Roll the dough to an 11” diameter.  Place the dough in 9.5”-10” tart pan 2” deep.  Press the dough into the pan."
+    },
+    {
+      "id": 11,
+      "text": "Sprinkle the 6 oz of chopped pecans into the pan, then pour the filling on top."
+    },
+    {
+      "id": 12,
+      "text": "Bake the pie for 20 minutes."
+    },
+    {
+      "id": 13,
+      "text": "Remove from oven and place remaining 2 oz of pecans on top of pie."
+    },
+    {
+      "id": 14,
+      "text": "Return to oven for 10 minutes, or until center of pie reaches 200°F measured with an instant read thermometer and a toothpick comes out clean."
+    },
+    {
+      "id": 15,
+      "text": "Cool the pie to room temperature before serving (about 3-4 hours)."
+    }
+  ],
+  "keywords": [
+    "pie",
+    "dessert",
+    "pecan",
+    "nuts"
+  ]
+}
