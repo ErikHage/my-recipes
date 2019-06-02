@@ -1,0 +1,112 @@
+{
+  "recipeId": "8182686f-6cb8-4f99-b915-7da80cdaca85",
+  "recipeName": "Peach Cobbler",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 45
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 4
+      },
+      "name": "Peaches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Sugar",
+      "notes": "divided 1, 1"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 8
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Self-rising Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Ground Cinnamon",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "id": 2,
+      "text": "Combine peaches, 1 cup sugar, and the water in a saucepan."
+    },
+    {
+      "id": 3,
+      "text": "Bring to a boil and simmer for 10 minutes.  Remove from heat. "
+    },
+    {
+      "id": 4,
+      "text": "Put butter in a 3 quart baking dish and place in oven to melt."
+    },
+    {
+      "id": 5,
+      "text": "Mix remaining 1 cup sugar, flour, and milk (slowly to prevent clumping).  Pour over melted butter DO NOT STIR."
+    },
+    {
+      "id": 6,
+      "text": "Spoon fruit on top, gently pouring in syrup."
+    },
+    {
+      "id": 7,
+      "text": "(optional) Sprinkle with ground cinnamon."
+    },
+    {
+      "id": 8,
+      "text": "Bake for 30-45 minutes."
+    }
+  ],
+  "keywords": [
+    "dessert",
+    "peach"
+  ]
+}
