@@ -1,0 +1,141 @@
+{
+  "recipeId": "0385df8a-4984-4ba7-81c5-f2f0f90a63cc",
+  "recipeName": "Pumpkin Pie",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 65
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Gingersnap Cookies",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Dark Brown Sugar",
+      "notes": "divided 1 Tablespoon, 3/4 cups"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Ground Ginger",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 4
+      },
+      "name": "Butter",
+      "notes": "might not need all 4 ounces"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 16
+      },
+      "name": "Pumpkin Puree",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Half and Half",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Nutmeg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Egg Yolk",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "id": 2,
+      "text": "Combine gingersnaps, 1 Tbsp brown sugar, and ginger in a food processor. "
+    },
+    {
+      "id": 3,
+      "text": "Process to fine crumbs. Drizzle butter into mix, pulse 8-10 times."
+    },
+    {
+      "id": 4,
+      "text": "Press mixture into bottom and sides of a 9” pie dish. Place on a sheet pan and bake crust for 10-12 minutes. Cool crust before filling."
+    },
+    {
+      "id": 5,
+      "text": "Bring puree to a simmer over medium heat in a 2 quart saucepan. Cook, stirring occasionally, until slightly thickened (2-3 minutes)."
+    },
+    {
+      "id": 6,
+      "text": "Add the half and half, nutmeg, and salt. Stir and return to a simmer. Remove from heat and cool for 10 minutes."
+    },
+    {
+      "id": 7,
+      "text": "In a large bowl, whisk 3/4 cups of brown sugar, eggs, and yolk until smooth.  Add pumpkin mixture and whisk until thoroughly combined."
+    },
+    {
+      "id": 8,
+      "text": "Pour filling into crust and bake on a sheet pan until center jiggles slightly but the sides are set, about 45 to 50 minutes. "
+    },
+    {
+      "id": 9,
+      "text": "Cool on a cooling rack 2-3 hours before serving."
+    }
+  ],
+  "keywords": [
+    "pie",
+    "pumpkin",
+    "dessert"
+  ]
+}
