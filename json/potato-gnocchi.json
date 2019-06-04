@@ -1,0 +1,151 @@
+{
+  "recipeId": "9b2a6e28-0ee2-40d4-9583-1a936409d71e",
+  "recipeName": "Potato Gnocchi",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 2
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "pounds",
+        "value": 2.5
+      },
+      "name": "Russet Potato",
+      "notes": "peeled and cut into sizths"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.25
+      },
+      "name": "All-Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "All-Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Large",
+        "value": 2
+      },
+      "name": "Egg Yolk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pinch",
+        "value": 1
+      },
+      "name": "Ground Nutmeg",
+      "notes": "generous pinch"
+    },
+    {
+      "quantity": {
+        "kind": " cups",
+        "value": 0.5
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Fresh Ground Black Pepper",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a medium saucepan, place the potatoes and cover with cold salted water by 1 inch. "
+    },
+    {
+      "id": 2,
+      "text": "Bring to a boil, lower the heat, and simmer, uncovered, until tender, about 10 minutes. Drain.  "
+    },
+    {
+      "id": 3,
+      "text": "Using a ricer, rice the potatoes onto a parchment-lined baking sheet in an even layer (don't pile into mounds). Set aside to cool."
+    },
+    {
+      "id": 4,
+      "text": "Transfer the potatoes to a large bowl and, using a rubber spatula, gently mix in the flour, yolks, salt, nutmeg, and pepper until just combined and a soft dough is formed. "
+    },
+    {
+      "id": 5,
+      "text": "Don't over mix the dough or the gnocchi will be unpleasantly dense."
+    },
+    {
+      "id": 6,
+      "text": "On a well-floured work surface, turn out the potato dough, and divide into 6 equal parts. "
+    },
+    {
+      "id": 7,
+      "text": "With the palms of both hands gently roll each part into a \"rope\" 3/4-inch in diameter. "
+    },
+    {
+      "id": 8,
+      "text": "Using a sharp knife cut each \"rope\" on an angle into 3/4-inch-long pieces."
+    },
+    {
+      "id": 9,
+      "text": "Shape the gnocchi: Hold a salad fork in one hand so it rests on the work surface at a 45-degree angle with the tines curving up. "
+    },
+    {
+      "id": 10,
+      "text": "Place a piece of the dough at the top of the tines and hold it in place with your free thumb."
+    },
+    {
+      "id": 11,
+      "text": "In one gentle motion, quickly press and roll the dough along the tines. "
+    },
+    {
+      "id": 12,
+      "text": "The gnocchi should have a small dent in one side and shallow grooves on the other, perfectly suited for holding a sauce."
+    },
+    {
+      "id": 13,
+      "text": "Repeat with the remaining pieces and transfer to a lightly floured baking sheet pan. "
+    },
+    {
+      "id": 14,
+      "text": "Store in the refrigerator for at least 1 hour and up to 24 hours before cooking."
+    },
+    {
+      "id": 15,
+      "text": "When ready to serve, bring a large pot of salted water to a boil. "
+    },
+    {
+      "id": 16,
+      "text": "Add half the gnocchi to the boiling water and cook for 1 1/2 minutes or until they rise to the top. (Take care not to overcook)."
+    }
+  ],
+  "keywords": [
+    "potato"
+  ]
+}
