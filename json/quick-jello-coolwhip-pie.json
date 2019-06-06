@@ -1,0 +1,73 @@
+{
+  "recipeId": "b1a66fe9-2451-446a-ae10-24a6f88b4c4f",
+  "recipeName": "Quick Jell-O Coolwhip Pie",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "Cream Cheese",
+      "notes": "softened"
+    },
+    {
+      "quantity": {
+        "kind": "package",
+        "value": 1
+      },
+      "name": "Jell-O Mix",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 16
+      },
+      "name": "Coolwhip",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Graham Cracker Pie Crust",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Beat cream cheese, Jell-o mix, and 10 oz of the Cool Whip together in an electric mixer at medium speed until smooth."
+    },
+    {
+      "id": 2,
+      "text": "Spoon mixture into pie crust."
+    },
+    {
+      "id": 3,
+      "text": "Top with remaining Coolwhip."
+    },
+    {
+      "id": 4,
+      "text": "Serve immediately or refrigerate until ready to serve."
+    }
+  ],
+  "keywords": [
+    "pie",
+    "dessert",
+    "Jell-O"
+  ]
+}
