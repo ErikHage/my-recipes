@@ -1,0 +1,145 @@
+{
+  "recipeId": "6f07d4ad-6d8b-4c7e-8fd4-909ae012156c",
+  "recipeName": "Roasted Pheasant Breasts with Mushroom Gravy",
+  "prep": {
+    "kind": "minutes",
+    "value": 60
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 4
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 10
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "whole or breasted",
+        "value": 9
+      },
+      "name": "Pheasant",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cans",
+        "value": 2
+      },
+      "name": "Cream of Chicken Soup",
+      "notes": "Campbell's "
+    },
+    {
+      "quantity": {
+        "kind": "cans",
+        "value": 2
+      },
+      "name": "Cream of Mushroom Soup",
+      "notes": "Campbell's "
+    },
+    {
+      "quantity": {
+        "kind": "cans",
+        "value": 2
+      },
+      "name": "Chicken Stock",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Sour Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Medium White Onion",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F.  "
+    },
+    {
+      "id": 2,
+      "text": "Butcher the pheasants."
+    },
+    {
+      "id": 3,
+      "text": "Dredge the breasts in a flour, salt, and pepper mixture."
+    },
+    {
+      "id": 4,
+      "text": "In a pan, heat olive oil on medium-high heat, and brown the breasts. "
+    },
+    {
+      "id": 5,
+      "text": "Place the browned breasts in a roasting pan in one layer."
+    },
+    {
+      "id": 6,
+      "text": "Mix together the cream of chicken soup, cream of mushroom soup, chicken stock, sour cream, heavy cream, onion, and pepper.  "
+    },
+    {
+      "id": 7,
+      "text": "Pour the mixture over the breasts."
+    },
+    {
+      "id": 8,
+      "text": "Bake for 4 hours, or until meat pulls apart with a fork."
+    }
+  ],
+  "keywords": [
+    "pheasant",
+    "poultry",
+    "mushroom"
+  ]
+}
