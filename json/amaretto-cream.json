@@ -1,0 +1,70 @@
+{
+  "recipeId": "89c4d868-f06c-48e7-8d6f-f3724aed3d0c",
+  "recipeName": "Amaretto Cream",
+  "prep": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Heavy Whipping Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Powdered Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Amaretto Liqueur",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Whip cream until it holds soft peaks."
+    },
+    {
+      "id": 2,
+      "text": "Add vanilla, powdered sugar, and Amaretto. "
+    },
+    {
+      "id": 3,
+      "text": "Continue to whip until it holds stiff peaks."
+    }
+  ],
+  "keywords": [
+    "cream",
+    "topping",
+    "dessert",
+    "amaretto"
+  ]
+}
