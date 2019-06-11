@@ -1,0 +1,145 @@
+{
+  "recipeId": "e37a1044-be4d-4081-873b-a35018bd99c1",
+  "recipeName": "Raspberry Pound Cake",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 1
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "All-Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Orange Zest",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Ground Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.33
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Unsalted Butter",
+      "notes": "softened"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 3
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 10
+      },
+      "name": "Frozen Raspeberries",
+      "notes": "thawed and drained"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Set rack on bottom third of oven, preheat to 350°F.  "
+    },
+    {
+      "id": 2,
+      "text": "Grease and flour a 9” x 5” x 3” loaf pan."
+    },
+    {
+      "id": 3,
+      "text": "Combine flour, baking soda, orange zest, cinnamon, and salt, whisk to combine.  Set aside."
+    },
+    {
+      "id": 4,
+      "text": "In electric mixer, cream sugar and butter until smooth.  "
+    },
+    {
+      "id": 5,
+      "text": "Add eggs one at a time, then add vanilla.  "
+    },
+    {
+      "id": 6,
+      "text": "Add dry ingredients a little at a time, until incorporated. "
+    },
+    {
+      "id": 7,
+      "text": "Fold in drained raspberries.  "
+    },
+    {
+      "id": 8,
+      "text": "Pour into pan. Bake about 55-60 minutes. "
+    },
+    {
+      "id": 9,
+      "text": "Let cool in pan for 10 minutes, then remove and cool on wire rack."
+    },
+    {
+      "id": 10,
+      "text": "Reccommended: Serve with Amaretto Cream"
+    }
+  ],
+  "keywords": [
+    "cake",
+    "raspberry",
+    "dessert"
+  ]
+}
