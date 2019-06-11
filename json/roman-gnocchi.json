@@ -1,0 +1,144 @@
+{
+  "recipeId": "3d18a147-88c8-49aa-b975-ef74d4b529c4",
+  "recipeName": "Roman Gnocchi",
+  "prep": {
+    "kind": "minutes",
+    "value": 85
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 12
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 10
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cloves",
+        "value": 2
+      },
+      "name": "Garlic",
+      "notes": "thinly sliced"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 4.5
+      },
+      "name": "Whole Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Semolina Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Egg Yolk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Grated Parmesan",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Line a cookie sheet with aluminum foil and set aside."
+    },
+    {
+      "id": 2,
+      "text": "Heat olive oil in a deep saucepan over medium heat, once oil is warm (not hot) add the garlic."
+    },
+    {
+      "id": 3,
+      "text": "When garlic gets golden around the edges (~2 min), add milk and salt."
+    },
+    {
+      "id": 4,
+      "text": "Bring milk to a gentle simmer, stirring often to avoid scorching and film."
+    },
+    {
+      "id": 5,
+      "text": "Gradually stir in semolina, keep stirring and folding semolina for about 3 minutes, until it begins to pull away from the side of the pan."
+    },
+    {
+      "id": 6,
+      "text": "Add melted butter and keep folding until all of the butter is incorporated."
+    },
+    {
+      "id": 7,
+      "text": "When all butter is absorbed, turn off heat."
+    },
+    {
+      "id": 8,
+      "text": "Even out the surface with a spatula, and add egg yolk.  Spread over the entire surface and fold in quickly (before yolk begins to cook)."
+    },
+    {
+      "id": 9,
+      "text": "Add cheese and continue to alternate between folding and stirring."
+    },
+    {
+      "id": 10,
+      "text": "Turn out onto prepared cookie sheet and flatten to 3/8” thick."
+    },
+    {
+      "id": 11,
+      "text": "Allow to cool for about 45 minutes, or until dough can be handled."
+    },
+    {
+      "id": 12,
+      "text": "Cut into whatever shape or size you want."
+    },
+    {
+      "id": 13,
+      "text": "Sear in a hot pan to form a crust of grilled cheese."
+    },
+    {
+      "id": 14,
+      "text": "Serve topped in favorite sauce."
+    }
+  ],
+  "keywords": [
+    "gnocchi",
+    "fried"
+  ]
+}
