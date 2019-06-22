@@ -1,0 +1,156 @@
+{
+  "recipeId": "5a230f32-b762-4dc5-81ef-c4e153d0944b",
+  "recipeName": "Samuel Adams Boston Lager Biscuits",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "All-Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Black Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1.5
+      },
+      "name": "Caraway Seeds",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Dry Mustard",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Butter",
+      "notes": "grated on a large grate and frozen"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Irish Cheddar Cheese",
+      "notes": "grated on a small grater and refrigerated"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Buttermilk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Samuel Adams Boston Lager",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 425°F."
+    },
+    {
+      "id": 2,
+      "text": "Mix dry ingredients in a large bowl, use a whisk to aerate (flour, baking powder, baking soda, salt, pepper, caraway seeds, mustard)."
+    },
+    {
+      "id": 3,
+      "text": "Cut in butter, but do not integrate completely, there should still be pieces of butter visible."
+    },
+    {
+      "id": 4,
+      "text": "Add grated cheese and gently coat with flour mixture."
+    },
+    {
+      "id": 5,
+      "text": "Place the bowl in the refrigerator for 5 minutes."
+    },
+    {
+      "id": 6,
+      "text": "Remove mixture bowl and create a well of flour."
+    },
+    {
+      "id": 7,
+      "text": "Add buttermilk and beer to well and gently combine using a spatula (do not over-mix)."
+    },
+    {
+      "id": 8,
+      "text": "Transfer to a floured surface and pat into a 1” thick sheet."
+    },
+    {
+      "id": 9,
+      "text": "Cut with biscuit cutter and transfer to baking sheet lined with parchment paper."
+    },
+    {
+      "id": 10,
+      "text": "Place in oven immediately."
+    },
+    {
+      "id": 11,
+      "text": "Bake 15-18 minutes."
+    }
+  ],
+  "keywords": [
+    "biscuit",
+    "beer"
+  ]
+}
