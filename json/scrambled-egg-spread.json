@@ -1,0 +1,91 @@
+{
+  "recipeId": "313c843e-6a67-48e9-b2bc-b3f727e6a06c",
+  "recipeName": "Scrambled Egg Spread",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 3
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Creme Fraise",
+      "notes": "or sour cream"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Chives",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a saucepan, scramble eggs and butter over medium-low heat, stirring constantly.  "
+    },
+    {
+      "id": 2,
+      "text": "When eggs begin to clump, remove from heat, while continuing to stir."
+    },
+    {
+      "id": 3,
+      "text": "Return to heat and stir.  Repeat until eggs reach desired consistency.  "
+    },
+    {
+      "id": 4,
+      "text": "Remove from heat and add crème fraise or sour cream, stir in.  "
+    },
+    {
+      "id": 5,
+      "text": "Add salt and pepper to taste.  Add chives if desired.  Serve hot over toast."
+    }
+  ],
+  "keywords": [
+    "egg"
+  ]
+}
