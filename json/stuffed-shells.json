@@ -1,0 +1,149 @@
+{
+  "recipeId": "389ccab8-510f-44c0-9db8-b1ecf9142211",
+  "recipeName": "Stuffed Shells",
+  "prep": {
+    "kind": "minutes",
+    "value": 45
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "Jumbo Pasta Shells",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 30
+      },
+      "name": "Whole Milk Ricotta Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Grated Romano Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Fresh Parsely",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "leaves",
+        "value": 12
+      },
+      "name": "Fresh Basil",
+      "notes": "chiffonade"
+    },
+    {
+      "quantity": {
+        "kind": "Large",
+        "value": 1
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "Grated Parmesan",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 16
+      },
+      "name": "Marinara Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "Mozzarella Cheese",
+      "notes": "grated"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Fresh Ground Black Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Salt",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat the oven to 350 degrees F."
+    },
+    {
+      "id": 2,
+      "text": "Bring a large pot of salted water to a boil. Add the pasta shells and cook for half the cooking time on the package; make sure not to overcook. "
+    },
+    {
+      "id": 3,
+      "text": "Drain and rinse in cool water. Set aside."
+    },
+    {
+      "id": 4,
+      "text": "In a bowl, mix together the ricotta, Romano, parsley, basil, egg, some salt and pepper and half of the Parmesan. Stir until combined."
+    },
+    {
+      "id": 5,
+      "text": "To assemble, coat the bottom of a baking dish with some sauce."
+    },
+    {
+      "id": 6,
+      "text": "Fill each half-cooked shell with the cheese mixture and place face-down on the sauce. "
+    },
+    {
+      "id": 7,
+      "text": "Repeat with the shells until the cheese mixture is gone. "
+    },
+    {
+      "id": 8,
+      "text": "Top the shells with the remaining sauce. Sprinkle on the mozzarella and extra Parmesan."
+    },
+    {
+      "id": 9,
+      "text": "Bake until hot and bubbly, 25 minutes."
+    }
+  ],
+  "keywords": [
+    "pasta",
+    "tomato",
+    "cheese"
+  ]
+}
