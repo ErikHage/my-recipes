@@ -1,0 +1,125 @@
+{
+  "recipeId": "aacc5c6c-7954-49b6-9747-9003e889d6d9",
+  "recipeName": "Sugar Cookies",
+  "prep": {
+    "kind": "minutes",
+    "value": 135
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 9
+  },
+  "yield": {
+    "kind": "cookies",
+    "value": 36
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.75
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Unsalted Butter",
+      "notes": "softened"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Egg",
+      "notes": "beaten"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Powdered Sugar",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Sift together flour, baking powder, and salt, set aside."
+    },
+    {
+      "id": 2,
+      "text": "Beat butter and sugar in electric mixer until light in color."
+    },
+    {
+      "id": 3,
+      "text": "Add egg and milk and beat to combine.  "
+    },
+    {
+      "id": 4,
+      "text": "On low speed slowly add flour mixture, and beat until mixture pulls away from the side of the bowl."
+    },
+    {
+      "id": 5,
+      "text": "Divide dough in half, wrap each half up in wax paper, and refrigerate for 2 hours."
+    },
+    {
+      "id": 6,
+      "text": "Preheat oven to 375°F. "
+    },
+    {
+      "id": 7,
+      "text": "Roll out dough into 1/4” thick sheet, cut cookies into desired shape.  "
+    },
+    {
+      "id": 8,
+      "text": "Bake 7-9 minutes (until just browning at edges). Rotate tray halfway through."
+    },
+    {
+      "id": 9,
+      "text": "Allow to cool on tray for 2 minutes, then remove to wire rack."
+    }
+  ],
+  "keywords": [
+    "cookie",
+    "baking",
+    "sugar"
+  ]
+}
