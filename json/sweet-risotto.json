@@ -1,0 +1,152 @@
+{
+  "recipeId": "fcdc4af3-c7d3-450b-8527-f9e28e9ca255",
+  "recipeName": "Sweet Risotto",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 45
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Peaches",
+      "notes": "halved"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 6
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Cinnamon Stick",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Orange",
+      "notes": "zested and juiced"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Butter",
+      "notes": "divided"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Vanilla Pods",
+      "notes": "or 2 teaspoons vanilla extract"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Arborio Rice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "White Wine",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 4.25
+      },
+      "name": "Whole Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Grated White Chocolate",
+      "notes": "this or dark chocolate"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Grated Dark Chocolate",
+      "notes": "this or white chocolate"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Put halved peaches in pan with 4 Tbsp sugar, cinnamon, zest, juice."
+    },
+    {
+      "id": 2,
+      "text": "Put lid on and simmer 10-15 minutes until skin easily removed. Set aside."
+    },
+    {
+      "id": 3,
+      "text": "Melt 2 Tbsp of the butter  in a thick-bottomed pan, add vanilla, and cook 1 min on low heat."
+    },
+    {
+      "id": 4,
+      "text": "Add rice and 2 Tbsp sugar, turn up heat to medium, add wine."
+    },
+    {
+      "id": 5,
+      "text": "Stir until all wine is cooked away."
+    },
+    {
+      "id": 6,
+      "text": "Add milk little by little, keeping on a slow but constant simmer for 16-18 min, stirring very often."
+    },
+    {
+      "id": 7,
+      "text": "Add milk or water as necessary to adjust consistency."
+    },
+    {
+      "id": 8,
+      "text": "Remove from heat, add grated white chocolate, 1 Tbsp butter, stir, leave covered for a few min."
+    },
+    {
+      "id": 9,
+      "text": "Serve on plate, dusted with dark chocolate, place peaches on plate."
+    },
+    {
+      "id": 10,
+      "text": "For chocolate risotto, use milk or dark chocolate in place of the white chocolate."
+    }
+  ],
+  "keywords": [
+    "rice",
+    "dessert"
+  ]
+}
