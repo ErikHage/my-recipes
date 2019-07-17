@@ -1,0 +1,144 @@
+{
+  "recipeId": "6189e8af-4d1d-4f18-8ff8-30ca9cc9a521",
+  "recipeName": "Banana Nut Protein Bars",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "medium",
+        "value": 1
+      },
+      "name": "Banana",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Rolled Oats",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Almonds",
+      "notes": "sliced, slivered, or whole"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Walnuts",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Coconut Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "scoops",
+        "value": 1
+      },
+      "name": "Vanilla Whey Protein",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Unsweetened Almond Milk",
+      "notes": "or any other kind of milk"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Chia Seeds",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Coconut Flour",
+      "notes": "to flour pan"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Coconut Oil",
+      "notes": "to grease pan"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 325 degrees F."
+    },
+    {
+      "id": 2,
+      "text": "Wipe bottom and sides of a small loaf pan with a little bit of coconut oil."
+    },
+    {
+      "id": 3,
+      "text": "Sprinkle a teaspoon of coconut flour into the pan, and tap to coat evenly."
+    },
+    {
+      "id": 4,
+      "text": "Using a food processor, blend remaining ingredients until they forma  chunky paste."
+    },
+    {
+      "id": 5,
+      "text": "Spread mixture evenly into the prepared pan."
+    },
+    {
+      "id": 6,
+      "text": "Bake for 25 minutes."
+    },
+    {
+      "id": 7,
+      "text": "Check with a toothpick, if it comes out clean the bars are done."
+    },
+    {
+      "id": 8,
+      "text": "Cool completely then slice into 6 bars."
+    }
+  ],
+  "keywords": [
+    "banana",
+    "protein",
+    "nuts"
+  ],
+  "nutrition": {
+    "calories": 144.5,
+    "fats": 7,
+    "carbohydrates": 14,
+    "sugars": 3,
+    "protein": 10
+  }
+}
