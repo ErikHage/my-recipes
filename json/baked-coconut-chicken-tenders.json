@@ -1,0 +1,132 @@
+{
+  "recipeId": "297ec721-85ae-486d-843f-f0e2f746587f",
+  "recipeName": "Baked Coconut Chicken Tenders",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 12
+      },
+      "name": "Boneless Skinless Chicken Tenderloins",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Plain Greek Yogurt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Panko Bread Crumbs",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Unsweetened Coconut",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Coconut Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "dash",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "dash",
+        "value": 1
+      },
+      "name": "Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "dash",
+        "value": 1
+      },
+      "name": "Cayenne Pepper",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 400 degrees F."
+    },
+    {
+      "id": 2,
+      "text": "Place baking sheet in oven to preheat (this gives a crispy bottom)."
+    },
+    {
+      "id": 3,
+      "text": "Make sure chicken is dry, pat dry with paper towels if necessary."
+    },
+    {
+      "id": 4,
+      "text": "In a large bowl, combine the chicken and yogurt. Mix well so all the tenderloins have an even coat."
+    },
+    {
+      "id": 5,
+      "text": "Sprinkle the bread crumbs, coconut, salt, pepper, and cayenne on top of the chicken, and mix until evenly coated."
+    },
+    {
+      "id": 6,
+      "text": "Pull out tray from oven and grease with the coconut oil, making sure to coat evenly."
+    },
+    {
+      "id": 7,
+      "text": "Place tenderloins on sheet without overlapping."
+    },
+    {
+      "id": 8,
+      "text": "Bake for 25 minutes."
+    },
+    {
+      "id": 9,
+      "text": "To make them more crispy, broil for an additional few minutes (you can also flip them over at the halfway mark)."
+    }
+  ],
+  "keywords": [
+    "chicken",
+    "coconut",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 225,
+    "fats": 5,
+    "carbohydrates": 8,
+    "sugars": 1.5,
+    "protein": 38
+  }
+}
