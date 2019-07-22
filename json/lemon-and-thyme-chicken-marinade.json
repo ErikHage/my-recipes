@@ -1,0 +1,104 @@
+{
+  "recipeId": "d67c7506-4cf9-4eb4-9a90-b57f768669a5",
+  "recipeName": "Lemon and Thyme Chicken Marinade",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Canola Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Garlic Powder",
+      "notes": "use 2 Tablespoon if fresh garlic"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Thyme",
+      "notes": "use 2 Tablespoon if fresh"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Lemon Juice",
+      "notes": "or Zest"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Onion Powder",
+      "notes": "or chopped onion"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 0.5
+      },
+      "name": "Cayenne Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspooon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Black Pepper",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine all ingredients in a plastic bag."
+    },
+    {
+      "id": 2,
+      "text": "Add the chicken and massage until chicken is coated evenly."
+    },
+    {
+      "id": 3,
+      "text": "Place in the refrigerator for 6 hours or overnight (for butterflied breast, add or reduce time based on cut of chicken)."
+    }
+  ],
+  "keywords": [
+    "chicken",
+    "lemon",
+    "garlic",
+    "thyme",
+    "marinade",
+    "grilling"
+  ]
+}
