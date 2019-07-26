@@ -1,0 +1,68 @@
+{
+  "recipeId": "a371d4ff-512c-43ed-b788-b5f807851070",
+  "recipeName": "Vanilla Buttercream Frosting",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Powdered Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Evaporated Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pinch",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Crisco Shortening",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Blend all ingredients with electric mixer until light and fluffy."
+    }
+  ],
+  "keywords": [
+    "frosting",
+    "vanilla"
+  ]
+}

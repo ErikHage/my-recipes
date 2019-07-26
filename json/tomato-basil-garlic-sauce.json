@@ -1,0 +1,170 @@
+{
+  "recipeId": "fe26cfc8-2b0d-4f4c-8e29-5e9ab7393cc0",
+  "recipeName": "Tomato Basil Garlic Sauce",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 4
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 3
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 4
+      },
+      "name": "Pureed Tomatoes",
+      "notes": "fresh or canned"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Carrots",
+      "notes": "diced"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Green Bell Pepper",
+      "notes": "diced"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0.5
+      },
+      "name": "White Onion",
+      "notes": "diced"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Celery Stick",
+      "notes": "whole"
+    },
+    {
+      "quantity": {
+        "kind": "cloves",
+        "value": 3
+      },
+      "name": "Garlic",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Fresh Ground Black Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 10
+      },
+      "name": "Fresh Basil Leaves",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "sprigs",
+        "value": 3
+      },
+      "name": "Fresh Parsley",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "sprigs",
+        "value": 3
+      },
+      "name": "Fresh Oregano",
+      "notes": "minced"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Prepare the tomato puree from fresh tomatoes. "
+    },
+    {
+      "id": 2,
+      "text": "In a saucepan on medium heat add the oil, butter, carrot, pepper, onion and garlic. "
+    },
+    {
+      "id": 3,
+      "text": "Sauté for 5–10 minutes or until vegetables are tender.  "
+    },
+    {
+      "id": 4,
+      "text": "Add tomato puree, basil, parsley, oregano and whole celery sticks.  "
+    },
+    {
+      "id": 5,
+      "text": "Simmer for 2 hours on low heat, covered.  "
+    },
+    {
+      "id": 6,
+      "text": "Remove celery sticks, discard."
+    },
+    {
+      "id": 7,
+      "text": "For chunky sauce continue to simmer for 2 more hours, covered, then remove cover and reduce to desired thickness.  "
+    },
+    {
+      "id": 8,
+      "text": "For smooth sauce, remove from heat and allow to cool.  "
+    },
+    {
+      "id": 9,
+      "text": "When cool use a blender to puree the sauce.  "
+    },
+    {
+      "id": 10,
+      "text": "Return to burner and simmer for 2 hours, covered, then remove cover and reduce to desired thickness."
+    }
+  ],
+  "keywords": [
+    "tomato",
+    "sauce",
+    "basil",
+    "garlic"
+  ]
+}

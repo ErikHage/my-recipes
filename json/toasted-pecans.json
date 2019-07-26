@@ -1,0 +1,59 @@
+{
+  "recipeId": "085d4fa8-eda6-4b94-89e5-32aac57f9a0e",
+  "recipeName": "Toasted Pecans",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 7
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Pecans",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Salted Butter",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "id": 2,
+      "text": "Toss pecans in a small bowl with melted butter."
+    },
+    {
+      "id": 3,
+      "text": "Spread single layer of buttered pecans on a non-stick pan."
+    },
+    {
+      "id": 4,
+      "text": "Bake for 5-7 minutes, until aromatic."
+    },
+    {
+      "id": 5,
+      "text": "Cool before eating."
+    }
+  ],
+  "keywords": [
+    "pecans"
+  ]
+}
