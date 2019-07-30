@@ -1,0 +1,133 @@
+{
+  "recipeId": "521836df-d6c1-4001-aa32-d7f4e53501c9",
+  "recipeName": "Vanilla Cake",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 10
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "sticks",
+        "value": 2
+      },
+      "name": "Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Water",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "id": 2,
+      "text": "Whisk flour, salt, baking powder together in a large bowl."
+    },
+    {
+      "id": 3,
+      "text": "In another bowl, cream the butter and sugar until light and fluffy. "
+    },
+    {
+      "id": 4,
+      "text": "Beat in the eggs one at a time until completely incorporated."
+    },
+    {
+      "id": 5,
+      "text": "Add vanilla extract."
+    },
+    {
+      "id": 6,
+      "text": "In a large cup, mix together cream and water."
+    },
+    {
+      "id": 7,
+      "text": "Beat 1/3 of flour mixture into the butter mixture, followed by 1/2 of the cream mixture.  Repeat this pattern: flour, cream, flour, until all is incorporated."
+    },
+    {
+      "id": 8,
+      "text": "Pour into 2 9” cake pans and cook for 25-30 minutes, or until golden brown."
+    },
+    {
+      "id": 9,
+      "text": "Cool for 10 minutes before attempting to remove form pan."
+    }
+  ],
+  "keywords": [
+    "cake",
+    "vanilla",
+    "baking"
+  ]
+}
