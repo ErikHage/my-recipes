@@ -1,0 +1,117 @@
+{
+  "recipeId": "f31b3a98-b9bc-40f8-a031-38089c26c667",
+  "recipeName": "Vanilla Gelato",
+  "prep": {
+    "kind": "hours",
+    "value": 8
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "yield": {
+    "kind": "quarts",
+    "value": 1.5
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 8
+      },
+      "name": "Egg Yolk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.125
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3.75
+      },
+      "name": "Whole Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Vanilla Bean",
+      "notes": "sliced and pulped"
+    },
+    {
+      "quantity": {
+        "kind": "pinch",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Beat together the egg yolks and sugar until light and thick."
+    },
+    {
+      "id": 2,
+      "text": "Heat milk, heavy cream, vanilla pod, vanilla pulp, and salt in a heavy saucepan over medium heat. "
+    },
+    {
+      "id": 3,
+      "text": "Heat until bubbles begin to form around the edges. Remove from heat."
+    },
+    {
+      "id": 4,
+      "text": "Take 1/2 a cup of the hot milk mixture and slowly whisk it into the egg mixture.  "
+    },
+    {
+      "id": 5,
+      "text": "Slowly whisk the hot egg mixture into the saucepan."
+    },
+    {
+      "id": 6,
+      "text": "Cook over low heat, stirring continuously until mixture thickens (8-10 minutes)."
+    },
+    {
+      "id": 7,
+      "text": "Strain through a fine mesh sieve into a metal bowl and refrigerate until cold (6-8 hours)."
+    },
+    {
+      "id": 8,
+      "text": "When mixture has cooled to around 40 degrees F, pour into an ice cream machine."
+    },
+    {
+      "id": 9,
+      "text": "Allow to churn for 20-25 minutes, or until gelato reaches desired consistency. "
+    },
+    {
+      "id": 10,
+      "text": "If a firmer consistency is desire, place in the freezer for about 2 hours."
+    },
+    {
+      "id": 11,
+      "text": "Remove from freezer 10 minutes prior to serving."
+    }
+  ],
+  "keywords": [
+    "ice cream",
+    "vanilla",
+    "gelato"
+  ]
+}
