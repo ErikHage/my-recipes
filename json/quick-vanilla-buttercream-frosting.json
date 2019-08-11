@@ -1,0 +1,73 @@
+{
+  "recipeId": "0570637c-720b-469d-8fe1-b5365b914a8e",
+  "recipeName": "Quick Vanilla Buttercream Frosting",
+  "prep": {
+    "kind": "minutes",
+    "value": 2
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Confectioners' Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Butter",
+      "notes": "softened to room temp"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Whipping Cream",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a mixer with the whisk attachment, mix together butter and sugar."
+    },
+    {
+      "id": 2,
+      "text": "Mix on low speed until well blended, then increase speed to medium and whisk for another 3 minutes."
+    },
+    {
+      "id": 3,
+      "text": "Add vanilla and half the cream and continue to whisk on medium for 1 additional minute."
+    },
+    {
+      "id": 4,
+      "text": "Add more cream as necessary if needed for spreading consistency."
+    }
+  ],
+  "keywords": [
+    "frosting",
+    "vanilla",
+    "cake"
+  ]
+}
