@@ -1,0 +1,166 @@
+{
+  "recipeId": "688dc56b-55ad-4880-9e0c-7aafb0777fc4",
+  "recipeName": "Coconut Chicken Curry",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 6
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "pounds",
+        "value": 2
+      },
+      "name": "Chicken Breast",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Carrots",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Green Bell Pepper",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Medium Yellow Onion",
+      "notes": "quartered"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Garlic Cloves",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Tomato Paste",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 13.5
+      },
+      "name": "Coconut Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 1.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Curry Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Garam Marsala",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Jalapenos",
+      "notes": "seeded, or sub for a Poblano pepper"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Water",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1.5
+      },
+      "name": "Tapioca Flour",
+      "notes": "or corn starch"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Grease your slow cooker with coconut oil."
+    },
+    {
+      "id": 2,
+      "text": "Add chicken, green pepper, and carrot pieces to to cooker."
+    },
+    {
+      "id": 3,
+      "text": "In a blender, add the onion, garlic, tomato paste, coconut milk, salt, curry powder, garam masala and jalapenos, and blend until smooth and creamy."
+    },
+    {
+      "id": 4,
+      "text": "Add curry sauce to slow cooker and mix well."
+    },
+    {
+      "id": 5,
+      "text": "Cook on low for 6-8 hours."
+    },
+    {
+      "id": 6,
+      "text": "30 minutes before it's done, mix the water and tapioca flour in a separate container, then mix them into the curry."
+    },
+    {
+      "id": 7,
+      "text": "Mix well and put the lid back on for at least 30 minutes. This will thicken up the sauce a bit."
+    }
+  ],
+  "keywords": [
+    "curry",
+    "coconut",
+    "chicken",
+    "Thai",
+    "buff dudes"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "fats": 9.5,
+    "carbohydrates": 13,
+    "sugars": 6,
+    "protein": 28.5
+  }
+}
