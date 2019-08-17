@@ -1,0 +1,139 @@
+{
+  "recipeId": "b5fed782-3341-4c29-879b-adbea44065be",
+  "recipeName": "Buffins",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Rolled Oats",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "scoops",
+        "value": 2
+      },
+      "name": "Whey Protein",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Banana",
+      "notes": "ripe"
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 2
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Greek Yogurt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 3
+      },
+      "name": "Honey",
+      "notes": "or agave"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.5
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.5
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pinch",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 400 F."
+    },
+    {
+      "id": 2,
+      "text": "Blend rolled oats until they are ground to a flour."
+    },
+    {
+      "id": 3,
+      "text": "Add remaining ingredients to blender (wet first, followed by dry)."
+    },
+    {
+      "id": 4,
+      "text": "Spray or cup muffin pan."
+    },
+    {
+      "id": 5,
+      "text": "Pour batter into the pan and add any toppings you like (blueberries, strawberries, walnuts, cinnamon, etc.)."
+    },
+    {
+      "id": 6,
+      "text": "Bake 12-15 minutes, or until a toothpick comes out clean."
+    },
+    {
+      "id": 7,
+      "text": "Cool and transfer to a wire rack to finish cooling."
+    }
+  ],
+  "keywords": [
+    "muffin",
+    "protein"
+  ],
+  "nutrition": {
+    "calories": 134,
+    "fats": 2,
+    "carbohydrates": 19.5,
+    "sugars": 7.5,
+    "protein": 10
+  }
+}
