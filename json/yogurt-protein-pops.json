@@ -1,0 +1,113 @@
+{
+  "recipeId": "2043fd50-24d1-45e1-bd62-cb583ed56046",
+  "recipeName": "Yogurt Protein Pops",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Blueberries",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Strawberries",
+      "notes": "sliced"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Greek Yogurt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "scoops",
+        "value": 3
+      },
+      "name": "Vanilla Protein Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 12
+      },
+      "name": "Dixie Cups",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 12
+      },
+      "name": "Wooden Sticks",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a bowl, mix the yogurt and protein power until combined."
+    },
+    {
+      "id": 2,
+      "text": "Arrange the Dixie cups in a tray to hold them in place while you construct the layers. After every layer is added, tap the cups to level out the yogurt mixture."
+    },
+    {
+      "id": 3,
+      "text": "Add 1 spoon of yogurt to each cup, followed by 5-6 blueberries."
+    },
+    {
+      "id": 4,
+      "text": "Add 1 spoon of yogurt to each cup, followed by a few slices of strawberry."
+    },
+    {
+      "id": 5,
+      "text": "Add 1 spoon of yogurt to each cup, followed by a few slices of strawberry."
+    },
+    {
+      "id": 6,
+      "text": "Divide the remaining yogurt between the cups."
+    },
+    {
+      "id": 7,
+      "text": "Insert wooden sticks."
+    },
+    {
+      "id": 8,
+      "text": "Freeze overnight."
+    }
+  ],
+  "keywords": [
+    "yogurt",
+    "frozen",
+    "protein",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 73,
+    "fats": 0.5,
+    "carbohydrates": 5.25,
+    "sugars": 4,
+    "protein": 11
+  }
+}
