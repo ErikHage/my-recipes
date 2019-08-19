@@ -1,0 +1,152 @@
+{
+  "recipeId": "f110b969-1f85-474e-b812-df75d9c92aba",
+  "recipeName": "Protein Lemon Squares",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 10
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Rolled Oats",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Oat Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Stevia in the Raw",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Vanilla Protein Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "scoops",
+        "value": 3
+      },
+      "name": "Vanilla Protein Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Lemon",
+      "notes": "zested"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Greek Yogurt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "packets",
+        "value": 2
+      },
+      "name": "Gelatin",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Warm Water",
+      "notes": "remove 2 Tablespoons and replace with 2 Tablespoons of juice from the lemon"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Whisk oats, oat flour, stevia, and 1 Tablespoon of the protein powder in a mixing bowl until combined."
+    },
+    {
+      "id": 2,
+      "text": "Add lemon zest and drizzle melted butter, stirring to combine."
+    },
+    {
+      "id": 3,
+      "text": "Prepare a loaf pan with parchment paper."
+    },
+    {
+      "id": 4,
+      "text": "Press crust evenly over bottom of pan, set aside."
+    },
+    {
+      "id": 5,
+      "text": "Whisk yogurt and 3 scoops protein powder together until combined."
+    },
+    {
+      "id": 6,
+      "text": "In another bowl, dissolve gelatin in the water and lemon juice, whisking until smooth."
+    },
+    {
+      "id": 7,
+      "text": "Pour gelatin liquid into yogurt mixture, whisking until smooth."
+    },
+    {
+      "id": 8,
+      "text": "Pour onto crust and spread evenly."
+    },
+    {
+      "id": 9,
+      "text": "Cover with plastic wrap and let sit in the refrigerator for several hours to overnight."
+    },
+    {
+      "id": 10,
+      "text": "Cut into 10 evenly sized squares."
+    }
+  ],
+  "keywords": [
+    "lemon",
+    "protein",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 119,
+    "fats": 5,
+    "carbohydrates": 6,
+    "sugars": 2,
+    "protein": 12
+  }
+}
