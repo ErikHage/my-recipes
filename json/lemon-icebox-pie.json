@@ -1,0 +1,164 @@
+{
+  "recipeId": "3e1616d1-cfb4-4d85-8f99-2c6c9bddedd9",
+  "recipeName": "Lemon Icebox Pie",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 10
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Nilla Wafer Cookie crumbs",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Melted Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Whipping Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Powdered Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 9
+      },
+      "name": "Egg Yolks",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 20
+      },
+      "name": "Sweetened Condensed Milk",
+      "notes": "by weight"
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Lemon Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "lemons",
+        "value": 2
+      },
+      "name": "Lemon Zest",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Grease a 10 inch deep dish pie pan, or line the bottom of a 10 inch springform pan and grease the sides."
+    },
+    {
+      "id": 2,
+      "text": "Mix together the cookie crumbs and butter"
+    },
+    {
+      "id": 3,
+      "text": "Press into the bottom and sides of the pan (or 3/4 of the height of the springform pan)"
+    },
+    {
+      "id": 4,
+      "text": "Bake for 10 minutes at 325F"
+    },
+    {
+      "id": 5,
+      "text": "Set aside to cool"
+    },
+    {
+      "id": 6,
+      "text": "Whip the cream, powdered sugar, and vanilla to soft peaks and set aside"
+    },
+    {
+      "id": 7,
+      "text": "In the bowl of a stand mixer with whisk attachment, add the egg yolks and 1/3 cup sugar"
+    },
+    {
+      "id": 8,
+      "text": "Whisk at high speed until light, foamy, and pale yellow in color, about 5 minutes"
+    },
+    {
+      "id": 9,
+      "text": "Slowly whisk in the sweetened condensed milk, lemon zest, and lemon juice"
+    },
+    {
+      "id": 10,
+      "text": "Gently fold in the previously whipped cream"
+    },
+    {
+      "id": 11,
+      "text": "Pour into the cooled pie crust"
+    },
+    {
+      "id": 12,
+      "text": "Freeze overnight"
+    },
+    {
+      "id": 13,
+      "text": "Garnish with whipped cream, Nilla cookies, and lemon zest before serving"
+    }
+  ],
+  "keywords": [
+    "pie",
+    "lemon",
+    "frozen"
+  ],
+  "nutrition": {
+    "calories": 667,
+    "fats": 38,
+    "carbohydrates": 70,
+    "sugars": 58,
+    "protein": 14
+  }
+}
