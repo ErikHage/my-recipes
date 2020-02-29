@@ -1,0 +1,165 @@
+{
+  "recipeId": "2d155bfa-5f9f-4e8a-8b2c-1b1a2c4ad0e8",
+  "recipeName": "Cherry Bakewell Cupcakes",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "cupcakes",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 150
+      },
+      "name": "Margarine",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 150
+      },
+      "name": "Caster (Superfine) Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 100
+      },
+      "name": "Self-Rising Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 3
+      },
+      "name": "Eggs",
+      "notes": "room temperature"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 60
+      },
+      "name": "Ground Almonds",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 90
+      },
+      "name": "Raspberry Jam",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 250
+      },
+      "name": "Icing (Powdered) Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 3
+      },
+      "name": "Fresh Lemon Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 12
+      },
+      "name": "Candied Cherries",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350°F"
+    },
+    {
+      "id": 2,
+      "text": "Line a 12 muffin pan with paper cups"
+    },
+    {
+      "id": 3,
+      "text": "Cream the margarine in a bowl until light and fluffy"
+    },
+    {
+      "id": 4,
+      "text": "Add caster sugar, self-rising flour, eggs, baking powder, ground almonds, and milk and mix until well combined"
+    },
+    {
+      "id": 5,
+      "text": "Spoon mixture into the muffin pan and bake 15-20 minutes (or until a toothpick inserted comes out clean)"
+    },
+    {
+      "id": 6,
+      "text": "Remove form oven and cool for 10 minutes"
+    },
+    {
+      "id": 7,
+      "text": "For icing, mix the icing sugar and lemon juice in a bowl until smooth"
+    },
+    {
+      "id": 8,
+      "text": "Using an apple corer, carefully remove the middle of the cupcakes"
+    },
+    {
+      "id": 9,
+      "text": "Fill the holes with raspberry jam"
+    },
+    {
+      "id": 10,
+      "text": "Carefully spoon icing onto the top of each cupcake until it reaches the sides of the cup"
+    },
+    {
+      "id": 11,
+      "text": "Top with a candied cherry"
+    }
+  ],
+  "keywords": [
+    "cupcake",
+    "cherry",
+    "raspberry",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 303,
+    "fats": 9.5,
+    "carbohydrates": 51.6,
+    "sugars": 42.7,
+    "protein": 3.3
+  }
+}
