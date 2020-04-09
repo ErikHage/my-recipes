@@ -1,0 +1,173 @@
+{
+  "recipeId": "60252ef5-0116-4662-8135-cb2336f71647",
+  "recipeName": "Oven Baked Naan",
+  "prep": {
+    "kind": "hours",
+    "value": 3
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "loaves",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Active Dry Yeast",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "All Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Fine Sea Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.125
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Plain Yogurt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Extra Virgin Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Melted Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Coarse Sea Salt",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Dissolve dry yeast and 1 teaspoon of the sugar with 3/4 cups of warm water. Set aside for 10 minutes or until frothy."
+    },
+    {
+      "id": 2,
+      "text": "Sift flour, salt, remaining sugar, and baking powder into a large, deep bowl."
+    },
+    {
+      "id": 3,
+      "text": "Add yogurt and olive oil to yeast mixture, stirring to combine."
+    },
+    {
+      "id": 4,
+      "text": "Pour yeast mixture into the dry ingredients and gently mix with a fork."
+    },
+    {
+      "id": 5,
+      "text": "When the dough is just about to come together, use your hands to finish mixing."
+    },
+    {
+      "id": 6,
+      "text": "Keep mixing until it transforms into a soft, slightly sticky, and pliable dough."
+    },
+    {
+      "id": 7,
+      "text": "Stop kneading when it comes together."
+    },
+    {
+      "id": 8,
+      "text": "Cover with plastic wrap and let sit in a warm draft-free place for 2-4 hours."
+    },
+    {
+      "id": 9,
+      "text": "Prepare two bowls - one with flour, another with water."
+    },
+    {
+      "id": 10,
+      "text": "Separate dough into six equal parts and lightly roll in the flour bowl."
+    },
+    {
+      "id": 11,
+      "text": "Roll each piece into a teardrop shape 8-9 inches long, 4 inches wide at the widest, and 1/4 inches thick."
+    },
+    {
+      "id": 12,
+      "text": "Warm a (cast iron) skillet over high heat until nearly smoking (have lid ready)."
+    },
+    {
+      "id": 13,
+      "text": "Gently dampen the dough with your fingertips, then lay it on the skillet."
+    },
+    {
+      "id": 14,
+      "text": "Cook for about 1 minute (should be a bit blackened) then flip and cover with the lid."
+    },
+    {
+      "id": 15,
+      "text": "Cook for another 30 seconds - 1 minute."
+    },
+    {
+      "id": 16,
+      "text": "Remove from skillet, brush with melted butter, sprinkle with salt, and place on a towel-lined dish."
+    },
+    {
+      "id": 17,
+      "text": "Repeat for remaining dough."
+    }
+  ],
+  "keywords": [
+    "bread",
+    "Indian",
+    "yeast",
+    "flat"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "fats": 4.8,
+    "carbohydrates": 34,
+    "sugars": 2.2,
+    "protein": 5.2
+  }
+}
