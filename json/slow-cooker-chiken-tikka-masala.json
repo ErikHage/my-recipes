@@ -1,0 +1,190 @@
+{
+  "recipeId": "ab6cff33-e165-49dd-966c-ac9a3d20520e",
+  "recipeName": "Slow Cooker Chicken Tikka Masala",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 6
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1.5
+      },
+      "name": "Garam Masala",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Cumin",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Tumeric",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Smoked Paprika",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Cayenne",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pounds",
+        "value": 2
+      },
+      "name": "Boneless Skinless Chicken",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Cooking Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "medium",
+        "value": 1
+      },
+      "name": "Yellow Onion",
+      "notes": "diced"
+    },
+    {
+      "quantity": {
+        "kind": "cloves",
+        "value": 3
+      },
+      "name": "Garlic",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Fresh Ginger",
+      "notes": "grated"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 15
+      },
+      "name": "Tomato Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Heavy Cream",
+      "notes": "can sub coconut milk"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Black Pepper",
+      "notes": "grinder"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine all the spices (except the ginger) in a small bowl. Add about 10 cranks of black pepper from a pepper mill."
+    },
+    {
+      "id": 2,
+      "text": "Sprinkle spice mixture over chicken, coating liberally."
+    },
+    {
+      "id": 3,
+      "text": "Heat cooking oil on a large skillet over medium-high heat."
+    },
+    {
+      "id": 4,
+      "text": "Cook chicken until browned (about 3 minutes each side), it does not need to be cooked through."
+    },
+    {
+      "id": 5,
+      "text": "Transfer chicken to the slow cooker."
+    },
+    {
+      "id": 6,
+      "text": "Add diced onion to skillet and continue to cook until soft and slightly brown on the edges, remove skillet from heat."
+    },
+    {
+      "id": 7,
+      "text": "Add onions to the slow cooker."
+    },
+    {
+      "id": 8,
+      "text": "Add 0.25 cups water to the skillet to dissolve the brown bits. Pour into slow cooker."
+    },
+    {
+      "id": 9,
+      "text": "Add minced garlic, ginger, and tomato sauce to the slow cooker."
+    },
+    {
+      "id": 10,
+      "text": "Stir to combine, then cook either 3 hours on high, or 6 hours on low."
+    },
+    {
+      "id": 11,
+      "text": "When done, add heavy cream and stir to combine."
+    }
+  ],
+  "keywords": [
+    "chicken",
+    "indian",
+    "crockpot",
+    "slow cooker",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "fats": 20.8,
+    "carbohydrates": 10.3,
+    "sugars": 5,
+    "protein": 27.6
+  }
+}
