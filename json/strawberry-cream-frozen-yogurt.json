@@ -1,0 +1,85 @@
+{
+  "recipeId": "c854ce83-5e98-4787-9b0f-79ce3069f428",
+  "recipeName": "Strawberry Cream Frozen Yogurt",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 32
+      },
+      "name": "Strawberry Frozen Yogurt",
+      "notes": "chobani"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Whole Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.5
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Add all ingredients in a large bowl and stir with a whisk until combined"
+    },
+    {
+      "id": 2,
+      "text": "Add mixture to ice cream machine and churn about 20 minutes, until firm"
+    },
+    {
+      "id": 3,
+      "text": "Place in freezer for 3 hours to firm up"
+    }
+  ],
+  "keywords": [
+    "ice cream",
+    "yogurt",
+    "dessert",
+    "strawberry"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "fats": 8.5,
+    "carbohydrates": 45,
+    "sugars": 44,
+    "protein": 13.7
+  }
+}
