@@ -1,0 +1,83 @@
+{
+  "recipeId": "e8805be5-5f1e-46c5-9ca3-7fad271da939",
+  "recipeName": "Candied Cherries",
+  "prep": {
+    "kind": "minutes",
+    "value": 2
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 45
+  },
+  "yield": {
+    "kind": "cherries",
+    "value": 50
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Natural Maraschino Cherries",
+      "notes": "drained"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Maraschino Cherry Juice",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a heavy bottom pot, add the juice and sugar over low heat."
+    },
+    {
+      "id": 2,
+      "text": "Bring to a simmer for a few minutes until sugar is dissolved (don't stir, just swirl the pot)"
+    },
+    {
+      "id": 3,
+      "text": "Add cherries and continue to simmer slowly for about 45 minutes, turning now and then"
+    },
+    {
+      "id": 4,
+      "text": "They will start to wrinkle and look like candied cherries"
+    },
+    {
+      "id": 5,
+      "text": "At the 45 minute mark, use a candy thermometer to check the liquid. It should reach the soft ball stage (about 237°F)"
+    },
+    {
+      "id": 6,
+      "text": "Remove from heat and place cherries on a tray (silicon mat works well)"
+    },
+    {
+      "id": 7,
+      "text": "Store in the fridge in a seal container, they should keep up to 6 months if candied properly"
+    }
+  ],
+  "keywords": [
+    "candy",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 18,
+    "fats": null,
+    "carbohydrates": 5,
+    "sugars": 4,
+    "protein": null
+  }
+}

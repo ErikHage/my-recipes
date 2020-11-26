@@ -1,0 +1,180 @@
+{
+  "recipeId": "21f83a3e-cd84-4dbb-8a9b-f3eab10b7fa7",
+  "recipeName": "Slow Cooker Chicken Chili",
+  "prep": {
+    "kind": "minutes",
+    "value": 60
+  },
+  "cook": {
+    "kind": "hour",
+    "value": 8
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "White Norther Dry BEans",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pound",
+        "value": 1
+      },
+      "name": "Boneless Skinless Chicken",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 0.5
+      },
+      "name": "Yellow Onion",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 4
+      },
+      "name": "Chicken Broth",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Garlic Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Cumin",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Oregano",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Black Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Cayenne Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 7
+      },
+      "name": "Chopped Green Chilis",
+      "notes": "canned is good"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Fat Free Sour Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Fat Free Milk",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Quick soak beans (instructions on bag)"
+    },
+    {
+      "id": 2,
+      "text": "Chop chicken into bite sized pieces"
+    },
+    {
+      "id": 3,
+      "text": "Chop onion into small pieces"
+    },
+    {
+      "id": 4,
+      "text": "Saute chicken and olive oil over medium heat for a few minutes"
+    },
+    {
+      "id": 5,
+      "text": "Add onion, stir until chicken no longer pink"
+    },
+    {
+      "id": 6,
+      "text": "Pour chicken into slow cooker"
+    },
+    {
+      "id": 7,
+      "text": "Add all spices and stir until coated"
+    },
+    {
+      "id": 8,
+      "text": "When beans are done soaking, rinse and add to pot, stir"
+    },
+    {
+      "id": 9,
+      "text": "Add chicken broth and chilis, stir to combine"
+    },
+    {
+      "id": 10,
+      "text": "Cook on high for 4-6 hours, or low 8-10 hours"
+    },
+    {
+      "id": 11,
+      "text": "When done add sour cream and milk, stir until blended"
+    }
+  ],
+  "keywords": [
+    "chili",
+    "chicken",
+    "slow cooker"
+  ],
+  "nutrition": {
+    "calories": 311,
+    "fats": 4,
+    "carbohydrates": 40,
+    "sugars": null,
+    "protein": 27
+  }
+}

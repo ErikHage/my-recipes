@@ -1,0 +1,174 @@
+{
+  "recipeId": "04368629-328f-4792-8446-e056ada507d0",
+  "recipeName": "Apple Strudel",
+  "prep": {
+    "kind": "minutes",
+    "value": 35
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 7
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.25
+      },
+      "name": "Apple Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Cornstarch",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pounds",
+        "value": 1.5
+      },
+      "name": "Apples",
+      "notes": "peeled, cored, and sliced 1/4\" thick"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Dark Raisins",
+      "notes": "seedless"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Ground Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Pecans",
+      "notes": "chopped"
+    },
+    {
+      "quantity": {
+        "kind": "sheets",
+        "value": 4
+      },
+      "name": "Phyllo dough",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Melted Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Fine Dried Breadcrumbs",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 450°F"
+    },
+    {
+      "id": 2,
+      "text": "Line a baking sheet with parchment paper"
+    },
+    {
+      "id": 3,
+      "text": "In a small bowl, create a slurry by combining 1/4 cup apple juice with the cornstarch, mix until smooth and set aside"
+    },
+    {
+      "id": 4,
+      "text": "In a large saucepan, over medium heat, cook the apples with the remaining apple juice, raisins, sugar, and cinnamon until apples are tender, about 8-10 minutes"
+    },
+    {
+      "id": 5,
+      "text": "Stir in cornstarch slurry, stirring constantly until smooth and lump-free"
+    },
+    {
+      "id": 6,
+      "text": "Simmer for 1 more minute, stirring constantly"
+    },
+    {
+      "id": 7,
+      "text": "Remove from heat and cool, stir in pecans, cover and chill"
+    },
+    {
+      "id": 8,
+      "text": "Lay out 1 sheet of Phyllo on a lightly floured surface"
+    },
+    {
+      "id": 9,
+      "text": "Brush the Phyllo with melted butter and sprinkle with 1 Tablespoon of breadcrumbs"
+    },
+    {
+      "id": 10,
+      "text": "Repeat with 2 more sheets, topping with the 4th sheet"
+    },
+    {
+      "id": 11,
+      "text": "Spread apple filling evenly across, leaving 1/2\" of clean edges on the sides"
+    },
+    {
+      "id": 12,
+      "text": "Roll into a log, folding edges at each end beneath the log, brush with melted butter"
+    },
+    {
+      "id": 13,
+      "text": "Place on baking sheet, seam-side down"
+    },
+    {
+      "id": 14,
+      "text": "Bake until golden brown, 15-18 minutes"
+    },
+    {
+      "id": 15,
+      "text": "Remove from oven and cool for at least 15 minutes before cutting into 2\" slices"
+    }
+  ],
+  "keywords": [
+    "apple",
+    "bake",
+    "phyllo",
+    "baked",
+    "baking"
+  ],
+  "nutrition": {
+    "calories": 267.7,
+    "fats": 8.9,
+    "carbohydrates": 47,
+    "sugars": 30.3,
+    "protein": 2.7
+  }
+}

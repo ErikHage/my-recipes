@@ -1,0 +1,168 @@
+{
+  "recipeId": "21ffc974-9c9a-43a5-88cc-5a443c5d500b",
+  "recipeName": "Treacle Tart",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 40
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 250
+      },
+      "name": "All Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 130
+      },
+      "name": "Butter",
+      "notes": "plus extra for greasing"
+    },
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 400
+      },
+      "name": "Golden Syrup",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "grams",
+        "value": 150
+      },
+      "name": "Fine Fresh White Breadcrumbs",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 2
+      },
+      "name": "Lemons",
+      "notes": "zest and juice"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Egg",
+      "notes": "beaten"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Cold Water",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Measure the flour into a large bowl and rub in the butter with your fingertips until the mixture resembles fine breadcrumbs (can also use a food processor)"
+    },
+    {
+      "id": 2,
+      "text": "Add about 3 Tablespoons of water and mix to form a firm dough"
+    },
+    {
+      "id": 3,
+      "text": "Wrap in plastic wrap and refrigerate about 20 minutes"
+    },
+    {
+      "id": 4,
+      "text": "Preheat oven to 400°F and place a heavy baking tray in the oven to heat up"
+    },
+    {
+      "id": 5,
+      "text": "Grease a deep 7\" loose bottom fluted flan tin with butter"
+    },
+    {
+      "id": 6,
+      "text": "Remove about 150g of the pastry from the main ball and set aside for lattice top"
+    },
+    {
+      "id": 7,
+      "text": "Roll the rest of the pastry out thinly on a lightly floured work surface"
+    },
+    {
+      "id": 8,
+      "text": "Line the prepared flan tin with the pastry"
+    },
+    {
+      "id": 9,
+      "text": "Prick the base with a fork to prevent rising during baking"
+    },
+    {
+      "id": 10,
+      "text": "Place reserved pastry for lattice on a sheet of plastic wrap and roll it thin"
+    },
+    {
+      "id": 11,
+      "text": "Egg wash and set in fridge, do not cut yet (do not egg wash once laid on tart)"
+    },
+    {
+      "id": 12,
+      "text": "Heat syrup gently in large pan, but do not bring to a boil"
+    },
+    {
+      "id": 13,
+      "text": "Once melted add the breadcrumbs, lemon juice, and lemon zest (add more breadcrumbs if runny)"
+    },
+    {
+      "id": 14,
+      "text": "Pour into lined tin and level the surface"
+    },
+    {
+      "id": 15,
+      "text": "Removed reserved pastry and cut into half inch wide strips, longer than the diameter of the tin"
+    },
+    {
+      "id": 16,
+      "text": "Egg wash edge of pastry in tin, and assemble woven lattice (do it separately, then flip on top)"
+    },
+    {
+      "id": 17,
+      "text": "Cut off hanging end of lattice by pressing down with hands"
+    },
+    {
+      "id": 18,
+      "text": "Bake on pre-heated tray for about 10 minutes, or until pastry has started to color"
+    },
+    {
+      "id": 19,
+      "text": "Reduce heat to 350°F and bake an additional 25-30 minutes (cover with foil if the lattice gets too dark)"
+    },
+    {
+      "id": 20,
+      "text": "Remove and let firm up in tin, serve hot or cold"
+    }
+  ],
+  "keywords": [
+    "tart",
+    "dessert",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 442,
+    "fats": 14.25,
+    "carbohydrates": 74.6,
+    "sugars": 38,
+    "protein": 5.75
+  }
+}

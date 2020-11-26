@@ -1,0 +1,214 @@
+{
+  "recipeId": "92b73918-f49d-4502-ae17-e89fb9c23e89",
+  "recipeName": "Cherry Almond Biscotti",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 51
+  },
+  "yield": {
+    "kind": "biscuits",
+    "value": 36
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.75
+      },
+      "name": "Dried Cherries",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Amaretto",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "All Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Coarse Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 4
+      },
+      "name": "Unsalted Butter",
+      "notes": "room temp"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Granulated Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 4
+      },
+      "name": "Eggs",
+      "notes": "3 whole, 1 beaten"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 2
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Whole Blanched Almonds",
+      "notes": "chopped"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Coarse Sanding Sugar",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 375°F"
+    },
+    {
+      "id": 2,
+      "text": "Heat cherries and amaretto over medium-low heat until cherries have softened, about 8 minutes"
+    },
+    {
+      "id": 3,
+      "text": "Drain, reserving 2 Tbsp. of liquid (add more amaretto if less liquid)"
+    },
+    {
+      "id": 4,
+      "text": "Sift together flour, baking powder, and salt into a bowl"
+    },
+    {
+      "id": 5,
+      "text": "Put butter and granulated sugar in an electric mixer with paddle attachment"
+    },
+    {
+      "id": 6,
+      "text": "Mix on medium speed until fluffy, about 2 minutes"
+    },
+    {
+      "id": 7,
+      "text": "Mix in 3 whole eggs, one at a time, until incorporated"
+    },
+    {
+      "id": 8,
+      "text": "Mix in reserved cherry liquid and the vanilla extract"
+    },
+    {
+      "id": 9,
+      "text": "Reduce speed to low, and gradually mix in flour mixture"
+    },
+    {
+      "id": 10,
+      "text": "Stir in cherries and almonds by hand"
+    },
+    {
+      "id": 11,
+      "text": "On a lightly floured surface, halve the dough into two logs"
+    },
+    {
+      "id": 12,
+      "text": "Shape each half into a 12.5\" x 2.5\" log"
+    },
+    {
+      "id": 13,
+      "text": "Flatten logs to 0.5\" thick"
+    },
+    {
+      "id": 14,
+      "text": "Transfer to a baking sheet lined with parchment paper"
+    },
+    {
+      "id": 15,
+      "text": "Brush logs with beaten egg, sprinkle with sanding sugar"
+    },
+    {
+      "id": 16,
+      "text": "Bake 35 minutes, rotating baking sheets halfway though the bake"
+    },
+    {
+      "id": 17,
+      "text": "Transfer to wire racks to cool, about 20 minutes"
+    },
+    {
+      "id": 18,
+      "text": "Reduce oven temp to 300°F"
+    },
+    {
+      "id": 19,
+      "text": "Cut each log on a diagonal into 16-18 pieces"
+    },
+    {
+      "id": 20,
+      "text": "Transfer pieces onto racks, laying them on their sides"
+    },
+    {
+      "id": 21,
+      "text": "Set racks on baking sheets, bake 8 minutes"
+    },
+    {
+      "id": 22,
+      "text": "Flip and bake 8 more minutes"
+    },
+    {
+      "id": 23,
+      "text": "Let cool until crisp"
+    }
+  ],
+  "keywords": [
+    "biscuit",
+    "cherry",
+    "almond",
+    "bake",
+    "baking"
+  ],
+  "nutrition": {
+    "calories": 126,
+    "fats": 3.5,
+    "carbohydrates": 21.4,
+    "sugars": 11.2,
+    "protein": 2.5
+  }
+}
