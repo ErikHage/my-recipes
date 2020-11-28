@@ -1,0 +1,76 @@
+{
+  "recipeId": "48decdb6-6134-487c-b7e2-9dd51ea3030e",
+  "recipeName": "Whipped Cream",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Heavy Whipping Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Powdered Sugar",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Place a metal mixing bowl and metal whisk into the freezer for 10 to 15 minutes"
+    },
+    {
+      "id": 2,
+      "text": "Place the sugar and vanilla extract into the mixing bowl and add the heavy whipping cream"
+    },
+    {
+      "id": 3,
+      "text": " Whisk just until the cream reaches stiff peaks"
+    },
+    {
+      "id": 4,
+      "text": " Store any unused portion in an airtight container for up to 10 hours"
+    },
+    {
+      "id": 5,
+      "text": "When ready to use, rewhisk for 10 to 15 seconds"
+    }
+  ],
+  "keywords": [
+    "cream",
+    "topping",
+    "whipped"
+  ],
+  "nutrition": {
+    "calories": 212,
+    "fats": 22.2,
+    "carbohydrates": 2.7,
+    "sugars": 1.1,
+    "protein": 1.2
+  }
+}
