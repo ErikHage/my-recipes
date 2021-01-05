@@ -1,0 +1,164 @@
+{
+  "recipeId": "b37f798d-2d94-49e5-b3d1-e5fd1121ee66",
+  "recipeName": "Gingerbread Cookies",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 9
+  },
+  "yield": {
+    "kind": "cookies",
+    "value": 24
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 1
+      },
+      "name": "Ground Ginger",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Ground Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.25
+      },
+      "name": "Ground Cloves",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 6
+      },
+      "name": "Unsalted Butter",
+      "notes": "room temp"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Dark Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 1
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Molasses",
+      "notes": "unsulphured, not blackstrap"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 1
+      },
+      "name": "Lemon Zest",
+      "notes": "fine grated (optional)"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 3
+      },
+      "name": "Milk",
+      "notes": "only if needed"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 375°F"
+    },
+    {
+      "id": 2,
+      "text": "Whisk flour, salt, and spices together in a bowl, set aside"
+    },
+    {
+      "id": 3,
+      "text": "In a stand mixer, cream butter and brown sugar until they just come together"
+    },
+    {
+      "id": 4,
+      "text": "Add egg, mix until incorporated"
+    },
+    {
+      "id": 5,
+      "text": "Add molasses, vanilla, and lemon zest, mix until incorporated"
+    },
+    {
+      "id": 6,
+      "text": "Slowly mix in the flour mixture until dough forms"
+    },
+    {
+      "id": 7,
+      "text": "If very dry, add 1 tsp of the milk at a time until it comes together (it should not be sticky)"
+    },
+    {
+      "id": 8,
+      "text": "Roll out onto lightly floured surface to a quarter inch thick, cut cookies"
+    },
+    {
+      "id": 9,
+      "text": "Bake on a parchment-lined baking sheet for 8-9 minutes"
+    }
+  ],
+  "keywords": [
+    "ginger",
+    "cookie",
+    "gingerbread"
+  ],
+  "nutrition": {
+    "calories": 129,
+    "fats": 3.1,
+    "carbohydrates": 23.3,
+    "sugars": 10.4,
+    "protein": 2
+  }
+}
