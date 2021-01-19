@@ -1,0 +1,100 @@
+{
+  "recipeId": "69f505f9-d5b1-48bc-a3a3-2394249966db",
+  "recipeName": "Roasted (Frozen) Brussels Sprouts",
+  "prep": {
+    "kind": "minutes",
+    "value": 2
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 24
+      },
+      "name": "Frozen Brussels Sprouts",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Garlic Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 4
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 400°F"
+    },
+    {
+      "id": 2,
+      "text": "Add sprouts to a bowl, add 3 Tablespoons of the olive oil, and half of each of the seasonings, stir to coat"
+    },
+    {
+      "id": 3,
+      "text": "Spread out the sprouts evenly on a baking tray lined with aluminum foil"
+    },
+    {
+      "id": 4,
+      "text": "Bake for 10 minutes"
+    },
+    {
+      "id": 5,
+      "text": "Cut sprouts in half and return to bowl, adding the remaining oil and seasonings"
+    },
+    {
+      "id": 6,
+      "text": "Return sprouts to tray and bake another 15 minutes, or until they reach your desired crispness"
+    },
+    {
+      "id": 7,
+      "text": "Remove from oven and allow to cool before eating"
+    }
+  ],
+  "keywords": [
+    "sprouts",
+    "roasted",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "fats": 5.1,
+    "carbohydrates": 8,
+    "sugars": 2,
+    "protein": 3
+  }
+}
