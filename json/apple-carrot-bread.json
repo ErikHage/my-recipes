@@ -1,0 +1,177 @@
+{
+  "recipeId": "ce616ec8-ea43-4d9e-b289-c537d9195a67",
+  "recipeName": "Carrot Apple Bread",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 45
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 1
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Light Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Vegetable Oil",
+      "notes": "can sub canola or coconut"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Granulated Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Greek Yogurt",
+      "notes": "can sub sour cream"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Cinnamon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.5
+      },
+      "name": "Ground Nutmeg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "All Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.5
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.5
+      },
+      "name": "Baking Soda",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Grated Carrots",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Grated Apples",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "pinch",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 350 °F."
+    },
+    {
+      "id": 2,
+      "text": "Grease and flour a 9\"x5\" loaf pan."
+    },
+    {
+      "id": 3,
+      "text": "In a large bowl, add the egg, brown sugar, oil, sugar, greek yogurt, vanilla, cinnamon, and nutmeg, and whisk to combine."
+    },
+    {
+      "id": 4,
+      "text": "Add the flour, baking powder, baking soda, and salt, and fold to combine."
+    },
+    {
+      "id": 5,
+      "text": "Add the carrots and apples, and fold gently to combine."
+    },
+    {
+      "id": 6,
+      "text": "Turn out batter into the prepared loaf pan (it will be very thick)."
+    },
+    {
+      "id": 7,
+      "text": "Bake for 45 to 52 minutes, until a toothpick comes out with no batter (it may have some moist crumbs)."
+    },
+    {
+      "id": 8,
+      "text": "Allow bread to cool in the pan for at least 15 minutes before turning out onto a wire rack before slicing and serving."
+    }
+  ],
+  "keywords": [
+    "apple",
+    "carrot",
+    "cake",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 206,
+    "fats": 10,
+    "carbohydrates": 24.8,
+    "sugars": 6.5,
+    "protein": 2.1
+  }
+}
