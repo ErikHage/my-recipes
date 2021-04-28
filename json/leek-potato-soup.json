@@ -1,0 +1,141 @@
+{
+  "recipeId": "eb425217-208a-410d-a610-1badfdc7a41c",
+  "recipeName": "Leek Potato Soup",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 75
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "pound",
+        "value": 1
+      },
+      "name": "Leeks",
+      "notes": "cleaned and dark green sections removed"
+    },
+    {
+      "quantity": {
+        "kind": "Tbsp",
+        "value": 3
+      },
+      "name": "Unsalted Butter",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "tsp",
+        "value": 0.25
+      },
+      "name": "Kosher Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 14
+      },
+      "name": "Yukon Gold Potatoes",
+      "notes": "peeled and diced small"
+    },
+    {
+      "quantity": {
+        "kind": "quart",
+        "value": 1
+      },
+      "name": "Vegetable Broth",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cup",
+        "value": 1
+      },
+      "name": "Buttermilk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "tsp",
+        "value": 0.5
+      },
+      "name": "White Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tbsp",
+        "value": 1
+      },
+      "name": "Chives",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Chop leek into small pieces"
+    },
+    {
+      "id": 2,
+      "text": "Melt butter in a 6 quart pan over medium heat"
+    },
+    {
+      "id": 3,
+      "text": "Add leeks and salt, sweat for 5 minutes"
+    },
+    {
+      "id": 4,
+      "text": "Decrease heat to medium-low and cook until leeks are tender, approximately 25 minutes, stirring occasionally"
+    },
+    {
+      "id": 5,
+      "text": "Add the potatoes and vegetable broth, increase heat to medium-high and bring to a boil"
+    },
+    {
+      "id": 6,
+      "text": "Reduce heat to low, cover, and gently simmer until potatoes are soft, approximately 45 minutes"
+    },
+    {
+      "id": 7,
+      "text": "Turn off the heat and puree with an immersion blender until smooth"
+    },
+    {
+      "id": 8,
+      "text": "Stir in heavy cream, buttermilk, and white pepper"
+    },
+    {
+      "id": 9,
+      "text": "Taste and adjust seasoning, sprinkle with chives to serve"
+    }
+  ],
+  "keywords": [
+    "potato",
+    "leek",
+    "soup",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 302,
+    "fats": 22.3,
+    "carbohydrates": 25.3,
+    "sugars": 5.5,
+    "protein": 3.8
+  }
+}
