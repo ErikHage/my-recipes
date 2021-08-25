@@ -1,0 +1,152 @@
+{
+  "recipeId": "b17862f1-2d25-4f4e-9783-da1f7d80bc17",
+  "recipeName": "Lemon Chicken - Baked",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 35
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3
+      },
+      "name": "Garlic, minced",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Dry White Wine",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Lemon Zest",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Lemon Juice, fresh squeezed",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1.5
+      },
+      "name": "Oregano, dried",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Thyme, fresh, minced",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Boneless Chicken Breasts",
+      "notes": "6-8 ounces each"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 1
+      },
+      "name": "Lemon",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Pepper",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 400 degrees."
+    },
+    {
+      "id": 2,
+      "text": "Warm olive oil in small saucepan over medium-low heat, then add garlic and cook for 1 minute. Don't let garlic turn brown."
+    },
+    {
+      "id": 3,
+      "text": "Remove from heat, add white wine, lemon zest, lemon juice, oregano, thyme, nd 1 teaspoon salt."
+    },
+    {
+      "id": 4,
+      "text": "Pour sauce into a 9x12 baking dish."
+    },
+    {
+      "id": 5,
+      "text": "Pat chicken dry and place them over the sauce. Brush with olive oil and sprinkle with salt and pepper."
+    },
+    {
+      "id": 6,
+      "text": "Cut lemon into 8 wedges and tuck amongst the chicken."
+    },
+    {
+      "id": 7,
+      "text": "Bake 30-40 minutes, depending on thickness of chicken."
+    },
+    {
+      "id": 8,
+      "text": "Remove from oven and cover pan with aluminum foil and allow to rest for 10 minutes before serving."
+    }
+  ],
+  "keywords": [
+    "chicken",
+    "lemon",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 453,
+    "fats": 20.9,
+    "carbohydrates": 4.5,
+    "sugars": null,
+    "protein": 61.1
+  }
+}
