@@ -1,0 +1,146 @@
+{
+  "recipeId": "9a06cbe8-e283-4c71-abf9-f349e08a9ed5",
+  "recipeName": "No-Bake Melon Cheesecake Bars",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "bars",
+    "value": 16
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 9.5
+      },
+      "name": "Graham Crackers",
+      "notes": "crushed coarsly"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Butter, unsalted",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Granulated Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.75
+      },
+      "name": "Salt",
+      "notes": "divided 0.5, 0.25"
+    },
+    {
+      "quantity": {
+        "kind": "packets",
+        "value": 2
+      },
+      "name": "Powdered Gelatin",
+      "notes": "1/4 ounce or 7 gram packets"
+    },
+    {
+      "quantity": {
+        "kind": "pounds",
+        "value": 1.25
+      },
+      "name": "Cantaloupe",
+      "notes": "diced"
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 8
+      },
+      "name": "Cream Cheese",
+      "notes": "room temperature"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Granulated Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Heavy Whipping Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Honey",
+      "notes": "for drizzling"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "For the crust, mix crushed graham cracker crumbs, melted butter, 2 Tbsp granulated sugar, and 1/2 tsp salt."
+    },
+    {
+      "id": 2,
+      "text": "Transfer crumbs to an 8 or 9 inch square baking pan and press into the bottom of the pan with your hands, forming a thick, sturdy base. Place in the freezer to set while you make the filling."
+    },
+    {
+      "id": 3,
+      "text": "In a small bowl, stir together 1/4 cup cold tap water and the gelatin. Let it sit to bloom."
+    },
+    {
+      "id": 4,
+      "text": "Use a blender to puree the cantaloupe, cream cheese, remaining sugar, and remaining salt until smooth."
+    },
+    {
+      "id": 5,
+      "text": "Heat the cream in a small saucepan on the stovetop over medium heat until simmering at the edges or in a small bowl in the microwave until hot to the touch, 45 to 60 seconds on high."
+    },
+    {
+      "id": 6,
+      "text": "Add the bloomed gelatin to the hot cream and stir vigorously until smooth. Transfer the cream to the blender and blend with the cantaloupe until smooth."
+    },
+    {
+      "id": 7,
+      "text": "Take the pan out of the freezer and pour the filling over the graham cracker crust. Cover and refrigerate until set, at least 6 hours or up to overnight."
+    },
+    {
+      "id": 8,
+      "text": "Cut into bars and serve, drizzled with honey if you like."
+    }
+  ],
+  "keywords": [
+    "melon",
+    "cheesecake",
+    "no-bake",
+    "dessert",
+    "chilled"
+  ],
+  "nutrition": {
+    "calories": 301,
+    "fats": 16.7,
+    "carbohydrates": 36.4,
+    "sugars": 17.7,
+    "protein": 3.3
+  }
+}
