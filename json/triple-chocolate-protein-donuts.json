@@ -1,0 +1,170 @@
+{
+  "recipeId": "1507fb2d-17d0-45dc-ae1c-d471c17a92b2",
+  "recipeName": "Triple Chocolate Protein Donuts",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Whole Dried Dates",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.375
+      },
+      "name": "Sliced Almonds",
+      "notes": "divided 0.25 and 0.125"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Almond Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Coconut Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Baking Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Cocoa",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "scoop",
+        "value": 1
+      },
+      "name": "Chocolate Protein Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 1
+      },
+      "name": "Whole Eggs",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 2
+      },
+      "name": "Egg Whites",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Chocolate Almond Milk",
+      "notes": "or vanilla"
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 4
+      },
+      "name": "Chocolate Squares",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 325 degrees F."
+    },
+    {
+      "id": 2,
+      "text": "Blend dates and 0.25 cups of almond slices in a food processor until crumbled."
+    },
+    {
+      "id": 3,
+      "text": "Add almond flour, coconut flour, baking powder, cocoa, and protein powder to a large mixing bowl, whisk thoroughly."
+    },
+    {
+      "id": 4,
+      "text": "Add date mix, eggs, and milk to bowl and mix until completely blended (like brownie batter)."
+    },
+    {
+      "id": 5,
+      "text": "Spoon into donut pan, smooth tops."
+    },
+    {
+      "id": 6,
+      "text": "Bake for 8-10 minutes (toothpick check)."
+    },
+    {
+      "id": 7,
+      "text": "Let cool completely before adding topping."
+    },
+    {
+      "id": 8,
+      "text": "For the topping:"
+    },
+    {
+      "id": 9,
+      "text": "Crush remaining 1/8 of a cup of almonds gently."
+    },
+    {
+      "id": 10,
+      "text": "Microwave chocolate squares for 30 seconds at a time, until soft."
+    },
+    {
+      "id": 11,
+      "text": "Dip donuts into chocolate, then almonds, one at a time."
+    },
+    {
+      "id": 12,
+      "text": "Allow chocolate topping to cool and set."
+    }
+  ],
+  "keywords": [
+    "donut",
+    "chocolate",
+    "protein",
+    "baked",
+    "buff dudes"
+  ],
+  "nutrition": {
+    "calories": 153,
+    "fats": 8.5,
+    "carbohydrates": 13,
+    "sugars": 6.5,
+    "protein": 10.5
+  }
+}
