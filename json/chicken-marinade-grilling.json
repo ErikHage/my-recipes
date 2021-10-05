@@ -1,0 +1,101 @@
+{
+  "recipeId": "43490b2f-023c-4ee8-a9a8-7428946d4eba",
+  "recipeName": "Chicken Marinade - Grilling",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "pounds",
+    "value": 2.5
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3.5
+      },
+      "name": "Brown Sugar",
+      "notes": "or honey"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 2
+      },
+      "name": "Olive Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 9
+      },
+      "name": "Soy Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 3.5
+      },
+      "name": "Lemon Juice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 3.5
+      },
+      "name": "Worcestershire Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cloves",
+        "value": 7
+      },
+      "name": "Garlic",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1.75
+      },
+      "name": "Dried Oregano",
+      "notes": "or rosemary, thyme, minced herbs"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Black Pepper",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Mix all ingredients together, marinade at least 3 hours, to overnight."
+    }
+  ],
+  "keywords": [
+    "marinade",
+    "chicken",
+    "grilling",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": null,
+    "fats": null,
+    "carbohydrates": null,
+    "sugars": null,
+    "protein": null
+  }
+}
