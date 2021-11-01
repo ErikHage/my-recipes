@@ -1,0 +1,211 @@
+{
+  "recipeId": "be3372ad-defd-4e78-bbd4-6766251d0789",
+  "recipeName": "Saffron Rice Pilaf ",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 60
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 1
+      },
+      "name": "Vegetable Oil",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 2
+      },
+      "name": "Pistacios",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 2
+      },
+      "name": "Dried Cranberries",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "",
+        "value": 0
+      },
+      "name": "Orange Zest",
+      "notes": "from 1 medium orange"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 4
+      },
+      "name": "Raisins",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Basmati Rice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Chicken Broth",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "small",
+        "value": 1
+      },
+      "name": "Onion",
+      "notes": "minced"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Saffron Threads",
+      "notes": "divided, 1 and 1"
+    },
+    {
+      "quantity": {
+        "kind": "pounds",
+        "value": 1.5
+      },
+      "name": "Chicken Breast",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 1
+      },
+      "name": "7 spice mix",
+      "notes": "black pepper, cinnamon, cloves, cardamom, coriander, cumin, paprika"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 1
+      },
+      "name": "Tumeric",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 1
+      },
+      "name": "Butter (or Ghee)",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 1
+      },
+      "name": "Almonds",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 1
+      },
+      "name": "Pine Nuts",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 1
+      },
+      "name": "Cashews",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Wash rice thoroughly, and soak it for at least 30 minutes."
+    },
+    {
+      "id": 2,
+      "text": "In a large pot, add the vegetable oil. Sauté onion, cranberries, raisins, orange zest, and pistachios for 10 minutes on low heat."
+    },
+    {
+      "id": 3,
+      "text": "Add chicken, 7 spice mixture, turmeric, 1 tsp of the saffron, and salt and sauté for 5 minutes."
+    },
+    {
+      "id": 4,
+      "text": "Add the soaked rice, sauté for 5 minutes."
+    },
+    {
+      "id": 5,
+      "text": "Add chicken broth and cover pot with tight lid."
+    },
+    {
+      "id": 6,
+      "text": "Heat on high for 5 minutes, then reduce to lowest, cook 30 minutes, or until liquid completely absorbed."
+    },
+    {
+      "id": 7,
+      "text": "Before rice is completely done (around 25 minute mark) add remaining saffron."
+    },
+    {
+      "id": 8,
+      "text": "In a small pan, add the butter or Ghee and heat on low/medium-low."
+    },
+    {
+      "id": 9,
+      "text": "When the butter is hot, add the almonds, pine nuts, and cashews, and toast them until they are golden brown."
+    },
+    {
+      "id": 10,
+      "text": "Drizzle nuts and butter over rice, serve hot with yogurt or green salad."
+    }
+  ],
+  "keywords": [
+    "rice",
+    "saffron",
+    "chicken",
+    "pilaf",
+    "persian",
+    "nuts"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "fats": 11.4,
+    "carbohydrates": 52.5,
+    "sugars": 9.3,
+    "protein": 43.2
+  }
+}
