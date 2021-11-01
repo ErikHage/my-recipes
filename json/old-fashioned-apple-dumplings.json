@@ -1,0 +1,154 @@
+{
+  "recipeId": "d39e0c36-507c-4d54-8edc-92b8017f920f",
+  "recipeName": "Old Fashioned Apple Dumplings",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 50
+  },
+  "yield": {
+    "kind": "dumplings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "",
+        "value": 6
+      },
+      "name": "Apples, medium",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "sheets",
+        "value": 2
+      },
+      "name": "Pie crust dough",
+      "notes": "at least enough for a 9\" double crust pie"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 3
+      },
+      "name": "Unsalted Butter",
+      "notes": "cut into 6 1/2 Tbsp. pieces"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 6
+      },
+      "name": "Granulated Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Apple Pie Spice",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1
+      },
+      "name": "Unfiltered Apple Juice or Cider",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Light Brown Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Unsalted Butter",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 375 degrees F."
+    },
+    {
+      "id": 2,
+      "text": "Grease a 13\" x 9\" baking dish, set aside."
+    },
+    {
+      "id": 3,
+      "text": "Peel and core each apple."
+    },
+    {
+      "id": 4,
+      "text": "Cut and roll dough into 6 equal pieces, about 7\" x 7\" each."
+    },
+    {
+      "id": 5,
+      "text": "In a small bowl, stir together granulated sugar and apple pie spice."
+    },
+    {
+      "id": 6,
+      "text": "Place a cored apple in the center of each dough piece."
+    },
+    {
+      "id": 7,
+      "text": "In the center of each apple, place a 1/2 Tbsp. of butter and 1 Tbsp. of the sugar mixture."
+    },
+    {
+      "id": 8,
+      "text": "Bring corners of dough up over the apple and pinch to seal."
+    },
+    {
+      "id": 9,
+      "text": "Place apples in the baking dish."
+    },
+    {
+      "id": 10,
+      "text": "In a saucepan over medium heat, add the brown sugar, apple juice, and 1/4 cup butter."
+    },
+    {
+      "id": 11,
+      "text": "Bring to a boil and make sure all sugar is dissolved."
+    },
+    {
+      "id": 12,
+      "text": "Pour sauce over apples and sprinkle with any remaining spiced sugar."
+    },
+    {
+      "id": 13,
+      "text": "Bake for 50-55 minutes, or until golden and a paring knife can be easily inserted into the apples."
+    },
+    {
+      "id": 14,
+      "text": "Serve warm with some of the sauce."
+    }
+  ],
+  "keywords": [
+    "apple",
+    "dessert",
+    "baked",
+    "dumpling",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 768,
+    "fats": 37.1,
+    "carbohydrates": 114.4,
+    "sugars": 36.2,
+    "protein": 0.6
+  }
+}
