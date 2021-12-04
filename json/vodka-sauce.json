@@ -11,7 +11,7 @@
   },  
   "yield": {
     "kind": "servings",
-    "value": 6
+    "value": 8
   },
   "ingredients": [
     {
@@ -94,5 +94,12 @@
     "pasta",
     "cream",
     "tomato"
-  ]
+  ],
+  "nutrition": {
+    "calories": 178,
+    "fats": 13.4,
+    "carbohydrates": 14.6,
+    "sugars": 3.3,
+    "protein": 1.7
+  }
 }
