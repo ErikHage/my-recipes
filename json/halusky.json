@@ -74,7 +74,7 @@
   "steps": [
     {
       "id": 1,
-      "text": "Peel the potatoes and shred using a food grater or processor (or potato ricer).  "
+      "text": "Peel the potatoes boil until coooked through. Shred using a food grater or processor (or potato ricer).  "
     },
     {
       "id": 2,
@@ -109,5 +109,12 @@
     "potato",
     "slovak",
     "dumpling"
-  ]
+  ],
+  "nutrition": {
+    "calories": 580,
+    "fats": 23.9,
+    "carbohydrates": 65.1,
+    "sugars": 6,
+    "protein": 23.6
+  }
 }
