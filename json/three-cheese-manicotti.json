@@ -1,0 +1,171 @@
+{
+  "recipeId": "97a7305c-020b-4bc0-9123-d167a077f891",
+  "recipeName": "Three Cheese Manicotti",
+  "prep": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 42
+  },
+  "yield": {
+    "kind": "pieces",
+    "value": 13
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "shells",
+        "value": 13
+      },
+      "name": "Manicotti Pasta",
+      "notes": "about half a pound dry pasta, usually one box"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Whole Milk Ricotta Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Mozzarella, Shredded",
+      "notes": "divided 1 cup, 1 cup"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Parmesan Cheese",
+      "notes": "grated or shredded"
+    },
+    {
+      "quantity": {
+        "kind": "large",
+        "value": 1
+      },
+      "name": "Egg",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Italian Parsley",
+      "notes": "chopped, or dried"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 1
+      },
+      "name": "Basil",
+      "notes": "chopped, or dried"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Black Pepper",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.125
+      },
+      "name": "Ground Nutmeg",
+      "notes": "really enhances the flavor!"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 5
+      },
+      "name": "Pasta Sauce",
+      "notes": "your favorite brand"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat over to 400 degrees."
+    },
+    {
+      "id": 2,
+      "text": "Cook Manicotti pasta al dente (about 7 minutes in salted boiling water)."
+    },
+    {
+      "id": 3,
+      "text": "Drain pasta and rinse in cold water, then set aside in one layer on a sheet pan."
+    },
+    {
+      "id": 4,
+      "text": "In a large bowl, stir together ricotta, one cup of the mozzarella, parmesan, egg, parsley, basil, salt, pepper, and nutmeg until thoroughly combined."
+    },
+    {
+      "id": 5,
+      "text": "Evenly spread some of the tomato sauce on the bottom of a 13\" x 9\" baking dish."
+    },
+    {
+      "id": 6,
+      "text": "Pipe cheese mixture into the pasta shells, and set them into the baking dish in one layer."
+    },
+    {
+      "id": 7,
+      "text": "Spread remaining tomato sauce over the pasta."
+    },
+    {
+      "id": 8,
+      "text": "Evenly sprinkle the remaining mozzarella cheese over the pasta."
+    },
+    {
+      "id": 9,
+      "text": "Cover with foil and bake for 30 minutes."
+    },
+    {
+      "id": 10,
+      "text": "Remove foil and bake an additional 5 minutes, or until sauce starts to bubble."
+    },
+    {
+      "id": 11,
+      "text": "Garnish with some parsley, basil, and parmesan cheese."
+    },
+    {
+      "id": 12,
+      "text": "Serve hot!"
+    }
+  ],
+  "keywords": [
+    "italian",
+    "cheese",
+    "tomato",
+    "pasta",
+    "baked",
+    "manicotti"
+  ],
+  "nutrition": {
+    "calories": 222,
+    "fats": 9.6,
+    "carbohydrates": 21.7,
+    "sugars": 4.6,
+    "protein": 13.6
+  }
+}
