@@ -1,0 +1,95 @@
+{
+  "recipeId": "d16b6790-4930-4fc6-8de5-319321ede4ed",
+  "recipeName": "Pizza Cupcakes",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "crust",
+        "value": 1
+      },
+      "name": "Pizza Dough",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Shredded Mozzarella Cheese",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Pizza Sauce",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Preheat oven to 400F."
+    },
+    {
+      "id": 2,
+      "text": "Spray 8 cups of a muffin tin with cooking spray."
+    },
+    {
+      "id": 3,
+      "text": "Stretch out pizza dough onto a lightly floured surface, and cut out 8 4\" rounds of dough."
+    },
+    {
+      "id": 4,
+      "text": "Place each piece of dough in a muffin cup."
+    },
+    {
+      "id": 5,
+      "text": "Add 1 tsp of cheese to each cup, then 1 Tbsp of sauce, then top with 1 Tbsp of cheese."
+    },
+    {
+      "id": 6,
+      "text": "Add any additional toppings."
+    },
+    {
+      "id": 7,
+      "text": "Bake 15 minutes, until cheese is bubbling and melted."
+    },
+    {
+      "id": 8,
+      "text": "Let sit for 5 minutes before serving."
+    },
+    {
+      "id": 9,
+      "text": "Extra can be frozen and re-heated."
+    }
+  ],
+  "keywords": [
+    "pizza",
+    "tomato",
+    "cheese",
+    "cupcake",
+    "oven",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 178,
+    "fats": 4.3,
+    "carbohydrates": 25.8,
+    "sugars": 0.8,
+    "protein": 8.8
+  }
+}

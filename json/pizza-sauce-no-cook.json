@@ -1,0 +1,110 @@
+{
+  "recipeId": "3d0363e5-6726-403f-b010-dfdd2b38dd7d",
+  "recipeName": "Pizza Sauce - No Cook",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 24
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 6
+      },
+      "name": "Tomato Paste",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 15
+      },
+      "name": "Tomato Sauce",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 2
+      },
+      "name": "Oregano",
+      "notes": "1-2 Tbsp to taste"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 2
+      },
+      "name": "Italian Seasoning",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Garlic Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.5
+      },
+      "name": "Onion Powder",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 0.5
+      },
+      "name": "Salt",
+      "notes": "can use garlic salt"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 0.25
+      },
+      "name": "Fresh Ground Black Pepper",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Mix tomato paste and sauce together in a medium bowl and whisk until well combined, with no lumps."
+    },
+    {
+      "id": 2,
+      "text": "Add remaining ingredients and mix well."
+    },
+    {
+      "id": 3,
+      "text": "Store in freezer if not used same day."
+    }
+  ],
+  "keywords": [
+    "sauce",
+    "pizza",
+    "tomato",
+    "herbs",
+    "no cook"
+  ],
+  "nutrition": {
+    "calories": 14,
+    "fats": 0.3,
+    "carbohydrates": 2.8,
+    "sugars": 1.8,
+    "protein": 0.6
+  }
+}

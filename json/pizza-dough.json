@@ -1,0 +1,125 @@
+{
+  "recipeId": "b5810dd0-a057-46e6-be3b-a55e5b396c07",
+  "recipeName": "Pizza Dough",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 70
+  },
+  "yield": {
+    "kind": "servings (1/4 of pizza)",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 4
+      },
+      "name": "Bread Flour (or All-Purpose)",
+      "notes": "3.5-4 cups"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 1
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "packet",
+        "value": 1
+      },
+      "name": "Instant Dry Yeast",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 1.5
+      },
+      "name": "Water",
+      "notes": "at 110 degrees F"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": 2
+      },
+      "name": "Olive Oil",
+      "notes": "for dough"
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 2
+      },
+      "name": "Olive Oil",
+      "notes": "for bowl"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine flour, sugar, yeast, and salt in a mixer bowl with dough hook attachment."
+    },
+    {
+      "id": 2,
+      "text": "While mixer is running, add water and 2 Tbsp oil, then beat until combined and dough forms a ball."
+    },
+    {
+      "id": 3,
+      "text": "If sticky, add additional flour, 1 Tbsp at a time, until a solid ball forms."
+    },
+    {
+      "id": 4,
+      "text": "If too dry, add water 1 Tbsp at a time, until a solid ball forms."
+    },
+    {
+      "id": 5,
+      "text": "Scrape dough onto a lightly floured surface and gently knead into a firm, smooth ball."
+    },
+    {
+      "id": 6,
+      "text": "Grease a large bowl with remaining oil and add the dough to the bowl."
+    },
+    {
+      "id": 7,
+      "text": "Cover with plastic wrap and let sit in a warm place to double in size (about 1 hour)."
+    },
+    {
+      "id": 8,
+      "text": "Turn out dough onto a lightly floured surface and divide into 2 equal pieces."
+    },
+    {
+      "id": 9,
+      "text": "Cover with towel or plastic wrap and allow to sit 10 minutes before using."
+    }
+  ],
+  "keywords": [
+    "pizza",
+    "dough",
+    "quick",
+    "food network"
+  ],
+  "nutrition": {
+    "calories": 259,
+    "fats": 4,
+    "carbohydrates": 48.2,
+    "sugars": 0.7,
+    "protein": 6.5
+  }
+}
