@@ -1,0 +1,104 @@
+{
+  "recipeId": "e4ccd6cc-4c70-4404-b600-5bc0819765bf",
+  "recipeName": "Flour Tortillas",
+  "prep": {
+    "kind": "minutes",
+    "value": 60
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 45
+  },
+  "yield": {
+    "kind": "tortillas",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 9
+      },
+      "name": "All Purpose Flour",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoon",
+        "value": 1
+      },
+      "name": "Salt",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.33
+      },
+      "name": "Lard",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Cool Water",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Combine flour and salt in a food processor, pulse 2-3 times"
+    },
+    {
+      "id": 2,
+      "text": "Add the lard to the processor in 4-5 chunks, pulse 10-15 times, until mixture resembles coarse crumbs"
+    },
+    {
+      "id": 3,
+      "text": "Add water in steady stream as processor is running, until a ball of dough begins to form, about 30 seconds"
+    },
+    {
+      "id": 4,
+      "text": "Remove dough and knead on a lightly floured surface until well-incorporated and less sticky, 2-3 minutes"
+    },
+    {
+      "id": 5,
+      "text": "Wrap in plastic and allow to sit for 1 hour at room temperature"
+    },
+    {
+      "id": 6,
+      "text": "Divide dough into 8 even balls, keep covered with a tea towel"
+    },
+    {
+      "id": 7,
+      "text": "Flatten each ball into a 7 inch disk with a rolling pin"
+    },
+    {
+      "id": 8,
+      "text": "Heat electric griddle to 375F"
+    },
+    {
+      "id": 9,
+      "text": "Cook tortillas until light and golden, about 4 minutes per side"
+    },
+    {
+      "id": 10,
+      "text": "Can be held up to 2 hours at room temperature wrapped in a barely damp tea towel"
+    }
+  ],
+  "keywords": [
+    "flour",
+    "tortilla",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 193,
+    "fats": 8.9,
+    "carbohydrates": 24.3,
+    "sugars": null,
+    "protein": 3.3
+  }
+}
