@@ -1,0 +1,133 @@
+{
+  "recipeId": "47e4e7d0-4b89-4d1f-aedd-ff86968f0a36",
+  "recipeName": "Banana Cheesecake No Bake",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "hours",
+    "value": 8
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 16
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 3
+      },
+      "name": "Nilla Wafer Cookie Crumbs",
+      "notes": "approximately one 11-ounce box"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.5
+      },
+      "name": "Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Heavy Cream",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.75
+      },
+      "name": "Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "ounces",
+        "value": 24
+      },
+      "name": "Cream Cheese",
+      "notes": "softened"
+    },
+    {
+      "quantity": {
+        "kind": "packages",
+        "value": 2
+      },
+      "name": "Instant Banana Cream Pudding",
+      "notes": "3.4 ounce packages"
+    },
+    {
+      "quantity": {
+        "kind": "banana",
+        "value": 1
+      },
+      "name": "Banana (optional)",
+      "notes": "sliced"
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "In a medium mixing bowl, combine the Nilla Wafer crumbs and the melted butter"
+    },
+    {
+      "id": 2,
+      "text": "Line a square 8\"x8\" or 9\"x9\" baking pan with parchment paper, with extra paper sticking up from the edges"
+    },
+    {
+      "id": 3,
+      "text": "Press the mixture evenly into the bottom of the pan"
+    },
+    {
+      "id": 4,
+      "text": "Chill the crust in the refrigerator while performing next steps"
+    },
+    {
+      "id": 5,
+      "text": "In an electric mixer on medium speed, whip the heavy cream and sugar together until stiff peaks form, set aside (you can chill the bowl in the freezer for ~10 minutes to speed whipping)"
+    },
+    {
+      "id": 6,
+      "text": "In an electric mixer on medium speed, beat the cream cheese until smooth"
+    },
+    {
+      "id": 7,
+      "text": "Add the dry pudding mixes one at a time, beating well between each addition"
+    },
+    {
+      "id": 8,
+      "text": "Add the whipped cream and mix until smooth"
+    },
+    {
+      "id": 9,
+      "text": "Spread the cheesecake filling evenly over the chilled crust"
+    },
+    {
+      "id": 10,
+      "text": "Cover the pan with plastic wrap and refrigerate the cheesecake for 8 hours, or overnight"
+    },
+    {
+      "id": 11,
+      "text": "Cut chilled cheesecake into 16 squares (4x4) and serve with whipped cream and a banana slice"
+    }
+  ],
+  "keywords": [
+    "banana",
+    "cheesecake",
+    "dessert",
+    "no bake"
+  ],
+  "nutrition": {
+    "calories": 457,
+    "fats": 32.5,
+    "carbohydrates": 39,
+    "sugars": 28.8,
+    "protein": 4.2
+  }
+}
