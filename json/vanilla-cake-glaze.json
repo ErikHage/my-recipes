@@ -1,0 +1,82 @@
+{
+  "recipeId": "662d91e9-c7e5-4d63-8136-5810804263d9",
+  "recipeName": "Vanilla Cake Glaze",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 2
+      },
+      "name": "Confectioner's Sugar",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "cups",
+        "value": 0.25
+      },
+      "name": "Butter",
+      "notes": "melted"
+    },
+    {
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": 4
+      },
+      "name": "Milk",
+      "notes": ""
+    },
+    {
+      "quantity": {
+        "kind": "teaspoons",
+        "value": 1.5
+      },
+      "name": "Vanilla Extract",
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "text": "Sift confectioner's sugar into a medium sized bowl"
+    },
+    {
+      "id": 2,
+      "text": "Add the melted butter, the vanilla extract, and 2 Tablespoons of the milk"
+    },
+    {
+      "id": 3,
+      "text": "Beat with an electric mixer until smooth and creamy, adding a little more milk if necessary to reach desired consistency"
+    },
+    {
+      "id": 4,
+      "text": "Drizzle over a cooler cake, quick bread, coffee cake, cupcakes, or other dessert"
+    }
+  ],
+  "keywords": [
+    "vanilla",
+    "glaze",
+    "icing",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 177,
+    "fats": 5.9,
+    "carbohydrates": 30.5,
+    "sugars": 29.5,
+    "protein": 0.3
+  }
+}
