@@ -1,0 +1,175 @@
+{
+  "recipeId": "6c771ba0-5297-4e76-80df-06e53f43d0f5",
+  "recipeName": "Pistachio Banana Bread",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 60
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 12
+  },
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": "softened"
+    },
+    {
+      "name": "Granulated Sugar",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.75"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "quantity": {
+        "kind": "",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Bananas",
+      "quantity": {
+        "kind": "cups",
+        "value": "2"
+      },
+      "notes": "mashed, overripe"
+    },
+    {
+      "name": "Milk",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": {
+        "kind": "cups",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "3"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Chopped Pistachios",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Powdered Sugar",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": "for glaze topping"
+    },
+    {
+      "name": "Milk or Water",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "3"
+      },
+      "notes": "for glaze topping"
+    },
+    {
+      "name": "Pistachios",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "to sprinkle on top"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Preheat oven to 350F."
+    },
+    {
+      "id": 1,
+      "text": "Line a loaf pan with parchment paper."
+    },
+    {
+      "id": 2,
+      "text": "Using a fork, mash the bananas in a medium mixing bowl."
+    },
+    {
+      "id": 3,
+      "text": "Using a mixer with the paddle attachment, cream the sugar and butter together until light and fluffy, about 2 minutes."
+    },
+    {
+      "id": 4,
+      "text": "Beat in the eggs, one at a time, until combined."
+    },
+    {
+      "id": 5,
+      "text": "Mix in the mashed bananas and 0.5 cups of milk, whipping slowly to incorporate."
+    },
+    {
+      "id": 6,
+      "text": "Using a rubber spatula, gently stir in the flour and baking powder until just combined and you no longer see any streaks of flour. Be careful not to over mix."
+    },
+    {
+      "id": 7,
+      "text": "Fold in the chopped pistachios until evenly distributed throughout the batter."
+    },
+    {
+      "id": 8,
+      "text": "Pour the batter into the prepared loaf pan."
+    },
+    {
+      "id": 9,
+      "text": "Bake for 50 minutes to 1 hour. (toothpick check)"
+    },
+    {
+      "id": 10,
+      "text": "Let bread cool in the pan for 15 minutes. Then turn it out onto a wire rack to cool completely."
+    },
+    {
+      "id": 11,
+      "text": "(Garnish) Mix the powdered sugar and 2 Tablespoons milk or water until smooth. Add up to 1 additional tablespoon of liquid as needed."
+    },
+    {
+      "id": 12,
+      "text": "Drizzle the glaze over the bread and sprinkle with pistachios. Allow glaze to set before serving."
+    }
+  ],
+  "keywords": [
+    "pistachio",
+    "bread",
+    "cake",
+    "banana",
+    "nut",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 299,
+    "fats": 11.8,
+    "carbohydrates": 44.9,
+    "sugars": 23.4,
+    "protein": 5.3
+  }
+}
