@@ -1,0 +1,73 @@
+{
+  "recipeId": "e7aa443e-0119-444a-a370-3684102fd5d1",
+  "recipeName": "Fried Sweet Plantains",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "name": "Sweet Plantain",
+      "quantity": {
+        "kind": "",
+        "value": "2"
+      },
+      "notes": "very ripe"
+    },
+    {
+      "name": "Vegetable Oil",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "In a frying pan, heat oil over medium heat."
+    },
+    {
+      "id": 1,
+      "text": "Peel plantains and cut into 1/2 inch thick slices. Add to the frying pan."
+    },
+    {
+      "id": 2,
+      "text": "Cook on each side until golden brown, about 2-3 minutes."
+    },
+    {
+      "id": 3,
+      "text": "Remove from the oil into a plate covered with a paper towel to remove excess grease. Sprinkle with a little salt, if desired."
+    }
+  ],
+  "keywords": [
+    "plantain",
+    "maduro",
+    "dessert",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 312,
+    "fats": 12,
+    "carbohydrates": 57,
+    "sugars": 27,
+    "protein": 2
+  }
+}
