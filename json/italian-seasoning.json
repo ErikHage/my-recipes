@@ -1,0 +1,76 @@
+{
+  "recipeId": "5f0b950c-720e-4bbe-b568-c515da9cb6a3",
+  "recipeName": "Italian Seasoning",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "Tablespoons",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "name": "Basil",
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Oregano",
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Marjoram",
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": "0.5"
+      },
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "In a small bowl combine basil, oregano, rosemary, marjoram, and thyme."
+    }
+  ],
+  "keywords": [
+    "seasoning",
+    "herbs",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 38,
+    "fats": 1,
+    "carbohydrates": 9,
+    "sugars": 1,
+    "protein": 1
+  }
+}
