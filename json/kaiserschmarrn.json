@@ -1,0 +1,110 @@
+{
+  "recipeId": "ea0de059-ad22-4a31-befa-6daeffb568a0",
+  "recipeName": "Kaiserschmarrn",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 8
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "name": "Milk",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "quantity": {
+        "kind": "large",
+        "value": "4"
+      },
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": {
+        "kind": "cups",
+        "value": "1.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Powdered Sugar",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Beat milk and eggs together until well combined"
+    },
+    {
+      "id": 1,
+      "text": "In a separate bowl, combine flour and sugar, then pour milk and eggs over dry ingredients and mix until combined"
+    },
+    {
+      "id": 2,
+      "text": "Melt butter in skillet over medium-high heat"
+    },
+    {
+      "id": 3,
+      "text": "Add batter and cook undisturbed until bottom has begun to brown, about 4 minutes"
+    },
+    {
+      "id": 4,
+      "text": "Using a spatula, scramble the pancake batter, then allow to settle and brown on the bottom again"
+    },
+    {
+      "id": 5,
+      "text": "Repeat until batter is cooked into many slightly browned sections"
+    },
+    {
+      "id": 6,
+      "text": "Serve sprinkled with powdered sugar alongside fruit preserve or compote"
+    }
+  ],
+  "keywords": [
+    "scrambled",
+    "pancake",
+    "crepe",
+    "breakfast",
+    "austrian"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "fats": 12,
+    "carbohydrates": 38,
+    "sugars": 8,
+    "protein": 12
+  }
+}
