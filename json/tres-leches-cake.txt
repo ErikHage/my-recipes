@@ -1,0 +1,190 @@
+{
+  "recipeId": "0b9082f6-3a80-4c8d-87e3-f68944228a7d",
+  "recipeName": "Tres Leches Cake",
+  "prep": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 20
+  },
+  "ingredients": [
+    {
+      "name": "Cake Flour",
+      "quantity": {
+        "kind": "cups",
+        "value": "1.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "8"
+      },
+      "notes": "room temperature"
+    },
+    {
+      "name": "Sugar",
+      "quantity": {
+        "kind": "cups",
+        "value": "2"
+      },
+      "notes": "divided 1 and 1"
+    },
+    {
+      "name": "Egg",
+      "quantity": {
+        "kind": "large",
+        "value": "5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "2.5"
+      },
+      "notes": "divided 1.5 and 1"
+    },
+    {
+      "name": "Evaporated Milk",
+      "quantity": {
+        "kind": "ounces",
+        "value": "12"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Sweetened Condensed Milk",
+      "quantity": {
+        "kind": "ounces",
+        "value": "14"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Half and Half",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "quantity": {
+        "kind": "cups",
+        "value": "2"
+      },
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Preheat the oven to 350F"
+    },
+    {
+      "id": 1,
+      "text": "Lightly grease a 9\"x13\" metal baking pan with nonstick spray and two Tablespoons of flour, shaking to coat the pan "
+    },
+    {
+      "id": 2,
+      "text": "Whisk together the cake flour, baking powder, and salt in a medium mixing bowl and set aside"
+    },
+    {
+      "id": 3,
+      "text": "In the bowl of a stand mixer fitted with the paddle attachment, cream the butter on medium speed until fluffy, approximately one minute"
+    },
+    {
+      "id": 4,
+      "text": "Decrease mixer speed to low and gradually add 1 cup of the sugar over minute, scraping down the sides of the bowl as needed"
+    },
+    {
+      "id": 5,
+      "text": "Add the eggs one at a time and mix thoroughly to combine"
+    },
+    {
+      "id": 6,
+      "text": "Add 1.5 teaspoons of the vanilla and mix to combine"
+    },
+    {
+      "id": 7,
+      "text": "Add the flour mixture to the mixer in three batches and mix until just combined, scraping the bottom of the bowl to make sure everything is incorporated"
+    },
+    {
+      "id": 8,
+      "text": "Spread the batter evenly in the prepared pan (it will appear to be a very small amount of batter)"
+    },
+    {
+      "id": 9,
+      "text": "Bake on the middle rack of the oven until cake is lightly golden and reaches an internal temperature of 200F, 15-20 minutes"
+    },
+    {
+      "id": 10,
+      "text": "Remove to a cooling rack and allow to cool for 30 minutes"
+    },
+    {
+      "id": 11,
+      "text": "While cooling poke the cake all over with a skewer or fork"
+    },
+    {
+      "id": 12,
+      "text": "Whisk together the evaporated milk, sweetened condensed milk, and half and half in a pour-friendly vessel"
+    },
+    {
+      "id": 13,
+      "text": "Pour the glaze over the cake and refrigerate overnight"
+    },
+    {
+      "id": 14,
+      "text": "Whisk the the heavy cream, remaining 1 cup sugar, and 1 teaspoon vanilla in a stand mixer with whisk attachment on low speed until sugar is incorporated, about 2 minutes"
+    },
+    {
+      "id": 15,
+      "text": "Increase speed to medium and whip until thick, 1.5 to 2 minutes"
+    },
+    {
+      "id": 16,
+      "text": "Spread the topping over the cake and chill until ready to serve"
+    }
+  ],
+  "keywords": [
+    "latin",
+    "mexican",
+    "milk",
+    "dessert",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "fats": 18.9,
+    "carbohydrates": 44.8,
+    "sugars": 36.8,
+    "protein": 6.2
+  }
+}
