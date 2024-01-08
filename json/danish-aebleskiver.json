@@ -1,0 +1,147 @@
+{
+  "recipeId": "86e0ffb9-6909-41e1-aff6-57154440ca91",
+  "recipeName": "Danish Aebleskiver",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 2
+  },
+  "ingredients": [
+    {
+      "name": "All Purpose Flour",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "quantity": {
+        "kind": "large",
+        "value": "2"
+      },
+      "notes": "separated"
+    },
+    {
+      "name": "Milk",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "2"
+      },
+      "notes": "melted, plus more for cooking"
+    },
+    {
+      "name": "Fillings",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "jam, bananas, chocolate, apple, etc."
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "In a small bowl, lightly whisk the egg yolks, then add the milk and the melted (and cooled) butter"
+    },
+    {
+      "id": 1,
+      "text": "In another bowl mix together the baking powder, flour, salt, and sugar"
+    },
+    {
+      "id": 2,
+      "text": "Whisk the yolk mixture into the flour mixture until the batter is well combined"
+    },
+    {
+      "id": 3,
+      "text": "In an electric mixing bowl, whisk the egg whites on high speed until stiff peaks form, 2 to 3 minutes"
+    },
+    {
+      "id": 4,
+      "text": "Using a rubber spatula, fold the whites into the batter in 2-3 additions"
+    },
+    {
+      "id": 5,
+      "text": "Put 1/4 teaspoon butter in each well of the pancake pan (special pan with 7 circular wells)"
+    },
+    {
+      "id": 6,
+      "text": "Place over medium heat and heat until the butter begins to sizzle"
+    },
+    {
+      "id": 7,
+      "text": "Using a pastry/silicon brush, coat the surface of each well entirely with the butter"
+    },
+    {
+      "id": 8,
+      "text": "Pour 1 Tablespoon batter into each well, then add some of the filling in the center of each pancake, then top with another 1 Tablespoon of batter"
+    },
+    {
+      "id": 9,
+      "text": "Cook until the bottoms are golden brown, crispy, and slightly pulls away from the edge, 2-3 minutes"
+    },
+    {
+      "id": 10,
+      "text": "Using 2 wooden skewers, flip the pancakes over and cook until golden and crispy on the other side, about 2 minutes more"
+    },
+    {
+      "id": 11,
+      "text": "Transfer to plate and serve hot"
+    }
+  ],
+  "keywords": [
+    "pancake",
+    "danish",
+    "stuffed",
+    "puff",
+    "breakfast",
+    "filled"
+  ],
+  "nutrition": {
+    "calories": 478,
+    "fats": 20,
+    "carbohydrates": 57,
+    "sugars": 9,
+    "protein": 16
+  }
+}
