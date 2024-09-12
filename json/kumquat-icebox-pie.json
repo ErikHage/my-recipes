@@ -1,0 +1,94 @@
+{
+  "recipeId": "2370c5e9-a841-4251-801f-cef0a31075b8",
+  "recipeName": "Kumquat Icebox Pie",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "name": "Sweetened Condensed Milk",
+      "quantity": {
+        "kind": "ounces",
+        "value": "14"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Cool Whip",
+      "quantity": {
+        "kind": "ounces",
+        "value": "8"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Kumquat Puree",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.67"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Graham Cracker Crust",
+      "quantity": {
+        "kind": "",
+        "value": "1"
+      },
+      "notes": "9 inch"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Beat condensed milk and cool whip in a bowl with an electric mixer"
+    },
+    {
+      "id": 1,
+      "text": "Add lemon juice and and beat until thickened"
+    },
+    {
+      "id": 2,
+      "text": "Stir in kumquat puree"
+    },
+    {
+      "id": 3,
+      "text": "Pour into pie crust"
+    },
+    {
+      "id": 4,
+      "text": "Freeze until firm, 2 to 3 hours, let thaw 5-10 minutes before serving"
+    }
+  ],
+  "keywords": [
+    "kumquat",
+    "citrus",
+    "pie",
+    "frozen",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 389,
+    "fats": 15,
+    "carbohydrates": 54,
+    "sugars": 42,
+    "protein": 5
+  }
+}
