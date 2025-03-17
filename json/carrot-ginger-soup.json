@@ -1,0 +1,130 @@
+{
+  "recipeId": "0518b5c8-6b9e-42c7-91db-d6e16c25f03a",
+  "recipeName": "Carrot Ginger Soup",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": "3"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "quantity": {
+        "kind": "pounds",
+        "value": "1.5"
+      },
+      "notes": "peeled and sliced thin"
+    },
+    {
+      "name": "White or Yellow Onion",
+      "quantity": {
+        "kind": "cups",
+        "value": "2"
+      },
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken Stock",
+      "quantity": {
+        "kind": "cups",
+        "value": "4"
+      },
+      "notes": "or 2 cups stock and 2 cups water (or veggie stock)"
+    },
+    {
+      "name": "Orange Skin",
+      "quantity": {
+        "kind": "large strips",
+        "value": "3"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Fresh Herbs",
+      "quantity": {
+        "kind": "garnish",
+        "value": ""
+      },
+      "notes": "chives, parsley, dill, or fennel (chopped)"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "In a saucepan over medium heat, melt the butter"
+    },
+    {
+      "id": 1,
+      "text": "Add the carrots and onions, cook for 5-8 minutes, stirring occasionally (do not let onions or carrots brown)"
+    },
+    {
+      "id": 2,
+      "text": "Sprinkle salt over the pan as it cooks"
+    },
+    {
+      "id": 3,
+      "text": "Add stock, [water,] ginger, and strips of orange skin, and simmer for 20 minutes, covered."
+    },
+    {
+      "id": 4,
+      "text": "Remove the orange skins (if left in, soup may be too bitter)"
+    },
+    {
+      "id": 5,
+      "text": "Puree the soup using a stand or immersion blender until completely smooth"
+    },
+    {
+      "id": 6,
+      "text": "Add more salt to taste"
+    },
+    {
+      "id": 7,
+      "text": "Garnish with chopped herbs before serving"
+    }
+  ],
+  "keywords": [
+    "carrot",
+    "ginger",
+    "soup",
+    "onion",
+    "puree"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "fats": 12,
+    "carbohydrates": 32,
+    "sugars": 15,
+    "protein": 9
+  }
+}
