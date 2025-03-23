@@ -1,0 +1,144 @@
+{
+  "recipeId": "9e33bf7f-d99f-4c9b-84e8-c6e7ef1f9748",
+  "recipeName": "Baked Trout",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "name": "Trout Filet",
+      "quantity": {
+        "kind": "4 oz",
+        "value": "4"
+      },
+      "notes": "skin on"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "3"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "quantity": {
+        "kind": "cloves",
+        "value": "2"
+      },
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.75"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Thin Lemon Slices",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Preheat oven to 400°F"
+    },
+    {
+      "id": 1,
+      "text": "Line baking sheet with foil or parchment paper"
+    },
+    {
+      "id": 2,
+      "text": "In a small bowl, whisk together olive oil, lemon juice, garlic, dill, parsley, and paprika"
+    },
+    {
+      "id": 3,
+      "text": "Place the trout filets onto the baking sheet, use paper towels to pat the fish dry"
+    },
+    {
+      "id": 4,
+      "text": "Brush the olive oil mixture onto both sides of the trout, then season both sides with salt and pepper"
+    },
+    {
+      "id": 5,
+      "text": "Leave the fish skin side down for baking"
+    },
+    {
+      "id": 6,
+      "text": "If desired, place thin lemon slices on top of the fish"
+    },
+    {
+      "id": 7,
+      "text": "Bake 10-12 minutes, until the trout internal temperature reaches 140°F to 145°F"
+    }
+  ],
+  "keywords": [
+    "trout",
+    "fish",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 242,
+    "fats": 17.1,
+    "carbohydrates": 1.7,
+    "sugars": 0.1,
+    "protein": 21.1
+  }
+}
