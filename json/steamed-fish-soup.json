@@ -1,0 +1,112 @@
+{
+  "recipeId": "2e3fc08e-8822-4d00-abfb-8d1adbc447e7",
+  "recipeName": "Steamed Fish Soup",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "yield": {
+    "kind": "serving",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "quantity": {
+        "kind": "pieces",
+        "value": "3"
+      },
+      "notes": "2\" pieces of fillet"
+    },
+    {
+      "name": "Fresh Ginger",
+      "quantity": {
+        "kind": "slices",
+        "value": "4"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Cooking Wine",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "pinch",
+        "value": ""
+      },
+      "notes": ""
+    },
+    {
+      "name": "Vegetables",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "onion, broccoli, etc"
+    },
+    {
+      "name": "Sesame Oil",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "to taste"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Prepare a steamer that can fit your soup bowl"
+    },
+    {
+      "id": 1,
+      "text": "In the soup bowl, add ginger, brown sugar, cooking wine, salt, and a half cup hot water (like from a tea kettle)"
+    },
+    {
+      "id": 2,
+      "text": "Stir ingredients together, then add fish to soup bowl"
+    },
+    {
+      "id": 3,
+      "text": "Steam for 5 minutes (more or less depending on thickness of the fish)"
+    },
+    {
+      "id": 4,
+      "text": "During the last minute, add sesame oil and vegetables"
+    },
+    {
+      "id": 5,
+      "text": "Serve as-is or with noodles, within 10-15 minutes for best flavor"
+    }
+  ],
+  "keywords": [
+    "fish",
+    "soup",
+    "steam"
+  ],
+  "nutrition": {
+    "calories": null,
+    "fats": null,
+    "carbohydrates": null,
+    "sugars": null,
+    "protein": null
+  }
+}
