@@ -1,0 +1,121 @@
+{
+  "recipeId": "dc6b4525-f14a-411d-9bb3-8a57fc2709f8",
+  "recipeName": "Peach Crisp",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "name": "Canned Peaches",
+      "quantity": {
+        "kind": "ounces",
+        "value": "58"
+      },
+      "notes": "sliced and drained"
+    },
+    {
+      "name": "Brown Sugar",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.75"
+      },
+      "notes": "packed"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.75"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Oats",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.667"
+      },
+      "notes": "quick or old fashioned, texture changes"
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": "softened"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Preheat the oven to 350°F"
+    },
+    {
+      "id": 1,
+      "text": "Spray a 9x9-inch baking pan with non-stick cooking spray"
+    },
+    {
+      "id": 2,
+      "text": "Pour the drained peaches into the bottom of the pan in an even layer and set aside"
+    },
+    {
+      "id": 3,
+      "text": "In a medium bowl, mix together the brown sugar, flour, oats, cinnamon, and salt until combined"
+    },
+    {
+      "id": 4,
+      "text": "Then add the softened butter and work it into the mixture until just combined; be careful not to overmix"
+    },
+    {
+      "id": 5,
+      "text": "Pour this mixture over the peaches in an even layer"
+    },
+    {
+      "id": 6,
+      "text": "Bake for 25 minutes or until the top turns golden brown"
+    },
+    {
+      "id": 7,
+      "text": "Remove from the oven, serve warm and enjoy"
+    }
+  ],
+  "keywords": [
+    "peach",
+    "crisp",
+    "dessert",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 407,
+    "fats": 16.1,
+    "carbohydrates": 66.4,
+    "sugars": 46.3,
+    "protein": 3.7
+  }
+}
