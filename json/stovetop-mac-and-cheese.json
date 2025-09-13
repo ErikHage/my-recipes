@@ -1,0 +1,152 @@
+{
+  "recipeId": "05b673db-b14c-4843-a7a0-aad07f4c099a",
+  "recipeName": "Stovetop Mac and Cheese",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "quantity": {
+        "kind": "cups",
+        "value": "2"
+      },
+      "notes": "dry"
+    },
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Flour ",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Mustard Powder",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Onion Powder",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Sharp Cheddar",
+      "quantity": {
+        "kind": "cups",
+        "value": "1.5"
+      },
+      "notes": "shredded"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Cook and drain the macaroni."
+    },
+    {
+      "id": 1,
+      "text": "While pasta cooks, melt butter in a large pot over medium heat."
+    },
+    {
+      "id": 2,
+      "text": "Use a silicone spatula to stir in the flour."
+    },
+    {
+      "id": 3,
+      "text": "Continue to stir for 1-2 minutes."
+    },
+    {
+      "id": 4,
+      "text": "Add the heavy cream and milk in splashes, stirring continuously (If you add too quickly you'll break the roux and the sauce will be thin)."
+    },
+    {
+      "id": 5,
+      "text": "Bring to a boil, then reduce to a simmer."
+    },
+    {
+      "id": 6,
+      "text": "Add the seasonings and reduce heat to low."
+    },
+    {
+      "id": 7,
+      "text": "Gradually sprinkle in the shredded cheese."
+    },
+    {
+      "id": 8,
+      "text": "Stir continuously until smooth and combined."
+    },
+    {
+      "id": 9,
+      "text": "Add cooked macaroni, and stir to combine."
+    }
+  ],
+  "keywords": [
+    "cheese",
+    "pasta",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 571,
+    "fats": 34,
+    "carbohydrates": 47,
+    "sugars": 5,
+    "protein": 20
+  }
+}
