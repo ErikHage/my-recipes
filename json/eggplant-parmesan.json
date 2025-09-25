@@ -1,0 +1,187 @@
+{
+  "recipeId": "d5ccd627-b682-4682-bb0f-33b523b52083",
+  "recipeName": "Eggplant Parmesan",
+  "prep": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 30
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 8
+  },
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "quantity": {
+        "kind": "Large",
+        "value": "2"
+      },
+      "notes": "sliced into 24 rounds (about 1/2\" thick)"
+    },
+    {
+      "name": "Egg",
+      "quantity": {
+        "kind": "Large",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Whole Milk",
+      "quantity": {
+        "kind": "Tablespoons",
+        "value": "2"
+      },
+      "notes": "or whatever milk, plant based is ok"
+    },
+    {
+      "name": "Kosher Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": "divided 1/2 and 1/2"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": "divided 1/4 and 1/4"
+    },
+    {
+      "name": "Italian Seasoning",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": {
+        "kind": "cups",
+        "value": "4"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mozzarella",
+      "quantity": {
+        "kind": "ounces",
+        "value": "16"
+      },
+      "notes": "cut into 24 slices"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": "grated"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Preheat oven to 400°F"
+    },
+    {
+      "id": 1,
+      "text": "Get out two rimmed baking sheets and spread 2 tablespoons of olive oil on each"
+    },
+    {
+      "id": 2,
+      "text": "In a shallow bowl, beat the eggs (2) with the milk (2 tablespoons), ½ teaspoon kosher salt, and ¼ teaspoon black pepper"
+    },
+    {
+      "id": 3,
+      "text": "In another shallow bowl, mix the panko breadcrumbs (1 cup) with the Italian seasoning (1 teaspoon), and the remaining ½ teaspoon kosher salt and ¼ teaspoon black pepper"
+    },
+    {
+      "id": 4,
+      "text": "Dip each eggplant slice in the egg mixture to coat all sides, then into the breadcrumb mixture to coat all sides"
+    },
+    {
+      "id": 5,
+      "text": "Then place the eggplant on the oiled baking sheets and repeat with remaining slices, fitting about 12 on each baking sheet"
+    },
+    {
+      "id": 6,
+      "text": "Bake the eggplant at 400° F for 10 minutes"
+    },
+    {
+      "id": 7,
+      "text": "Flip and bake for another 8 minutes, until golden and crispy"
+    },
+    {
+      "id": 8,
+      "text": "Spread 1/4 cup of the marinara sauce in the bottom of an 8×10 or 9×12 baking dish"
+    },
+    {
+      "id": 9,
+      "text": "Layer 12 slices of the eggplant on the bottom in a 3×4 grid"
+    },
+    {
+      "id": 10,
+      "text": "Top each slice with a generous spoonful of marinara sauce, followed by a sliced of the fresh mozzarella"
+    },
+    {
+      "id": 11,
+      "text": "Sprinkle 1/2 cup of the parmesan cheese on top"
+    },
+    {
+      "id": 12,
+      "text": "Repeat the layers – the rest of the eggplant, sauce, mozzarella, and parmesan cheese"
+    },
+    {
+      "id": 13,
+      "text": "Bake at 400 degrees for 20-25 minutes, until the cheese is golden brown and the eggplant parmesan is nice and bubbly (If it's browning too quickly, you can tent it with foil)"
+    },
+    {
+      "id": 14,
+      "text": "Allow the eggplant parmesan to cool in the pan for 5-10 minutes before serving for best results"
+    },
+    {
+      "id": 15,
+      "text": "Serve with cooked pasta and more marinara sauce, with a garnish of fresh basil, if desired"
+    }
+  ],
+  "keywords": [
+    "eggplant",
+    "cheese",
+    "parmesan",
+    "italian",
+    "breaded",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "fats": 20,
+    "carbohydrates": 26,
+    "sugars": 11,
+    "protein": 24
+  }
+}
