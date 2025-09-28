@@ -1,0 +1,145 @@
+{
+  "recipeId": "e8cf62ab-c159-45dd-9d5d-c9ce642a62f0",
+  "recipeName": "Baked Flounder",
+  "prep": {
+    "kind": "minutes",
+    "value": 5
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 12
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "name": "Flounder Filet",
+      "quantity": {
+        "kind": "",
+        "value": "4"
+      },
+      "notes": "can sub Talapia"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.75"
+      },
+      "notes": "divided 1/2 and 1/4 (optional)"
+    },
+    {
+      "name": "Bread Crumbs",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.25"
+      },
+      "notes": "melted"
+    },
+    {
+      "name": "Garlic",
+      "quantity": {
+        "kind": "cloves",
+        "value": "3"
+      },
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "1"
+      },
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Preheat your oven to 190C/375F. "
+    },
+    {
+      "id": 1,
+      "text": "Lightly grease a baking dish with olive oil or line it with parchment paper."
+    },
+    {
+      "id": 2,
+      "text": "Pat the flounder fillets dry with paper towels."
+    },
+    {
+      "id": 3,
+      "text": "Brush both sides with olive oil, then season with salt, pepper, paprika, and dried parsley (if using)."
+    },
+    {
+      "id": 4,
+      "text": "In a small bowl, mix melted butter, minced garlic, lemon juice, and fresh parsley."
+    },
+    {
+      "id": 5,
+      "text": "Place the fillets in the baking dish. Pour the garlic butter sauce evenly over the fish. Sprinkle the top with the breadcrumbs and press down onto the fish. "
+    },
+    {
+      "id": 6,
+      "text": "Bake for 12-15 minutes or until the fish is opaque and flakes easily with a fork."
+    },
+    {
+      "id": 7,
+      "text": "Remove from the oven and serve immediately with lemon wedges and the garlic butter pan juices. "
+    }
+  ],
+  "keywords": [
+    "flounder",
+    "fish",
+    "baked",
+    "talapia"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "fats": 7,
+    "carbohydrates": 3,
+    "sugars": 1,
+    "protein": 28
+  }
+}
