@@ -1,0 +1,142 @@
+{
+  "recipeId": "4a51765e-2842-4fb0-b160-73cfb1bf47f7",
+  "recipeName": "Roasted Pepper Salsa",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "quart",
+    "value": 1
+  },
+  "ingredients": [
+    {
+      "name": "Roma Tomato",
+      "quantity": {
+        "kind": "",
+        "value": "6"
+      },
+      "notes": "or any paste tomato, halved horizontally"
+    },
+    {
+      "name": "Bell Pepper",
+      "quantity": {
+        "kind": "large",
+        "value": "1"
+      },
+      "notes": "any color, seeded and quartered"
+    },
+    {
+      "name": "Poblano Pepper",
+      "quantity": {
+        "kind": "",
+        "value": "2"
+      },
+      "notes": "or other hot pepper, seeded and quartered"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": {
+        "kind": "",
+        "value": "0.5"
+      },
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "Garlic",
+      "quantity": {
+        "kind": "cloves",
+        "value": "4"
+      },
+      "notes": "peeled"
+    },
+    {
+      "name": "Lime",
+      "quantity": {
+        "kind": "",
+        "value": "1"
+      },
+      "notes": "juiced"
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Heat broiler to high and place rack in top position."
+    },
+    {
+      "id": 1,
+      "text": "Squeeze the tomato halves, reserving the juice and seeds."
+    },
+    {
+      "id": 2,
+      "text": "Set aside 2 of the tomatoes. Toss the remaining 4 tomatoes with the garlic, poblanos, bell pepper, and red onion in a large bowl with the tablespoon of oil. Spread in a shallow roasting pan or sheet pan with a lip. "
+    },
+    {
+      "id": 3,
+      "text": "Broil for 20 minutes, stirring often for even browning."
+    },
+    {
+      "id": 4,
+      "text": "Move the roasted vegetables to the work bowl of a food processor and add the reserved tomatoes, lime juice, kosher salt, and chili powder."
+    },
+    {
+      "id": 5,
+      "text": "Pulse several times until mixture reaches salsa consistency. If mixture is too dry, add part or all of the reserved tomato juice. "
+    },
+    {
+      "id": 6,
+      "text": "Stir in cilantro and refrigerate 2 hours before serving."
+    }
+  ],
+  "keywords": [
+    "salsa",
+    "tomato",
+    "pepper",
+    "onion",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": null,
+    "fats": null,
+    "carbohydrates": null,
+    "sugars": null,
+    "protein": null
+  }
+}
