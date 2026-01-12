@@ -1,0 +1,156 @@
+{
+  "recipeId": "8c8cc9aa-c1a8-4640-a06a-7d570d61c16c",
+  "recipeName": "Roasted Honeynut Squash",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 20
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "name": "Honeynut Squash",
+      "quantity": {
+        "kind": "",
+        "value": "3"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.125"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "1"
+      },
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "Walnuts",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.25"
+      },
+      "notes": "toasted, chopped"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": ""
+    },
+    {
+      "name": "Whipped Ricotta",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "fresh, chopped, garnish"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Preheat the oven to 450°F and line a baking sheet with parchment paper."
+    },
+    {
+      "id": 1,
+      "text": "Use a large sharp knife to cut the squash in half lengthwise. Use a spoon to scoop out the seeds."
+    },
+    {
+      "id": 2,
+      "text": "In a small bowl, whisk together the olive oil, apple cider vinegar, maple syrup, salt, cinnamon, and several grinds of pepper."
+    },
+    {
+      "id": 3,
+      "text": "Place the squash on the baking sheet. Drizzle with half the oil mixture and sprinkle with the thyme leaves and more salt and pepper. "
+    },
+    {
+      "id": 4,
+      "text": "Use your hands to rub the seasonings all over the squash, then place cut side down on the baking sheet."
+    },
+    {
+      "id": 5,
+      "text": "Bake for 20 to 25 minutes, or until very soft and caramelized underneath."
+    },
+    {
+      "id": 6,
+      "text": "Spread a layer of the whipped ricotta on a serving platter and arrange the honeynut squash on top. Drizzle with the remaining oil mixture and top with the walnuts."
+    },
+    {
+      "id": 7,
+      "text": "(optional) Garnish with thyme, parsley, and red pepper flakes."
+    },
+    {
+      "id": 8,
+      "text": "Season to taste and serve."
+    }
+  ],
+  "keywords": [
+    "squash",
+    "roasted",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": null,
+    "fats": null,
+    "carbohydrates": null,
+    "sugars": null,
+    "protein": null
+  }
+}
