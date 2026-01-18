@@ -1,0 +1,102 @@
+{
+  "recipeId": "e6aeb453-5ba3-4ebb-902c-25391ce2bfc2",
+  "recipeName": "Roasted Spaghetti Squash",
+  "prep": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 40
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "name": "Spaghetti Squash",
+      "quantity": {
+        "kind": "",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Preheat the oven to 400°F."
+    },
+    {
+      "id": 1,
+      "text": "Start by slicing off the stem of the squash, then carefully cut the squash in half lengthwise (will be difficult, making slits in the skin along the line where you will cut before making the bigger cut may help)."
+    },
+    {
+      "id": 2,
+      "text": "Remove and discard the seeds."
+    },
+    {
+      "id": 3,
+      "text": "Rub the cut side of each half with olive oil, then sprinkle with salt and pepper."
+    },
+    {
+      "id": 4,
+      "text": "Place the halves cut side down on a baking sheet lined with parchment paper."
+    },
+    {
+      "id": 5,
+      "text": "Cook for 30 to 45 minutes, until the skin is softened (Cooking time will depend on the size of the squash)."
+    },
+    {
+      "id": 6,
+      "text": "Remove from oven, and carefully flip over each half using a dish towel or oven mitt."
+    },
+    {
+      "id": 7,
+      "text": "Use a fork to loosen the spaghetti squash noodles."
+    },
+    {
+      "id": 8,
+      "text": "Store cooked spaghetti squash in the fridge for up to a week."
+    }
+  ],
+  "keywords": [
+    "squash",
+    "oven",
+    "roasted",
+    "spaghetti",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "fats": 1,
+    "carbohydrates": 17,
+    "sugars": 7,
+    "protein": 2
+  }
+}
