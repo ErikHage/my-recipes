@@ -1,0 +1,132 @@
+{
+  "recipeId": "74bc8791-d255-4879-ab61-42f9f7666791",
+  "recipeName": "Rhubarb Crisp",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 35
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 6
+  },
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "quantity": {
+        "kind": "pounds",
+        "value": "2"
+      },
+      "notes": "sliced, fresh or frozen*"
+    },
+    {
+      "name": "Cornstarch",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.25"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "quantity": {
+        "kind": "cups",
+        "value": "1.25"
+      },
+      "notes": "divided 3/4 and 1/2"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": "divided 1/2 and 1/2"
+    },
+    {
+      "name": "Oats",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": "quick or old fashioned, will end up with different texture"
+    },
+    {
+      "name": "Flour",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "pinch",
+        "value": ""
+      },
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": "cold stick, cubed"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Heat oven to 400°F."
+    },
+    {
+      "id": 1,
+      "text": "Lightly butter a ~2 quart casserole dish."
+    },
+    {
+      "id": 2,
+      "text": "Combine rhubarb, cornstarch, 3/4 cup sugar, and 1/2 tsp cinnamon in a large bowl. "
+    },
+    {
+      "id": 3,
+      "text": "Evenly spread mixture into the prepared casserole dish."
+    },
+    {
+      "id": 4,
+      "text": "Combine oats, flour, remaning 1/2 cup sugar, remaining 1/2 tsp cinnamon and salt in a large bowl. Cut in butter until crumbs form."
+    },
+    {
+      "id": 5,
+      "text": "Evenly scatter the crumb topping over the rhubarb filling. "
+    },
+    {
+      "id": 6,
+      "text": "Bake in the hot oven for around 35 minutes, or until golden and bubbly. "
+    },
+    {
+      "id": 7,
+      "text": "Allow to sit on the counter for 10 minutes before serving."
+    },
+    {
+      "id": 8,
+      "text": "Store leftover crisp covered on the counter for 1-2 days."
+    }
+  ],
+  "keywords": [
+    "rhubarb",
+    "crisp",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "fats": 15,
+    "carbohydrates": 65,
+    "sugars": 42,
+    "protein": 5
+  }
+}
