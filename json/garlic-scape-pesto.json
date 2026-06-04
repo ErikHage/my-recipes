@@ -1,0 +1,116 @@
+{
+  "recipeId": "ec29f268-75da-4bb6-a7f2-a0314699f8b7",
+  "recipeName": "Garlic Scape Pesto",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 0
+  },
+  "yield": {
+    "kind": "Tablespoons",
+    "value": 20
+  },
+  "ingredients": [
+    {
+      "name": "Garlic Scapes",
+      "quantity": {
+        "kind": "grams",
+        "value": "150"
+      },
+      "notes": "with bulb and any woody stem removed"
+    },
+    {
+      "name": "Pine Nuts",
+      "quantity": {
+        "kind": "grams",
+        "value": "45"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Asiago",
+      "quantity": {
+        "kind": "grams",
+        "value": "40"
+      },
+      "notes": "diced, shredded, or grated"
+    },
+    {
+      "name": "Lemon",
+      "quantity": {
+        "kind": "",
+        "value": "0.5"
+      },
+      "notes": "juiced"
+    },
+    {
+      "name": "Fine Sea Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.125"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "",
+        "value": ""
+      },
+      "notes": "a few grinds"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "quantity": {
+        "kind": "grams",
+        "value": "70"
+      },
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Trim the garlic scapes by cutting just below the bulb and also if the end of the stem seems woody, trim that too (like asparagus). Discard the bulb and end of stem, then set the remaining scape aside (the curly part)."
+    },
+    {
+      "id": 1,
+      "text": "In a food processor, add the scapes, twirling them around the center so that they all fit. Add the pine nuts, cheese, juice of the lemon and salt and pepper."
+    },
+    {
+      "id": 2,
+      "text": "Process by pulsing until the mixture begins to break down. Scrape the bowl down."
+    },
+    {
+      "id": 3,
+      "text": "With the processor running, slowly add all the olive oil. Continue to process until all the ingredients are incorporated and broken down, about one minute."
+    },
+    {
+      "id": 4,
+      "text": "Store in a covered container or lidded jar in the fridge and enjoy within a week. "
+    },
+    {
+      "id": 5,
+      "text": "Also, you can freeze the pesto in a jar or in an ice-cube tray. Once frozen, in the ice-cube tray, remove and place in a zip top bag in the freezer."
+    }
+  ],
+  "keywords": [
+    "garlic",
+    "scape",
+    "pesto",
+    "sauce",
+    "spread",
+    "nuts",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 56,
+    "fats": 4,
+    "carbohydrates": 4,
+    "sugars": null,
+    "protein": 1
+  }
+}
