@@ -1,0 +1,200 @@
+{
+  "recipeId": "7553d6d1-0457-416f-8fc8-072b42e7c59b",
+  "recipeName": "Instant Pot Salsa Pulled Pork",
+  "prep": {
+    "kind": "minutes",
+    "value": 40
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 140
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 16
+  },
+  "ingredients": [
+    {
+      "name": "Bone-In Picnic Shoulder",
+      "quantity": {
+        "kind": "pounds",
+        "value": "9"
+      },
+      "notes": "thawed"
+    },
+    {
+      "name": "Onions",
+      "quantity": {
+        "kind": "",
+        "value": "2"
+      },
+      "notes": "large, sliced"
+    },
+    {
+      "name": "Garlic",
+      "quantity": {
+        "kind": "cloves",
+        "value": "10"
+      },
+      "notes": "smashed"
+    },
+    {
+      "name": "Chunky Salsa",
+      "quantity": {
+        "kind": "ounces",
+        "value": "32"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "quantity": {
+        "kind": "cups",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "quantity": {
+        "kind": "limes",
+        "value": "2"
+      },
+      "notes": "after cooking"
+    },
+    {
+      "name": "Ground Cumin",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "2"
+      },
+      "notes": "smoked if you have it"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": "double it for more spice"
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Onion Powder",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Kosher Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Thaw pork completely in the refrigerator. "
+    },
+    {
+      "id": 1,
+      "text": "Remove the skin if it's attached. Trim only the thick, hard fat, leaving most of the fat in place."
+    },
+    {
+      "id": 2,
+      "text": "Cut the pork into 3–4 large chunks (about 2–3 pounds each)."
+    },
+    {
+      "id": 3,
+      "text": "Mix all of the rub ingredients together and coat the pork thoroughly (cumin, paprika, cayenne, garlic powder, onion powder, salt, black pepper)."
+    },
+    {
+      "id": 4,
+      "text": "(Optional) Sear: Turn the Instant Pot to Sauté and brown the pork on 2–3 sides, working in batches if needed. This adds extra flavor but isn't necessary if you're short on time."
+    },
+    {
+      "id": 5,
+      "text": "In the instant pot, add in this order: chicken broth, sliced onions, smashed garlic, pork, pour salsa over the top. Don't stir, the salsa on top helps prevent scorching."
+    },
+    {
+      "id": 6,
+      "text": "Lock the lid and set the valve to Sealing."
+    },
+    {
+      "id": 7,
+      "text": "Cook on High Pressure for 90 minutes."
+    },
+    {
+      "id": 8,
+      "text": "Allow a 20–30 minute natural pressure release, then vent any remaining pressure."
+    },
+    {
+      "id": 9,
+      "text": "Remove the pork from the pot, and pull out and discard the bone(s)."
+    },
+    {
+      "id": 10,
+      "text": "Shred the meat with two forks or meat claws."
+    },
+    {
+      "id": 11,
+      "text": "Return the shredded pork to the cooking juices (or just add juices to the shredded pork until your desired moisture)."
+    },
+    {
+      "id": 12,
+      "text": "Stir in the juice of 2 limes."
+    },
+    {
+      "id": 13,
+      "text": "If the pork seems too wet, turn on Sauté and simmer for 10–15 minutes until the liquid reduces to your liking."
+    },
+    {
+      "id": 14,
+      "text": "(Optional) This pork is actually even better the next day. If you have time, cook it ahead, refrigerate it in its cooking juices, then reheat gently before serving. The flavors meld together beautifully, and the meat stays incredibly moist."
+    }
+  ],
+  "keywords": [
+    "instantpot",
+    "instant",
+    "pot",
+    "salsa",
+    "pork",
+    "pulled",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "fats": 26,
+    "carbohydrates": 5,
+    "sugars": 3,
+    "protein": 40
+  }
+}
