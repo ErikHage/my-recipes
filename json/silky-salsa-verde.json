@@ -1,0 +1,110 @@
+{
+  "recipeId": "99dd4438-6f83-4434-a9c8-5fb1d8de4672",
+  "recipeName": "Silky Salsa Verde",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 10
+  },
+  "yield": {
+    "kind": "cups",
+    "value": 3
+  },
+  "ingredients": [
+    {
+      "name": "Tomatillos",
+      "quantity": {
+        "kind": "pound",
+        "value": "1"
+      },
+      "notes": "husks removed and rinsed"
+    },
+    {
+      "name": "Poblano",
+      "quantity": {
+        "kind": "",
+        "value": "1"
+      },
+      "notes": "halved and seeded"
+    },
+    {
+      "name": "Habanada",
+      "quantity": {
+        "kind": "",
+        "value": "1"
+      },
+      "notes": "halved and seeded"
+    },
+    {
+      "name": "White Onion",
+      "quantity": {
+        "kind": "large ",
+        "value": "0.5"
+      },
+      "notes": "peeled and separated"
+    },
+    {
+      "name": "Canola Oil",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": "add more to taste at the end"
+    },
+    {
+      "name": "Cilantro",
+      "quantity": {
+        "kind": "cup",
+        "value": "1"
+      },
+      "notes": "fresh, packed, with stems"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Position an oven rack 3 inches below the broiler and set the broiler to high."
+    },
+    {
+      "id": 1,
+      "text": "Toss the tomatillos, peppers, and onion with the oil in a large bowl."
+    },
+    {
+      "id": 2,
+      "text": "Transfer them to a half-sheet pan and broil until blistered and slightly charred, about 7 minutes. (Give the pan a shake every now and then to ensure even cooking.)"
+    },
+    {
+      "id": 3,
+      "text": "Let the charred vegetables cool slightly and then blend them on high with the cilantro and salt until smooth."
+    },
+    {
+      "id": 4,
+      "text": "Store tightly covered in the refrigerator for up to 2 weeks. Always serve at room temperature."
+    }
+  ],
+  "keywords": [
+    "salsa",
+    "green",
+    "tomatillo",
+    "pepper",
+    "onion"
+  ],
+  "nutrition": {
+    "calories": 92,
+    "fats": 3.7,
+    "carbohydrates": 12.7,
+    "sugars": 8,
+    "protein": 2
+  }
+}
