@@ -1,0 +1,105 @@
+{
+  "recipeId": "c286ac46-3a40-4034-a394-48d4870463f9",
+  "recipeName": "Creamy Mashed Potatoes",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 25
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 4
+  },
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "quantity": {
+        "kind": "pounds",
+        "value": "2"
+      },
+      "notes": "Yukon gold or similar"
+    },
+    {
+      "name": "Heavy Cream",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "8"
+      },
+      "notes": "cubed"
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.25"
+      },
+      "notes": "fresh ground"
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Peel the potatoes and cut into uniform 1/2-inch pieces.  Cover, set over high heat, and bring to a boil. "
+    },
+    {
+      "id": 1,
+      "text": "Place into a 4-quart saucepan and cover with cold water by at least 1 inch."
+    },
+    {
+      "id": 2,
+      "text": "Once boiling, remove the lid, decrease the heat to maintain a simmer, and cook until the potatoes can easily be crushed with a pair of tongs, 15 to 20 minutes. "
+    },
+    {
+      "id": 3,
+      "text": "Drain in a colander."
+    },
+    {
+      "id": 4,
+      "text": "Put the cream, butter, salt, and pepper into the now-empty 4-quart saucepan and place back over the heat until the butter has melted."
+    },
+    {
+      "id": 5,
+      "text": "Remove from the heat and set a food mill fitted with the smallest die on top of the pot. Add 1 cup of potatoes to the mill at a time. (or just use a potato masher)"
+    },
+    {
+      "id": 6,
+      "text": "Once all of the potatoes have passed through the mill, stir to combine. "
+    },
+    {
+      "id": 7,
+      "text": "Taste and adjust the seasoning, if desired. Serve immediately."
+    }
+  ],
+  "keywords": [
+    "potato",
+    "mashed",
+    "alton",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 481,
+    "fats": 34.2,
+    "carbohydrates": 40.5,
+    "sugars": 2,
+    "protein": 5.5
+  }
+}
