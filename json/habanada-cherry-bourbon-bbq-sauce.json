@@ -1,0 +1,184 @@
+{
+  "recipeId": "ee810810-9368-474a-aa45-1df4566a6689",
+  "recipeName": "Habanada Cherry Bourbon BBQ Sauce",
+  "prep": {
+    "kind": "minutes",
+    "value": 15
+  },
+  "cook": {
+    "kind": "minutes",
+    "value": 40
+  },
+  "yield": {
+    "kind": "servings",
+    "value": 20
+  },
+  "ingredients": [
+    {
+      "name": "Habanada peppers",
+      "quantity": {
+        "kind": "ounces",
+        "value": "8"
+      },
+      "notes": "stems removed"
+    },
+    {
+      "name": "Cherries",
+      "quantity": {
+        "kind": "cup",
+        "value": "1"
+      },
+      "notes": "fresh or frozen, pits removed"
+    },
+    {
+      "name": "Onion",
+      "quantity": {
+        "kind": "medium",
+        "value": "0.5"
+      },
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "quantity": {
+        "kind": "",
+        "value": "3"
+      },
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "quantity": {
+        "kind": "cup",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.33"
+      },
+      "notes": "(ACV)"
+    },
+    {
+      "name": "Brown Sugar",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.33"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Molasess",
+      "quantity": {
+        "kind": "cups",
+        "value": ""
+      },
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "quantity": {
+        "kind": "Tablespoon",
+        "value": "2"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "0.5"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "quantity": {
+        "kind": "teaspoon",
+        "value": "1"
+      },
+      "notes": ""
+    },
+    {
+      "name": "Bourbon",
+      "quantity": {
+        "kind": "cups",
+        "value": "0.25"
+      },
+      "notes": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": 0,
+      "text": "Add the habanadas, onion, garlic, and cherries to a saucepan with a small amount of oil."
+    },
+    {
+      "id": 1,
+      "text": "Sauté over medium heat for 5–7 minutes, until the onion softens."
+    },
+    {
+      "id": 2,
+      "text": "Add the tomato sauce, ⅓ cup apple cider vinegar, brown sugar, molasses, Worcestershire sauce, smoked paprika, black pepper, and salt."
+    },
+    {
+      "id": 3,
+      "text": "Bring to a gentle simmer."
+    },
+    {
+      "id": 4,
+      "text": "Cook uncovered for 25–30 minutes, stirring occasionally, until the peppers and cherries are very soft."
+    },
+    {
+      "id": 5,
+      "text": "Carefully blend the mixture with an immersion blender or regular blender until smooth."
+    },
+    {
+      "id": 6,
+      "text": "If you want a commercial-style sauce, strain it through a fine-mesh strainer. Return the blended sauce to the saucepan."
+    },
+    {
+      "id": 7,
+      "text": "Add ¼ cup bourbon to the sauce."
+    },
+    {
+      "id": 8,
+      "text": "Simmer uncovered for 5–10 minutes, stirring occasionally."
+    },
+    {
+      "id": 9,
+      "text": "Taste and adjust the sweetness, acidity, or salt as desired."
+    },
+    {
+      "id": 10,
+      "text": "Refrigerate sauce in airtight container for up to 1 week. Freeze in small portions for longer storage. Thaw in the refrigerator and reheat gently."
+    }
+  ],
+  "keywords": [
+    "habanada",
+    "bbq",
+    "sauce",
+    "cherry",
+    "bourbon",
+    "alcohol",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 55,
+    "fats": null,
+    "carbohydrates": 13,
+    "sugars": 10,
+    "protein": 0.3
+  }
+}
