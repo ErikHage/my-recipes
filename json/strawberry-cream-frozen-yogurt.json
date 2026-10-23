@@ -76,6 +76,10 @@
     "strawberry"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 310,
     "fats": 8.5,
     "carbohydrates": 45,

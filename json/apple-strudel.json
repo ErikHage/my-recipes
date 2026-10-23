@@ -165,6 +165,10 @@
     "baking"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 267.7,
     "fats": 8.9,
     "carbohydrates": 47,

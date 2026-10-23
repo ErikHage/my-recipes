@@ -136,6 +136,10 @@
     "talapia"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 165,
     "fats": 7,
     "carbohydrates": 3,

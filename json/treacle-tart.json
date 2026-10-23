@@ -159,6 +159,10 @@
     "british"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 442,
     "fats": 14.25,
     "carbohydrates": 74.6,

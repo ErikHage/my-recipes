@@ -100,5 +100,16 @@
     "thyme",
     "marinade",
     "grilling"
-  ]
+  ],
+  "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
+    "calories": null,
+    "fats": null,
+    "carbohydrates": null,
+    "sugars": null,
+    "protein": null
+  }
 }

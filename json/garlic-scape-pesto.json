@@ -107,6 +107,10 @@
     "cheese"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 56,
     "fats": 4,
     "carbohydrates": 4,

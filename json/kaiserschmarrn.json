@@ -101,6 +101,10 @@
     "austrian"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 315,
     "fats": 12,
     "carbohydrates": 38,

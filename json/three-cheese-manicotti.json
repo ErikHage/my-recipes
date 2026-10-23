@@ -162,6 +162,10 @@
     "manicotti"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 222,
     "fats": 9.6,
     "carbohydrates": 21.7,

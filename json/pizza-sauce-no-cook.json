@@ -101,6 +101,10 @@
     "no cook"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 14,
     "fats": 0.3,
     "carbohydrates": 2.8,

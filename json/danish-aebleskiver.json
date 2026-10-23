@@ -138,6 +138,10 @@
     "filled"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 478,
     "fats": 20,
     "carbohydrates": 57,

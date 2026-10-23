@@ -175,6 +175,10 @@
     "tomato"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 55,
     "fats": null,
     "carbohydrates": 13,

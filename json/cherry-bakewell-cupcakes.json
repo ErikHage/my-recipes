@@ -156,6 +156,10 @@
     "lemon"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 303,
     "fats": 9.5,
     "carbohydrates": 51.6,

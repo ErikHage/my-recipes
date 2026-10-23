@@ -191,6 +191,10 @@
     "meat"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 420,
     "fats": 26,
     "carbohydrates": 5,

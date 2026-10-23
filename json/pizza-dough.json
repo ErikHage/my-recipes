@@ -116,6 +116,10 @@
     "food network"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 259,
     "fats": 4,
     "carbohydrates": 48.2,

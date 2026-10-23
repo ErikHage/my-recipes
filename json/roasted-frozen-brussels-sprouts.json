@@ -91,6 +91,10 @@
     "vegetable"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 90,
     "fats": 5.1,
     "carbohydrates": 8,

@@ -137,6 +137,10 @@
     "chilled"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 301,
     "fats": 16.7,
     "carbohydrates": 36.4,

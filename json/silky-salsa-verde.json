@@ -101,6 +101,10 @@
     "onion"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 92,
     "fats": 3.7,
     "carbohydrates": 12.7,

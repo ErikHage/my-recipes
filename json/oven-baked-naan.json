@@ -164,6 +164,10 @@
     "flat"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 205,
     "fats": 4.8,
     "carbohydrates": 34,

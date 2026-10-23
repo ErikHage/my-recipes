@@ -104,6 +104,10 @@
     "fruit"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 73,
     "fats": 0.5,
     "carbohydrates": 5.25,

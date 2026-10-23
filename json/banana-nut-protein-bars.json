@@ -135,6 +135,10 @@
     "nuts"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 144.5,
     "fats": 7,
     "carbohydrates": 14,

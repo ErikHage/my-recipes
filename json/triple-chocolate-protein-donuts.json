@@ -161,6 +161,10 @@
     "buff dudes"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 153,
     "fats": 8.5,
     "carbohydrates": 13,

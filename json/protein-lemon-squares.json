@@ -143,6 +143,10 @@
     "yogurt"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 119,
     "fats": 5,
     "carbohydrates": 6,

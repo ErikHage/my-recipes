@@ -155,6 +155,10 @@
     "gingerbread"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 129,
     "fats": 3.1,
     "carbohydrates": 23.3,

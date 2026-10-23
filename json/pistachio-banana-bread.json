@@ -166,6 +166,10 @@
     "bake"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 299,
     "fats": 11.8,
     "carbohydrates": 44.9,

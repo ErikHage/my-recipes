@@ -73,6 +73,10 @@
     "dessert"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 177,
     "fats": 5.9,
     "carbohydrates": 30.5,

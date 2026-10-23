@@ -139,6 +139,10 @@
     "quickbread"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 259,
     "fats": 12,
     "carbohydrates": 35.7,

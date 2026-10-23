@@ -168,6 +168,10 @@
     "bread"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 206,
     "fats": 10,
     "carbohydrates": 24.8,

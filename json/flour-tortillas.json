@@ -95,6 +95,10 @@
     "mexican"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 193,
     "fats": 8.9,
     "carbohydrates": 24.3,

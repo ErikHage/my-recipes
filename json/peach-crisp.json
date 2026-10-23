@@ -112,6 +112,10 @@
     "baked"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 407,
     "fats": 16.1,
     "carbohydrates": 66.4,

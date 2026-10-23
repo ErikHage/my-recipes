@@ -67,6 +67,10 @@
     "italian"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 38,
     "fats": 1,
     "carbohydrates": 9,

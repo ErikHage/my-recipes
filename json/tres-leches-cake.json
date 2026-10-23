@@ -181,6 +181,10 @@
     "cake"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 370,
     "fats": 18.9,
     "carbohydrates": 44.8,

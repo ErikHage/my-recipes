@@ -64,6 +64,10 @@
     "latin"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 312,
     "fats": 12,
     "carbohydrates": 57,

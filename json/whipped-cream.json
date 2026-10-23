@@ -67,6 +67,10 @@
     "whipped"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 212,
     "fats": 22.2,
     "carbohydrates": 2.7,

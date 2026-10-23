@@ -171,6 +171,10 @@
     "slow cooker"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 311,
     "fats": 4,
     "carbohydrates": 40,

@@ -8,7 +8,7 @@
   "cook": {
     "kind": "minutes",
     "value": 25
-  },  
+  },
   "yield": {
     "kind": "servings",
     "value": 8
@@ -96,6 +96,10 @@
     "tomato"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 178,
     "fats": 13.4,
     "carbohydrates": 14.6,

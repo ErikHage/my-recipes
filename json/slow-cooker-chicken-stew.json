@@ -214,6 +214,10 @@
     "protein"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 359,
     "fats": 12,
     "carbohydrates": 28,

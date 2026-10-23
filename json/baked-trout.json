@@ -135,6 +135,10 @@
     "oven"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 242,
     "fats": 17.1,
     "carbohydrates": 1.7,

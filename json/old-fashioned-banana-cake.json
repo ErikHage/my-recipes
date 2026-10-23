@@ -196,6 +196,10 @@
     "nuts"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 384,
     "fats": 19.6,
     "carbohydrates": 50.8,

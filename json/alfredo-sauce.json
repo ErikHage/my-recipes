@@ -1,4 +1,4 @@
- {
+{
   "recipeId": "d5baa7af-08da-46e2-9099-2e8a4f91c001",
   "recipeName": "Alfredo Sauce",
   "prep": {
@@ -76,5 +76,16 @@
   "keywords": [
     "sauce",
     "cheese"
-  ]
+  ],
+  "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
+    "calories": null,
+    "fats": null,
+    "carbohydrates": null,
+    "sugars": null,
+    "protein": null
+  }
 }

@@ -132,6 +132,10 @@
     "cream"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 302,
     "fats": 22.3,
     "carbohydrates": 25.3,

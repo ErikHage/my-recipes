@@ -124,6 +124,10 @@
     "no bake"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 457,
     "fats": 32.5,
     "carbohydrates": 39,

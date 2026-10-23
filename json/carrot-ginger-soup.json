@@ -121,6 +121,10 @@
     "puree"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 265,
     "fats": 12,
     "carbohydrates": 32,

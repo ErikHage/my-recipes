@@ -155,6 +155,10 @@
     "frozen"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 667,
     "fats": 38,
     "carbohydrates": 70,

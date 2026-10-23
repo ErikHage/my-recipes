@@ -143,6 +143,10 @@
     "sauce"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 571,
     "fats": 34,
     "carbohydrates": 47,

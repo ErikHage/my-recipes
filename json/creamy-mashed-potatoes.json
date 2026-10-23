@@ -96,6 +96,10 @@
     "butter"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 481,
     "fats": 34.2,
     "carbohydrates": 40.5,

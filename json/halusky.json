@@ -111,6 +111,10 @@
     "dumpling"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 580,
     "fats": 23.9,
     "carbohydrates": 65.1,

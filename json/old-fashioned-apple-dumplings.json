@@ -145,6 +145,10 @@
     "pastry"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 768,
     "fats": 37.1,
     "carbohydrates": 114.4,

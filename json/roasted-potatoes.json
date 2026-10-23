@@ -98,6 +98,10 @@
     "roasted"
   ],
   "nutrition": {
+    "servingSize": {
+      "type": "",
+      "value": null
+    },
     "calories": 107,
     "fats": 5.1,
     "carbohydrates": 14,
