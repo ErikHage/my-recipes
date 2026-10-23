@@ -171,8 +171,8 @@
   ],
   "nutrition": {
     "servingSize": {
-      "type": "",
-      "value": null
+      "type": "slice",
+      "value": 1
     },
     "calories": null,
     "fats": null,
