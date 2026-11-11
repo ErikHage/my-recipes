@@ -170,8 +170,8 @@
   ],
   "nutrition": {
     "servingSize": {
-      "type": "bowls",
-      "value": 5
+      "type": "cup",
+      "value": 1
     },
     "calories": 275,
     "fats": 9,
